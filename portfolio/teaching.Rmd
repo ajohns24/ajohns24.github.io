@@ -1,0 +1,81 @@
+---
+title: Teaching
+draft: false
+image: img/portfolio/st_paul.jpg
+showonlyimage: false
+weight: 3
+---
+
+The best part of my job?  Definitely teaching.
+
+<!--more-->
+
+## Courses
+
+I'm lucky to work in a department that's always innovating, both in the *way* we teach and *what* we teach.  We continually tweak our existing curriculum and develop new courses that reflect the ever-evolving fields of statistics and data science.  
+
+The courses I teach at Macalester are listed below.  I'm always open to new ideas and sharing materials.  Please contact me!
+
+
+- **COMP/STAT 112: Introduction to Data Science**    
+    An intro to Data Science that was co-developed by a team of statisticians, computer scientists, and applied mathematicians. Topics span data wrangling, visualization, acquisition, and communication.
+    
+    
+    
+\
+
+
+- **STAT 155: Introduction to Statistical Modeling**    
+    A modern alternative to the traditional introductory course.  By emphasizing statistical literacy and computing, STAT 155 covers traditional topics (eg: confidence intervals and hypothesis tests) in the multivariate regression modeling context.        
+    [Most recent course manual.](https://ajohns24.github.io/155_Spring_2019/)
+    
+
+\
+
+
+
+- **STAT 253: Statistical Machine Learning**    
+    A sequel to STAT 155. Topics include supervised learning techniques (including regression and classification) and unsupervised learning techniques (including clustering and dimension reduction).    
+    [Most recent course manual.](https://ajohns24.github.io/253_Fall_2019/)
+ 
+\
+
+
+
+- **MATH/STAT 354: Probability**    
+    An introduction to probability theory and application.  Fundamental topics include set theory, combinatorics, conditional probability, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems.  Special topics vary and include computer simulation, stochastic processes, and advanced applications.    
+    [Most recent course manual.](https://ajohns24.github.io/354_Spring_20/)  Disclaimer: This is from Spring 2020, thus the latter half of material might normally look quite different.
+
+
+\
+
+
+
+- **STAT 454: Bayesian Statistics**    
+    I developed Macalester's first Bayesian course.  Course topics include Bayesian philosophy, posterior inference, hierarchical models, and MCMC computing techniques. Please see the **Bayes' Rules!** section for information about a book I'm co-writing for courses such as mine.    
+    [Most recent course manual.](https://ajohns24.github.io/454_Spring_20/)  Disclaimer: This is from Spring 2020, thus the latter half of material might normally look quite different.
+
+
+\
+
+
+
+- **MATH/STAT 455: Mathematical Statistics**    
+    An important course for students considering graduate work in statistics or biostatistics, MATH/STAT 455 explores the mathematics underlying modern statistical applications. Topics include: classical techniques for parameter estimation and evaluation of estimator properties, hypothesis testing, confidence intervals, and linear regression. Special topics vary and include: tests of independence, resampling techniques, introductory Bayesian concepts, and nonparametric methods.
+
+
+\
+\
+
+
+
+## Workshops
+
+Beyond the undergraduate classroom, I've offered several workshops through the following organizations (and more).
+
+
+
+
+- the [Institute for Research in Statistics and its Applications](http://irsa.stat.umn.edu/) at the University of Minnesota    
+- the [Institute for Mathematics and its Applications](https://www.ima.umn.edu/) at the University of Minnesota
+- [StatPrep](http://statprep.org/)

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alicia Johnson</title>
+    <link>/</link>
+    <description>Recent content on Alicia Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayes Rules!</title>
+      <link>/portfolio/bayes_rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/bayes_rules/</guid>
+      <description>
+
+
+&lt;p&gt;I’m currently collaborating on an open source introductory text for Bayesian Statistics!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scholarship</title>
+      <link>/portfolio/scholarship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/scholarship/</guid>
+      <description>
+
+
+&lt;p&gt;My scholarship spans statistical theory, applications, &amp;amp; engagement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/portfolio/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/teaching/</guid>
+      <description>
+
+
+&lt;p&gt;The best part of my job? Definitely teaching.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macalester College</title>
+      <link>/portfolio/mac/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/mac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
