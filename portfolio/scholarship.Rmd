@@ -6,7 +6,7 @@ showonlyimage: false
 weight: 2
 ---
 
-My scholarship spans statistical theory, applications, & engagement. 
+My scholarship spans statistical theory, applications, & engagement.
 
 
 <!--more-->
