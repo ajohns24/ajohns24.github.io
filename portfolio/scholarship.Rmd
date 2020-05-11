@@ -3,7 +3,7 @@ title: Scholarship
 draft: false
 image: img/portfolio/dizzy.jpg
 showonlyimage: false
-weight: 2
+weight: 4
 ---
 
 My scholarship spans statistical theory, applications, & engagement.

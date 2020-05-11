@@ -6,7 +6,6 @@
     <description>Recent content in Portfolios on Alicia Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -38,6 +37,15 @@
     </item>
     
     <item>
+      <title>Macalester College</title>
+      <link>/portfolio/mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scholarship</title>
       <link>/portfolio/scholarship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,15 +69,6 @@
 
 &lt;p&gt;The best part of my job? Definitely teaching.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Macalester College</title>
-      <link>/portfolio/mac/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/mac/</guid>
-      <description></description>
     </item>
     
   </channel>

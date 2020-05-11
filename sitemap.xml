@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>/portfolio/mac/</loc>
+  </url>
+  
+  <url>
     <loc>/portfolio/scholarship/</loc>
   </url>
   
@@ -19,28 +23,21 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/mac/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
   <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
     <priority>0</priority>
   </url>
   

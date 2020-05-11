@@ -3,7 +3,7 @@ title: Teaching
 draft: false
 image: img/portfolio/st_paul.jpg
 showonlyimage: false
-weight: 3
+weight: 5
 ---
 
 The best part of my job?  Definitely teaching.
