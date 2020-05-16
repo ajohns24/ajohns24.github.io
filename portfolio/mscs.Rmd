@@ -1,0 +1,22 @@
+---
+draft: false
+image: img/portfolio/zoom_mscs.png
+showonlyimage: true
+title: MSCS Department
+weight: 6
+---
+
+
+
+<!--more-->
+
+
+![](/portfolio/work1_files/zoom_mscs.png)
+
+
+\
+\
+
+
+The Mathematics, Statistics, and Computer Science department at Macalester College celebrates our 90 graduating majors in the Class of 2020!  We are in awe of your strength, humor, and creativity.
+
