@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alicia Johnson</title>
-    <link>/</link>
+    <link>https://ajohns24.github.io/</link>
     <description>Recent content on Alicia Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ajohns24.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/portfolio/about/</link>
+      <link>https://ajohns24.github.io/portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/about/</guid>
+      <guid>https://ajohns24.github.io/portfolio/about/</guid>
       <description>
 
 
@@ -25,10 +25,10 @@
     
     <item>
       <title>Bayes Rules!</title>
-      <link>/portfolio/bayes_rules/</link>
+      <link>https://ajohns24.github.io/portfolio/bayes_rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/bayes_rules/</guid>
+      <guid>https://ajohns24.github.io/portfolio/bayes_rules/</guid>
       <description>
 
 
@@ -38,19 +38,19 @@
     
     <item>
       <title>Macalester College</title>
-      <link>/portfolio/mac/</link>
+      <link>https://ajohns24.github.io/portfolio/mac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/mac/</guid>
+      <guid>https://ajohns24.github.io/portfolio/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scholarship</title>
-      <link>/portfolio/scholarship/</link>
+      <link>https://ajohns24.github.io/portfolio/scholarship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/scholarship/</guid>
+      <guid>https://ajohns24.github.io/portfolio/scholarship/</guid>
       <description>
 
 
@@ -60,10 +60,10 @@
     
     <item>
       <title>Teaching</title>
-      <link>/portfolio/teaching/</link>
+      <link>https://ajohns24.github.io/portfolio/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/teaching/</guid>
+      <guid>https://ajohns24.github.io/portfolio/teaching/</guid>
       <description>
 
 
@@ -73,10 +73,10 @@
     
     <item>
       <title>MSCS Department</title>
-      <link>/portfolio/mscs/</link>
+      <link>https://ajohns24.github.io/portfolio/mscs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/mscs/</guid>
+      <guid>https://ajohns24.github.io/portfolio/mscs/</guid>
       <description>
 
 
