@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alicia Johnson</title>
@@ -6,6 +6,7 @@
     <description>Recent content on Alicia Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2020 Alicia Johnson</copyright>
     
 	<atom:link href="https://ajohns24.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,11 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/about/</guid>
-      <description>
-
-
-&lt;p&gt;Hello! I’m an Associate Professor of Statistics at Macalester College.&lt;/p&gt;
-</description>
+      <description>Hello! I’m an Associate Professor of Statistics at Macalester College.
+ Hello! I’m an Associate Professor of Statistics in the Department of Mathematics, Statistics, &amp;amp; Computer Science at Macalester College in Saint Paul, MN. I earned my PhD in Statistics from the University of Minnesota in July 2009. Before returning to graduate school, I lived in Colorado where I received my MS in statistics from Colorado State University and worked as a statistical consultant at a division of the Centers for Disease Control and Prevention, the Division of Vector-Borne Diseases (think bugs).</description>
     </item>
     
     <item>
@@ -29,11 +27,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/bayes_rules/</guid>
-      <description>
+      <description>I’m currently collaborating on an open source introduction to Bayesian Statistics.
+ I’m currently collaborating on an open source introductory text for Bayesian Statistics. And yes, it’s really called Bayes Rules!. With an exclamation point. This is a joint project with the fantastic Miles Ott (@Miles_Ott) and Mine Dogucu (@MineDogucu). This is us at our first writing retreat:
 
-
-&lt;p&gt;I’m currently collaborating on an open source introduction to Bayesian Statistics.&lt;/p&gt;
-</description>
+ Check it out!
+You can find some sample (draft) chapters here.</description>
     </item>
     
     <item>
@@ -42,7 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/mac/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -51,11 +49,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/scholarship/</guid>
-      <description>
+      <description>My scholarship spans statistical theory, applications, &amp;amp; engagement.
+ My scholarship spans statistical theory, applications, and engagement. These interests are complementary. Developments in statistical theory provide improved tools with broad applications and opportunities for engagement. In turn, applications and engagement in specialized settings can illustrate weaknesses in the current theory.
 
-
-&lt;p&gt;My scholarship spans statistical theory, applications, &amp;amp; engagement.&lt;/p&gt;
-</description>
+ Statistical Theory
+My theoretical research investigates Markov chain Monte Carlo (MCMC) simulation techniques and their application in Bayesian analysis.</description>
     </item>
     
     <item>
@@ -64,11 +62,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/teaching/</guid>
-      <description>
-
-
-&lt;p&gt;The best part of my job? Definitely teaching.&lt;/p&gt;
-</description>
+      <description>The best part of my job? Definitely teaching.
+ Courses I’m lucky to work in a department that’s always innovating, both in the way we teach and what we teach. We continually tweak our existing curriculum and develop new courses that reflect the ever-evolving fields of statistics and data science.
+The courses I teach at Macalester are listed below. I’m always open to new ideas and sharing materials. Please contact me!</description>
     </item>
     
     <item>
@@ -77,10 +73,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/mscs/</guid>
-      <description>
-
-
-</description>
+      <description>The Mathematics, Statistics, and Computer Science department at Macalester College celebrates our 90 graduating majors in the Class of 2020! We are in awe of your strength, humor, and creativity.</description>
     </item>
     
   </channel>
