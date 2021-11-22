@@ -1,52 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ajohns24.github.io/portfolio/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/bayes_rules/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/mac/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/scholarship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/teaching/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/mscs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/portfolio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ajohns24.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

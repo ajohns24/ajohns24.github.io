@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alicia Johnson</title>
     <link>https://ajohns24.github.io/</link>
     <description>Recent content on Alicia Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2020 Alicia Johnson</copyright>
-    
-	<atom:link href="https://ajohns24.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ajohns24.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://ajohns24.github.io/portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/about/</guid>
-      <description>&lt;p&gt;Hello! I&amp;rsquo;m an Associate Professor of Statistics at Macalester College.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m an Associate Professor of Statistics at Macalester College.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/bayes_rules/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m the co-author of &lt;em&gt;Bayes Rules! An introduction to Bayesian modeling with R&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m the co-author of &lt;em&gt;Bayes Rules! An introduction to applied Bayesian modeling&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/mac/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -48,9 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/scholarship/</guid>
-      <description>&lt;p&gt;My scholarship spans statistical theory, applications, &amp;amp; communication.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;My scholarship spans statistical theory, applications, &amp;amp; communication.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -59,9 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/teaching/</guid>
-      <description>&lt;p&gt;The most rewarding part of my job? Definitely teaching.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The most rewarding part of my job? Definitely teaching.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,7 +57,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ajohns24.github.io/portfolio/mscs/</guid>
-      <description>The Mathematics, Statistics, and Computer Science department at Macalester College celebrates our 90 graduating majors in the Class of 2020! We are in awe of your strength, humor, and creativity.</description>
+      <description>
+
+
+</description>
     </item>
     
   </channel>
