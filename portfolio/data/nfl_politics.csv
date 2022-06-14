@@ -1,0 +1,1450 @@
+DMA,state,region,avg_temp,republican,has_nfl_team,activity,market_share,name
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,NFL,45,Texas
+Albany GA,GA,South,63.5,59.12,yes,NFL,32,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,NFL,40,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,NFL,53,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,NFL,42,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,NFL,28,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,NFL,47,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,NFL,36,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,NFL,39,Georgia
+Austin TX,TX,South,64.8,40.01,yes,NFL,40,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,NFL,48,California
+Baltimore MD,MD,South,54.2,39.28,yes,NFL,45,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,NFL,39,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,NFL,40,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,NFL,45,Texas
+Bend OR,OR,West,48.4,46.36,no,NFL,39,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,NFL,50,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,NFL,43,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,NFL,41,New York
+Birmingham AL,AL,South,62.8,62.35,no,NFL,26,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,NFL,34,West Virginia
+Boise ID,ID,West,44.4,55.59,no,NFL,43,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,NFL,37,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,NFL,36,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,NFL,41,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,NFL,36,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,NFL,48,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,NFL,53,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,NFL,39,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,NFL,30,Illinois
+Charleston SC,SC,South,62.4,48.74,no,NFL,40,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,NFL,33,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,NFL,41,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,NFL,37,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,NFL,31,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,NFL,51,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,NFL,33,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,NFL,44,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,NFL,38,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,NFL,35,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,NFL,34,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,NFL,52,Colorado
+Columbia SC,SC,South,62.4,61.12,no,NFL,36,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,NFL,33,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,NFL,30,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,NFL,33,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,NFL,39,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,NFL,47,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,NFL,40,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,NFL,38,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,NFL,40,Ohio
+Denver CO,CO,West,45.1,40.73,yes,NFL,49,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,NFL,39,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,NFL,30,Michigan
+Dothan AL,AL,South,62.8,73.61,no,NFL,29,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,NFL,43,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,NFL,54,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,NFL,44,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,NFL,44,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,NFL,34,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,NFL,37,California
+Evansville IN,IN,North Central,51.7,65.84,yes,NFL,30,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,NFL,44,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,NFL,31,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,NFL,37,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,NFL,46,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,NFL,38,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,NFL,35,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,NFL,39,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,NFL,32,Florida
+Glendive MT,MT,West,42.7,77.21,no,NFL,56,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,NFL,54,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,NFL,30,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,NFL,50,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,NFL,51,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,NFL,38,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,NFL,40,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,NFL,34,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,NFL,33,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,NFL,50,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,NFL,43,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,NFL,42,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,NFL,38,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,NFL,40,Mississippi
+Helena MT,MT,West,42.7,51.48,no,NFL,52,Montana
+Honolulu HI,HI,West,70,30.04,no,NFL,43,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,NFL,42,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,NFL,27,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,NFL,44,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,NFL,37,Indiana
+Jackson MS,MS,South,63.4,49.42,no,NFL,38,Mississippi
+Jackson TN,TN,South,57.6,68,yes,NFL,32,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,NFL,42,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,NFL,37,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,NFL,31,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,NFL,41,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,NFL,36,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,NFL,32,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,NFL,48,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,NFL,33,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,NFL,45,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,NFL,43,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,NFL,26,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,NFL,44,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,NFL,38,Nevada
+Lexington KY,KY,South,55.6,63.82,no,NFL,22,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,NFL,36,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,NFL,33,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,NFL,32,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,NFL,34,California
+Louisville KY,KY,South,55.6,54.68,no,NFL,26,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,NFL,42,Texas
+Macon GA,GA,South,63.5,54.2,yes,NFL,34,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,NFL,43,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,NFL,44,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,NFL,41,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,NFL,42,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,NFL,33,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,NFL,28,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,NFL,31,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,NFL,42,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,NFL,41,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,NFL,50,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,NFL,49,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,NFL,34,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,NFL,38,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,NFL,38,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,NFL,24,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,NFL,35,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,NFL,45,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,NFL,32,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,NFL,47,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,NFL,38,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,NFL,48,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,NFL,32,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,NFL,34,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,NFL,35,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,NFL,37,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,NFL,29,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,NFL,41,California
+Panama City FL,FL,South,70.7,72.62,yes,NFL,32,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,NFL,36,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,NFL,33,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,NFL,40,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,NFL,44,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,NFL,33,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,NFL,33,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,NFL,39,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,NFL,31,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,NFL,41,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,NFL,34,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,NFL,37,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,NFL,51,South Dakota
+Reno NV,NV,West,49.9,51.55,no,NFL,42,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,NFL,43,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,NFL,35,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,NFL,45,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,NFL,44,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,NFL,40,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,NFL,40,California
+Salisbury MD,MD,South,54.2,57.38,yes,NFL,44,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,NFL,39,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,NFL,46,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,NFL,39,Texas
+San Diego CA,CA,West,59.4,37.02,yes,NFL,43,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,NFL,34,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,NFL,38,California
+Savannah GA,GA,South,63.5,54.52,yes,NFL,37,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,NFL,47,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,NFL,38,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,NFL,41,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,NFL,40,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,NFL,48,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,NFL,32,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,NFL,45,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,NFL,38,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,NFL,39,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,NFL,42,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,NFL,32,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,NFL,38,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,NFL,32,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,NFL,37,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,NFL,38,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,NFL,35,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,NFL,37,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,NFL,31,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,NFL,33,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,NFL,39,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,NFL,33,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,NFL,45,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,NFL,42,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,NFL,38,New York
+Victoria TX,TX,South,64.8,68.36,yes,NFL,45,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,NFL,39,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,NFL,43,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,NFL,39,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,NFL,49,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,NFL,31,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,NFL,38,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,NFL,40,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,NFL,42,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,NFL,43,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,NFL,40,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,NFL,52,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,NFL,41,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,NFL,47,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,NFL,36,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,NBA,21,Texas
+Albany GA,GA,South,63.5,59.12,yes,NBA,30,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,NBA,20,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,NBA,21,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,NBA,28,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,NBA,13,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,NBA,22,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,NBA,28,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,NBA,26,Georgia
+Austin TX,TX,South,64.8,40.01,yes,NBA,29,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,NBA,26,California
+Baltimore MD,MD,South,54.2,39.28,yes,NBA,20,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,NBA,20,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,NBA,29,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,NBA,27,Texas
+Bend OR,OR,West,48.4,46.36,no,NBA,24,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,NBA,17,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,NBA,23,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,NBA,19,New York
+Birmingham AL,AL,South,62.8,62.35,no,NBA,22,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,NBA,20,West Virginia
+Boise ID,ID,West,44.4,55.59,no,NBA,20,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,NBA,25,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,NBA,18,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,NBA,16,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,NBA,19,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,NBA,17,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,NBA,16,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,NBA,20,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,NBA,24,Illinois
+Charleston SC,SC,South,62.4,48.74,no,NBA,22,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,NBA,19,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,NBA,23,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,NBA,22,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,NBA,21,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,NBA,16,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,NBA,28,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,NBA,24,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,NBA,20,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,NBA,17,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,NBA,33,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,NBA,17,Colorado
+Columbia SC,SC,South,62.4,61.12,no,NBA,26,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,NBA,19,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,NBA,27,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,NBA,24,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,NBA,23,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,NBA,29,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,NBA,28,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,NBA,18,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,NBA,21,Ohio
+Denver CO,CO,West,45.1,40.73,yes,NBA,19,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,NBA,19,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,NBA,26,Michigan
+Dothan AL,AL,South,62.8,73.61,no,NBA,21,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,NBA,15,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,NBA,25,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,NBA,14,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,NBA,16,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,NBA,28,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,NBA,26,California
+Evansville IN,IN,North Central,51.7,65.84,yes,NBA,21,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,NBA,18,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,NBA,20,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,NBA,22,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,NBA,26,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,NBA,21,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,NBA,25,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,NBA,21,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,NBA,26,Florida
+Glendive MT,MT,West,42.7,77.21,no,NBA,14,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,NBA,15,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,NBA,19,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,NBA,19,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,NBA,16,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,NBA,23,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,NBA,21,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,NBA,20,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,NBA,39,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,NBA,33,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,NBA,16,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,NBA,20,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,NBA,24,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,NBA,24,Mississippi
+Helena MT,MT,West,42.7,51.48,no,NBA,15,Montana
+Honolulu HI,HI,West,70,30.04,no,NBA,29,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,NBA,32,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,NBA,22,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,NBA,24,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,NBA,28,Indiana
+Jackson MS,MS,South,63.4,49.42,no,NBA,31,Mississippi
+Jackson TN,TN,South,57.6,68,yes,NBA,28,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,NBA,23,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,NBA,14,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,NBA,28,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,NBA,18,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,NBA,18,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,NBA,19,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,NBA,16,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,NBA,30,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,NBA,28,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,NBA,27,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,NBA,21,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,NBA,39,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,NBA,27,Nevada
+Lexington KY,KY,South,55.6,63.82,no,NBA,20,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,NBA,22,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,NBA,19,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,NBA,28,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,NBA,35,California
+Louisville KY,KY,South,55.6,54.68,no,NBA,21,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,NBA,25,Texas
+Macon GA,GA,South,63.5,54.2,yes,NBA,29,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,NBA,18,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,NBA,18,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,NBA,13,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,NBA,23,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,NBA,36,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,NBA,29,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,NBA,41,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,NBA,25,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,NBA,21,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,NBA,17,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,NBA,17,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,NBA,21,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,NBA,31,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,NBA,31,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,NBA,28,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,NBA,21,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,NBA,28,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,NBA,32,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,NBA,23,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,NBA,17,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,NBA,24,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,NBA,33,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,NBA,20,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,NBA,28,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,NBA,16,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,NBA,21,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,NBA,23,California
+Panama City FL,FL,South,70.7,72.62,yes,NBA,19,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,NBA,18,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,NBA,21,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,NBA,25,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,NBA,23,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,NBA,13,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,NBA,33,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,NBA,19,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,NBA,26,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,NBA,24,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,NBA,18,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,NBA,25,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,NBA,17,South Dakota
+Reno NV,NV,West,49.9,51.55,no,NBA,22,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,NBA,24,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,NBA,22,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,NBA,18,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,NBA,18,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,NBA,21,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,NBA,33,California
+Salisbury MD,MD,South,54.2,57.38,yes,NBA,18,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,NBA,32,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,NBA,24,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,NBA,39,Texas
+San Diego CA,CA,West,59.4,37.02,yes,NBA,26,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,NBA,36,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,NBA,30,California
+Savannah GA,GA,South,63.5,54.52,yes,NBA,26,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,NBA,21,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,NBA,25,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,NBA,28,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,NBA,18,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,NBA,19,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,NBA,21,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,NBA,16,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,NBA,18,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,NBA,24,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,NBA,18,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,NBA,18,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,NBA,23,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,NBA,25,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,NBA,21,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,NBA,21,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,NBA,21,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,NBA,18,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,NBA,15,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,NBA,17,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,NBA,21,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,NBA,28,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,NBA,22,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,NBA,24,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,NBA,20,New York
+Victoria TX,TX,South,64.8,68.36,yes,NBA,30,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,NBA,27,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,NBA,24,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,NBA,16,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,NBA,14,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,NBA,34,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,NBA,15,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,NBA,26,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,NBA,21,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,NBA,16,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,NBA,20,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,NBA,19,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,NBA,23,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,NBA,22,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,NBA,21,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,MLB,14,Texas
+Albany GA,GA,South,63.5,59.12,yes,MLB,9,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,MLB,20,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,MLB,11,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,MLB,9,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,MLB,21,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,MLB,12,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,MLB,10,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,MLB,8,Georgia
+Austin TX,TX,South,64.8,40.01,yes,MLB,11,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,MLB,14,California
+Baltimore MD,MD,South,54.2,39.28,yes,MLB,20,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,MLB,19,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,MLB,8,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,MLB,12,Texas
+Bend OR,OR,West,48.4,46.36,no,MLB,13,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,MLB,12,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,MLB,9,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,MLB,17,New York
+Birmingham AL,AL,South,62.8,62.35,no,MLB,10,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,MLB,10,West Virginia
+Boise ID,ID,West,44.4,55.59,no,MLB,11,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,MLB,17,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,MLB,10,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,MLB,11,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,MLB,18,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,MLB,12,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,MLB,10,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,MLB,15,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,MLB,25,Illinois
+Charleston SC,SC,South,62.4,48.74,no,MLB,10,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,MLB,10,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,MLB,9,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,MLB,12,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,MLB,11,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,MLB,11,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,MLB,19,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,MLB,18,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,MLB,16,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,MLB,12,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,MLB,16,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,MLB,12,Colorado
+Columbia SC,SC,South,62.4,61.12,no,MLB,8,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,MLB,23,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,MLB,9,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,MLB,12,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,MLB,9,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,MLB,10,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,MLB,13,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,MLB,21,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,MLB,12,Ohio
+Denver CO,CO,West,45.1,40.73,yes,MLB,13,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,MLB,15,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,MLB,16,Michigan
+Dothan AL,AL,South,62.8,73.61,no,MLB,8,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,MLB,13,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,MLB,10,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,MLB,15,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,MLB,15,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,MLB,12,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,MLB,23,California
+Evansville IN,IN,North Central,51.7,65.84,yes,MLB,14,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,MLB,12,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,MLB,16,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,MLB,12,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,MLB,15,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,MLB,15,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,MLB,12,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,MLB,14,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,MLB,9,Florida
+Glendive MT,MT,West,42.7,77.21,no,MLB,13,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,MLB,12,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,MLB,16,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,MLB,11,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,MLB,14,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,MLB,9,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,MLB,11,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,MLB,11,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,MLB,8,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,MLB,10,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,MLB,17,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,MLB,12,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,MLB,19,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,MLB,8,Mississippi
+Helena MT,MT,West,42.7,51.48,no,MLB,11,Montana
+Honolulu HI,HI,West,70,30.04,no,MLB,11,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,MLB,12,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,MLB,9,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,MLB,10,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,MLB,12,Indiana
+Jackson MS,MS,South,63.4,49.42,no,MLB,8,Mississippi
+Jackson TN,TN,South,57.6,68,yes,MLB,13,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,MLB,9,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,MLB,17,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,MLB,15,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,MLB,18,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,MLB,25,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,MLB,11,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,MLB,14,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,MLB,13,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,MLB,8,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,MLB,9,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,MLB,13,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,MLB,10,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,MLB,16,Nevada
+Lexington KY,KY,South,55.6,63.82,no,MLB,8,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,MLB,13,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,MLB,13,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,MLB,16,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,MLB,16,California
+Louisville KY,KY,South,55.6,54.68,no,MLB,9,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,MLB,12,Texas
+Macon GA,GA,South,63.5,54.2,yes,MLB,10,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,MLB,14,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,MLB,14,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,MLB,15,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,MLB,15,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,MLB,9,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,MLB,14,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,MLB,13,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,MLB,16,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,MLB,14,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,MLB,11,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,MLB,12,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,MLB,10,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,MLB,9,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,MLB,19,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,MLB,8,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,MLB,10,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,MLB,8,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,MLB,19,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,MLB,11,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,MLB,10,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,MLB,12,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,MLB,9,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,MLB,14,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,MLB,14,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,MLB,18,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,MLB,22,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,MLB,16,California
+Panama City FL,FL,South,70.7,72.62,yes,MLB,10,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,MLB,11,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,MLB,26,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,MLB,15,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,MLB,15,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,MLB,19,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,MLB,16,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,MLB,19,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,MLB,18,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,MLB,18,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,MLB,27,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,MLB,10,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,MLB,12,South Dakota
+Reno NV,NV,West,49.9,51.55,no,MLB,19,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,MLB,11,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,MLB,14,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,MLB,13,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,MLB,16,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,MLB,20,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,MLB,16,California
+Salisbury MD,MD,South,54.2,57.38,yes,MLB,20,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,MLB,10,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,MLB,11,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,MLB,9,Texas
+San Diego CA,CA,West,59.4,37.02,yes,MLB,16,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,MLB,17,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,MLB,17,California
+Savannah GA,GA,South,63.5,54.52,yes,MLB,11,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,MLB,13,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,MLB,13,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,MLB,10,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,MLB,12,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,MLB,12,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,MLB,15,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,MLB,10,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,MLB,20,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,MLB,18,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,MLB,22,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,MLB,25,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,MLB,14,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,MLB,9,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,MLB,17,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,MLB,18,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,MLB,14,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,MLB,19,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,MLB,18,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,MLB,11,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,MLB,13,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,MLB,11,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,MLB,10,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,MLB,14,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,MLB,17,New York
+Victoria TX,TX,South,64.8,68.36,yes,MLB,10,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,MLB,10,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,MLB,14,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,MLB,14,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,MLB,15,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,MLB,18,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,MLB,16,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,MLB,12,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,MLB,13,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,MLB,16,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,MLB,12,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,MLB,11,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,MLB,15,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,MLB,18,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,MLB,11,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,NHL,2,Texas
+Albany GA,GA,South,63.5,59.12,yes,NHL,1,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,NHL,8,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,NHL,3,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,NHL,1,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,NHL,12,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,NHL,2,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,NHL,3,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,NHL,3,Georgia
+Austin TX,TX,South,64.8,40.01,yes,NHL,3,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,NHL,3,California
+Baltimore MD,MD,South,54.2,39.28,yes,NHL,5,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,NHL,9,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,NHL,2,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,NHL,1,Texas
+Bend OR,OR,West,48.4,46.36,no,NHL,4,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,NHL,5,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,NHL,2,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,NHL,9,New York
+Birmingham AL,AL,South,62.8,62.35,no,NHL,2,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,NHL,2,West Virginia
+Boise ID,ID,West,44.4,55.59,no,NHL,4,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,NHL,12,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,NHL,4,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,NHL,23,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,NHL,14,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,NHL,8,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,NHL,5,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,NHL,4,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,NHL,6,Illinois
+Charleston SC,SC,South,62.4,48.74,no,NHL,4,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,NHL,3,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,NHL,3,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,NHL,5,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,NHL,3,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,NHL,5,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,NHL,10,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,NHL,3,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,NHL,4,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,NHL,5,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,NHL,3,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,NHL,6,Colorado
+Columbia SC,SC,South,62.4,61.12,no,NHL,2,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,NHL,6,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,NHL,2,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,NHL,8,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,NHL,2,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,NHL,2,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,NHL,3,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,NHL,5,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,NHL,4,Ohio
+Denver CO,CO,West,45.1,40.73,yes,NHL,7,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,NHL,4,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,NHL,10,Michigan
+Dothan AL,AL,South,62.8,73.61,no,NHL,2,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,NHL,18,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,NHL,2,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,NHL,7,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,NHL,12,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,NHL,3,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,NHL,3,California
+Evansville IN,IN,North Central,51.7,65.84,yes,NHL,3,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,NHL,13,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,NHL,8,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,NHL,3,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,NHL,4,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,NHL,8,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,NHL,3,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,NHL,5,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,NHL,4,Florida
+Glendive MT,MT,West,42.7,77.21,no,NHL,0,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,NHL,5,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,NHL,8,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,NHL,5,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,NHL,4,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,NHL,3,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,NHL,4,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,NHL,3,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,NHL,1,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,NHL,1,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,NHL,9,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,NHL,5,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,NHL,8,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,NHL,1,Mississippi
+Helena MT,MT,West,42.7,51.48,no,NHL,6,Montana
+Honolulu HI,HI,West,70,30.04,no,NHL,4,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,NHL,2,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,NHL,3,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,NHL,5,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,NHL,3,Indiana
+Jackson MS,MS,South,63.4,49.42,no,NHL,1,Mississippi
+Jackson TN,TN,South,57.6,68,yes,NHL,2,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,NHL,4,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,NHL,13,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,NHL,2,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,NHL,2,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,NHL,3,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,NHL,4,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,NHL,6,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,NHL,5,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,NHL,2,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,NHL,2,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,NHL,8,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,NHL,2,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,NHL,6,Nevada
+Lexington KY,KY,South,55.6,63.82,no,NHL,2,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,NHL,3,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,NHL,3,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,NHL,2,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,NHL,6,California
+Louisville KY,KY,South,55.6,54.68,no,NHL,2,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,NHL,2,Texas
+Macon GA,GA,South,63.5,54.2,yes,NHL,2,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,NHL,5,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,NHL,12,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,NHL,16,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,NHL,3,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,NHL,2,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,NHL,2,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,NHL,4,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,NHL,5,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,NHL,13,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,NHL,8,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,NHL,6,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,NHL,3,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,NHL,1,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,NHL,5,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,NHL,1,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,NHL,7,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,NHL,2,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,NHL,9,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,NHL,4,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,NHL,2,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,NHL,2,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,NHL,3,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,NHL,4,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,NHL,5,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,NHL,4,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,NHL,4,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,NHL,9,California
+Panama City FL,FL,South,70.7,72.62,yes,NHL,4,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,NHL,4,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,NHL,7,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,NHL,9,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,NHL,6,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,NHL,20,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,NHL,5,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,NHL,10,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,NHL,11,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,NHL,10,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,NHL,5,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,NHL,5,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,NHL,5,South Dakota
+Reno NV,NV,West,49.9,51.55,no,NHL,5,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,NHL,4,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,NHL,5,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,NHL,9,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,NHL,11,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,NHL,7,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,NHL,3,California
+Salisbury MD,MD,South,54.2,57.38,yes,NHL,5,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,NHL,4,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,NHL,2,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,NHL,2,Texas
+San Diego CA,CA,West,59.4,37.02,yes,NHL,5,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,NHL,5,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,NHL,5,California
+Savannah GA,GA,South,63.5,54.52,yes,NHL,4,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,NHL,4,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,NHL,2,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,NHL,2,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,NHL,4,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,NHL,5,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,NHL,5,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,NHL,4,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,NHL,4,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,NHL,10,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,NHL,2,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,NHL,11,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,NHL,9,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,NHL,3,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,NHL,9,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,NHL,3,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,NHL,6,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,NHL,2,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,NHL,11,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,NHL,3,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,NHL,4,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,NHL,3,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,NHL,4,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,NHL,2,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,NHL,10,New York
+Victoria TX,TX,South,64.8,68.36,yes,NHL,2,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,NHL,2,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,NHL,7,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,NHL,16,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,NHL,6,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,NHL,6,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,NHL,9,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,NHL,2,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,NHL,3,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,NHL,7,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,NHL,5,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,NHL,3,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,NHL,5,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,NHL,4,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,NHL,4,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,NASCAR,4,Texas
+Albany GA,GA,South,63.5,59.12,yes,NASCAR,8,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,NASCAR,6,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,NASCAR,3,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,NASCAR,5,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,NASCAR,10,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,NASCAR,5,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,NASCAR,5,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,NASCAR,8,Georgia
+Austin TX,TX,South,64.8,40.01,yes,NASCAR,3,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,NASCAR,4,California
+Baltimore MD,MD,South,54.2,39.28,yes,NASCAR,3,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,NASCAR,8,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,NASCAR,3,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,NASCAR,4,Texas
+Bend OR,OR,West,48.4,46.36,no,NASCAR,4,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,NASCAR,5,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,NASCAR,6,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,NASCAR,7,New York
+Birmingham AL,AL,South,62.8,62.35,no,NASCAR,6,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,NASCAR,13,West Virginia
+Boise ID,ID,West,44.4,55.59,no,NASCAR,4,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,NASCAR,3,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,NASCAR,6,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,NASCAR,4,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,NASCAR,7,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,NASCAR,4,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,NASCAR,5,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,NASCAR,6,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,NASCAR,6,Illinois
+Charleston SC,SC,South,62.4,48.74,no,NASCAR,6,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,NASCAR,10,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,NASCAR,10,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,NASCAR,7,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,NASCAR,9,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,NASCAR,5,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,NASCAR,3,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,NASCAR,5,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,NASCAR,5,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,NASCAR,10,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,NASCAR,4,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,NASCAR,3,Colorado
+Columbia SC,SC,South,62.4,61.12,no,NASCAR,6,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,NASCAR,6,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,NASCAR,5,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,NASCAR,5,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,NASCAR,6,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,NASCAR,3,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,NASCAR,3,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,NASCAR,7,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,NASCAR,6,Ohio
+Denver CO,CO,West,45.1,40.73,yes,NASCAR,3,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,NASCAR,7,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,NASCAR,3,Michigan
+Dothan AL,AL,South,62.8,73.61,no,NASCAR,7,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,NASCAR,5,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,NASCAR,2,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,NASCAR,12,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,NASCAR,6,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,NASCAR,4,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,NASCAR,4,California
+Evansville IN,IN,North Central,51.7,65.84,yes,NASCAR,7,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,NASCAR,5,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,NASCAR,7,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,NASCAR,10,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,NASCAR,3,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,NASCAR,5,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,NASCAR,5,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,NASCAR,7,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,NASCAR,4,Florida
+Glendive MT,MT,West,42.7,77.21,no,NASCAR,9,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,NASCAR,5,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,NASCAR,6,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,NASCAR,5,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,NASCAR,6,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,NASCAR,10,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,NASCAR,9,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,NASCAR,9,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,NASCAR,3,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,NASCAR,2,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,NASCAR,7,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,NASCAR,8,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,NASCAR,4,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,NASCAR,5,Mississippi
+Helena MT,MT,West,42.7,51.48,no,NASCAR,4,Montana
+Honolulu HI,HI,West,70,30.04,no,NASCAR,1,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,NASCAR,2,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,NASCAR,7,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,NASCAR,4,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,NASCAR,6,Indiana
+Jackson MS,MS,South,63.4,49.42,no,NASCAR,4,Mississippi
+Jackson TN,TN,South,57.6,68,yes,NASCAR,7,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,NASCAR,5,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,NASCAR,6,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,NASCAR,7,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,NASCAR,7,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,NASCAR,4,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,NASCAR,10,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,NASCAR,6,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,NASCAR,4,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,NASCAR,3,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,NASCAR,4,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,NASCAR,5,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,NASCAR,1,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,NASCAR,3,Nevada
+Lexington KY,KY,South,55.6,63.82,no,NASCAR,6,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,NASCAR,8,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,NASCAR,6,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,NASCAR,4,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,NASCAR,2,California
+Louisville KY,KY,South,55.6,54.68,no,NASCAR,6,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,NASCAR,3,Texas
+Macon GA,GA,South,63.5,54.2,yes,NASCAR,7,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,NASCAR,7,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,NASCAR,4,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,NASCAR,5,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,NASCAR,5,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,NASCAR,4,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,NASCAR,5,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,NASCAR,2,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,NASCAR,4,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,NASCAR,4,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,NASCAR,6,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,NASCAR,4,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,NASCAR,6,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,NASCAR,5,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,NASCAR,2,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,NASCAR,5,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,NASCAR,6,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,NASCAR,3,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,NASCAR,2,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,NASCAR,5,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,NASCAR,7,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,NASCAR,4,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,NASCAR,4,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,NASCAR,5,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,NASCAR,5,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,NASCAR,11,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,NASCAR,7,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,NASCAR,3,California
+Panama City FL,FL,South,70.7,72.62,yes,NASCAR,7,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,NASCAR,11,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,NASCAR,5,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,NASCAR,3,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,NASCAR,3,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,NASCAR,4,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,NASCAR,3,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,NASCAR,7,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,NASCAR,9,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,NASCAR,3,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,NASCAR,7,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,NASCAR,6,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,NASCAR,5,South Dakota
+Reno NV,NV,West,49.9,51.55,no,NASCAR,3,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,NASCAR,6,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,NASCAR,9,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,NASCAR,6,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,NASCAR,4,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,NASCAR,5,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,NASCAR,3,California
+Salisbury MD,MD,South,54.2,57.38,yes,NASCAR,6,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,NASCAR,3,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,NASCAR,4,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,NASCAR,2,Texas
+San Diego CA,CA,West,59.4,37.02,yes,NASCAR,2,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,NASCAR,2,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,NASCAR,2,California
+Savannah GA,GA,South,63.5,54.52,yes,NASCAR,6,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,NASCAR,2,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,NASCAR,6,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,NASCAR,5,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,NASCAR,7,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,NASCAR,6,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,NASCAR,7,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,NASCAR,4,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,NASCAR,7,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,NASCAR,3,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,NASCAR,5,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,NASCAR,4,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,NASCAR,6,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,NASCAR,5,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,NASCAR,4,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,NASCAR,9,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,NASCAR,7,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,NASCAR,5,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,NASCAR,8,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,NASCAR,15,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,NASCAR,3,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,NASCAR,5,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,NASCAR,4,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,NASCAR,5,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,NASCAR,6,New York
+Victoria TX,TX,South,64.8,68.36,yes,NASCAR,4,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,NASCAR,4,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,NASCAR,3,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,NASCAR,8,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,NASCAR,8,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,NASCAR,3,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,NASCAR,6,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,NASCAR,5,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,NASCAR,5,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,NASCAR,8,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,NASCAR,8,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,NASCAR,3,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,NASCAR,5,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,NASCAR,3,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,NASCAR,10,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,CBB,3,Texas
+Albany GA,GA,South,63.5,59.12,yes,CBB,3,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,CBB,3,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,CBB,4,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,CBB,3,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,CBB,7,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,CBB,3,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,CBB,5,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,CBB,4,Georgia
+Austin TX,TX,South,64.8,40.01,yes,CBB,3,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,CBB,1,California
+Baltimore MD,MD,South,54.2,39.28,yes,CBB,3,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,CBB,2,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,CBB,3,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,CBB,2,Texas
+Bend OR,OR,West,48.4,46.36,no,CBB,3,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,CBB,4,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,CBB,3,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,CBB,3,New York
+Birmingham AL,AL,South,62.8,62.35,no,CBB,6,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,CBB,6,West Virginia
+Boise ID,ID,West,44.4,55.59,no,CBB,4,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,CBB,2,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,CBB,16,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,CBB,2,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,CBB,3,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,CBB,4,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,CBB,4,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,CBB,6,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,CBB,5,Illinois
+Charleston SC,SC,South,62.4,48.74,no,CBB,5,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,CBB,14,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,CBB,6,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,CBB,8,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,CBB,4,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,CBB,3,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,CBB,4,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,CBB,2,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,CBB,10,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,CBB,8,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,CBB,2,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,CBB,3,Colorado
+Columbia SC,SC,South,62.4,61.12,no,CBB,4,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,CBB,5,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,CBB,6,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,CBB,5,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,CBB,4,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,CBB,2,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,CBB,3,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,CBB,4,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,CBB,6,Ohio
+Denver CO,CO,West,45.1,40.73,yes,CBB,3,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,CBB,7,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,CBB,6,Michigan
+Dothan AL,AL,South,62.8,73.61,no,CBB,4,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,CBB,3,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,CBB,2,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,CBB,3,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,CBB,3,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,CBB,4,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,CBB,2,California
+Evansville IN,IN,North Central,51.7,65.84,yes,CBB,19,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,CBB,3,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,CBB,8,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,CBB,5,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,CBB,2,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,CBB,5,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,CBB,5,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,CBB,7,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,CBB,5,Florida
+Glendive MT,MT,West,42.7,77.21,no,CBB,3,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,CBB,3,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,CBB,10,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,CBB,3,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,CBB,3,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,CBB,9,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,CBB,7,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,CBB,6,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,CBB,4,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,CBB,1,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,CBB,3,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,CBB,5,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,CBB,3,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,CBB,3,Mississippi
+Helena MT,MT,West,42.7,51.48,no,CBB,4,Montana
+Honolulu HI,HI,West,70,30.04,no,CBB,3,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,CBB,2,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,CBB,5,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,CBB,3,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,CBB,7,Indiana
+Jackson MS,MS,South,63.4,49.42,no,CBB,4,Mississippi
+Jackson TN,TN,South,57.6,68,yes,CBB,5,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,CBB,3,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,CBB,3,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,CBB,5,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,CBB,6,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,CBB,8,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,CBB,7,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,CBB,4,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,CBB,8,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,CBB,3,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,CBB,2,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,CBB,16,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,CBB,1,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,CBB,4,Nevada
+Lexington KY,KY,South,55.6,63.82,no,CBB,35,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,CBB,5,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,CBB,5,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,CBB,4,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,CBB,3,California
+Louisville KY,KY,South,55.6,54.68,no,CBB,27,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,CBB,3,Texas
+Macon GA,GA,South,63.5,54.2,yes,CBB,4,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,CBB,5,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,CBB,3,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,CBB,4,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,CBB,3,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,CBB,5,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,CBB,5,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,CBB,2,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,CBB,4,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,CBB,3,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,CBB,3,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,CBB,4,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,CBB,4,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,CBB,3,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,CBB,2,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,CBB,6,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,CBB,8,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,CBB,3,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,CBB,3,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,CBB,4,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,CBB,5,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,CBB,2,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,CBB,3,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,CBB,6,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,CBB,3,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,CBB,9,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,CBB,11,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,CBB,3,California
+Panama City FL,FL,South,70.7,72.62,yes,CBB,4,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,CBB,6,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,CBB,4,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,CBB,3,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,CBB,4,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,CBB,5,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,CBB,3,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,CBB,2,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,CBB,3,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,CBB,3,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,CBB,4,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,CBB,10,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,CBB,3,South Dakota
+Reno NV,NV,West,49.9,51.55,no,CBB,3,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,CBB,5,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,CBB,6,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,CBB,3,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,CBB,3,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,CBB,3,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,CBB,2,California
+Salisbury MD,MD,South,54.2,57.38,yes,CBB,3,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,CBB,3,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,CBB,2,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,CBB,2,Texas
+San Diego CA,CA,West,59.4,37.02,yes,CBB,3,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,CBB,2,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,CBB,3,California
+Savannah GA,GA,South,63.5,54.52,yes,CBB,4,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,CBB,3,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,CBB,3,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,CBB,2,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,CBB,7,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,CBB,4,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,CBB,9,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,CBB,13,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,CBB,4,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,CBB,3,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,CBB,5,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,CBB,4,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,CBB,6,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,CBB,4,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,CBB,3,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,CBB,6,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,CBB,5,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,CBB,9,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,CBB,8,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,CBB,7,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,CBB,15,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,CBB,4,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,CBB,4,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,CBB,2,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,CBB,4,New York
+Victoria TX,TX,South,64.8,68.36,yes,CBB,2,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,CBB,3,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,CBB,4,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,CBB,3,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,CBB,3,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,CBB,2,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,CBB,4,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,CBB,3,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,CBB,9,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,CBB,3,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,CBB,9,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,CBB,4,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,CBB,3,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,CBB,2,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,CBB,4,Ohio
+Abilene-Sweetwater TX,TX,South,64.8,79.13,yes,CFB,11,Texas
+Albany GA,GA,South,63.5,59.12,yes,CFB,17,Georgia
+Albany-Schenectady-Troy NY,NY,Northeast,45.4,44.11,yes,CFB,4,New York
+Albuquerque-Santa Fe NM,NM,West,53.4,39.58,no,CFB,6,New Mexico
+Alexandria LA,LA,South,66.4,69.64,yes,CFB,12,Louisiana
+Alpena MI,MI,North Central,44.4,63.61,yes,CFB,9,Michigan
+Amarillo TX,TX,South,64.8,77.54,yes,CFB,10,Texas
+Atlanta GA,GA,South,63.5,47.58,yes,CFB,14,Georgia
+Augusta GA,GA,South,63.5,52.77,yes,CFB,13,Georgia
+Austin TX,TX,South,64.8,40.01,yes,CFB,11,Texas
+Bakersfield CA,CA,West,59.4,53.54,yes,CFB,3,California
+Baltimore MD,MD,South,54.2,39.28,yes,CFB,4,Maryland
+Bangor ME,ME,Northeast,41,50.99,no,CFB,3,Maine
+Baton Rouge LA,LA,South,66.4,54.96,yes,CFB,15,Louisiana
+Beaumont-Port Arthur TX,TX,South,64.8,64.65,yes,CFB,9,Texas
+Bend OR,OR,West,48.4,46.36,no,CFB,13,Oregon
+"Billings, MT",MT,West,42.7,63.77,no,CFB,7,Montana
+Biloxi-Gulfport MS,MS,South,63.4,67.78,no,CFB,14,Mississippi
+Binghamton NY,NY,Northeast,45.4,53.49,yes,CFB,4,New York
+Birmingham AL,AL,South,62.8,62.35,no,CFB,27,Alabama
+Bluefield-Beckley-Oak Hill WV,WV,South,51.8,74.16,no,CFB,14,West Virginia
+Boise ID,ID,West,44.4,55.59,no,CFB,14,Idaho
+Boston MA-Manchester NH,NH,Northeast,43.8,35.4,no,CFB,3,New Hampshire
+Bowling Green KY,KY,South,55.6,66.41,no,CFB,11,Kentucky
+Buffalo NY,NY,Northeast,45.4,51.79,yes,CFB,3,New York
+Burlington VT-Plattsburgh NY,NY,Northeast,45.4,34.79,yes,CFB,3,New York
+Butte-Bozeman MT,MT,West,42.7,48.18,no,CFB,8,Montana
+Casper-Riverton WY,WY,West,42,71.09,no,CFB,7,Wyoming
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,IA,North Central,47.8,45.3,no,CFB,10,Iowa
+Champaign & Springfield-Decatur IL,IL,North Central,51.8,55.92,yes,CFB,5,Illinois
+Charleston SC,SC,South,62.4,48.74,no,CFB,14,South Carolina
+Charleston-Huntington WV,WV,South,51.8,69.61,no,CFB,12,West Virginia
+Charlotte NC,NC,South,59,53.45,yes,CFB,8,North Carolina
+Charlottesville VA,VA,South,55.1,39.58,no,CFB,9,Virginia
+Chattanooga TN,TN,South,57.6,68.63,yes,CFB,20,Tennessee
+Cheyenne WY-Scottsbluff NE,NE,North Central,48.8,64.88,no,CFB,10,Nebraska
+Chicago IL,IL,North Central,51.8,31.09,yes,CFB,5,Illinois
+Chico-Redding CA,CA,West,59.4,56.06,yes,CFB,4,California
+Cincinnati OH,OH,North Central,50.7,57.57,yes,CFB,8,Ohio
+Clarksburg-Weston WV,WV,South,51.8,69.75,no,CFB,14,West Virginia
+Cleveland-Akron (Canton) OH,OH,North Central,50.7,46.14,yes,CFB,7,Ohio
+Colorado Springs-Pueblo CO,CO,West,45.1,55.71,yes,CFB,7,Colorado
+Columbia SC,SC,South,62.4,61.12,no,CFB,17,South Carolina
+Columbia-Jefferson City MO,MO,North Central,54.5,45.53,yes,CFB,8,Missouri
+Columbus GA,GA,South,63.5,50.82,yes,CFB,21,Georgia
+Columbus OH,OH,North Central,50.7,47.9,yes,CFB,13,Ohio
+Columbus-Tupelo-West Point MS,MS,South,63.4,63.82,no,CFB,16,Mississippi
+Corpus Christi TX,TX,South,64.8,51.18,yes,CFB,7,Texas
+Dallas-Ft. Worth TX,TX,South,64.8,53.5,yes,CFB,10,Texas
+Davenport IA-Rock Island-Moline IL,IL,North Central,51.8,49.45,yes,CFB,7,Illinois
+Dayton OH,OH,North Central,50.7,58.66,yes,CFB,10,Ohio
+Denver CO,CO,West,45.1,40.73,yes,CFB,6,Colorado
+Des Moines-Ames IA,IA,North Central,47.8,49.64,no,CFB,10,Iowa
+Detroit MI,MI,North Central,44.4,41.93,yes,CFB,9,Michigan
+Dothan AL,AL,South,62.8,73.61,no,CFB,29,Alabama
+Duluth MN-Superior WI,WI,North Central,43.1,44.08,yes,CFB,4,Wisconsin
+El Paso TX,TX,South,64.8,28.53,yes,CFB,5,Texas
+Elmira NY,NY,Northeast,45.4,62.86,yes,CFB,4,New York
+Erie PA,PA,Northeast,48.8,53.78,yes,CFB,5,Pennsylvania
+Eugene OR,OR,West,48.4,40.87,no,CFB,15,Oregon
+Eureka CA,CA,West,59.4,34.44,yes,CFB,4,California
+Evansville IN,IN,North Central,51.7,65.84,yes,CFB,5,Indiana
+Fargo-Valley City ND,ND,North Central,40.4,56.78,no,CFB,6,North Dakota
+Flint-Saginaw-Bay City MI,MI,North Central,44.4,51,yes,CFB,9,Michigan
+Florence-Myrtle Beach SC,SC,South,62.4,56.54,no,CFB,11,South Carolina
+Fresno-Visalia CA,CA,West,59.4,46.28,yes,CFB,4,California
+Ft. Myers-Naples FL,FL,South,70.7,59.62,yes,CFB,8,Florida
+Ft. Smith-Fayetteville-Springdale-Rogers AR,AR,South,60.4,63.21,no,CFB,16,Arkansas
+Ft. Wayne IN,IN,North Central,51.7,64.98,yes,CFB,7,Indiana
+Gainesville FL,FL,South,70.7,44.27,yes,CFB,19,Florida
+Glendive MT,MT,West,42.7,77.21,no,CFB,4,Montana
+Grand Junction-Montrose CO,CO,West,45.1,64.91,yes,CFB,6,Colorado
+Grand Rapids-Kalamazoo-Battle Creek MI,MI,North Central,44.4,52.87,yes,CFB,10,Michigan
+Great Falls MT,MT,West,42.7,59.38,no,CFB,6,Montana
+Green Bay-Appleton WI,WI,North Central,43.1,55.8,yes,CFB,5,Wisconsin
+Greensboro-High Point-Winston Salem NC,NC,South,59,54.19,yes,CFB,7,North Carolina
+Greenville-New Bern-Washington NC,NC,South,59,55.91,yes,CFB,9,North Carolina
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,SC,South,62.4,61.19,no,CFB,17,South Carolina
+Greenwood-Greenville MS,MS,South,63.4,38.45,no,CFB,12,Mississippi
+Harlingen-Weslaco-Brownsville-McAllen TX,TX,South,64.8,29,yes,CFB,4,Texas
+Harrisburg-Lancaster-Lebanon-York PA,PA,Northeast,48.8,59.18,yes,CFB,6,Pennsylvania
+Harrisonburg VA,VA,South,55.1,61.24,no,CFB,7,Virginia
+Hartford & New Haven CT,CT,Northeast,59,41.93,no,CFB,4,Connecticut
+Hattiesburg-Laurel MS,MS,South,63.4,65.41,no,CFB,20,Mississippi
+Helena MT,MT,West,42.7,51.48,no,CFB,8,Montana
+Honolulu HI,HI,West,70,30.04,no,CFB,8,Hawaii
+Houston TX,TX,South,64.8,49.76,yes,CFB,8,Texas
+Huntsville-Decatur (Florence) AL,AL,South,62.8,67.73,no,CFB,27,Alabama
+Idaho Falls-Pocatello ID,ID,West,44.4,58.14,no,CFB,9,Idaho
+Indianapolis IN,IN,North Central,51.7,54.95,yes,CFB,6,Indiana
+Jackson MS,MS,South,63.4,49.42,no,CFB,15,Mississippi
+Jackson TN,TN,South,57.6,68,yes,CFB,13,Tennessee
+Jacksonville FL,FL,South,70.7,58.92,yes,CFB,13,Florida
+Johnstown-Altoona PA,PA,Northeast,48.8,66.3,yes,CFB,9,Pennsylvania
+Jonesboro AR,AR,South,60.4,68.79,no,CFB,14,Arkansas
+Joplin MO-Pittsburg KS,KS,North Central,54.3,72.57,no,CFB,8,Kansas
+Kansas City MO,MO,North Central,54.5,49.73,yes,CFB,6,Missouri
+Knoxville TN,TN,South,57.6,70.6,yes,CFB,17,Tennessee
+La Crosse-Eau Claire WI,WI,North Central,43.1,49.37,yes,CFB,5,Wisconsin
+Lafayette IN,IN,North Central,51.7,51.7,yes,CFB,7,Indiana
+Lafayette LA,LA,South,66.4,66.55,yes,CFB,13,Louisiana
+Lake Charles LA,LA,South,66.4,68.47,yes,CFB,12,Louisiana
+Lansing MI,MI,North Central,44.4,46.28,yes,CFB,11,Michigan
+Laredo TX,TX,South,64.8,23.28,yes,CFB,3,Texas
+Las Vegas NV,NV,West,49.9,42.47,no,CFB,6,Nevada
+Lexington KY,KY,South,55.6,63.82,no,CFB,7,Kentucky
+Lima OH,OH,North Central,50.7,72.08,yes,CFB,14,Ohio
+Lincoln & Hastings-Kearney NE,NE,North Central,48.8,63.22,no,CFB,20,Nebraska
+Little Rock-Pine Bluff AR,AR,South,60.4,58.17,no,CFB,13,Arkansas
+Los Angeles CA,CA,West,59.4,31.7,yes,CFB,5,California
+Louisville KY,KY,South,55.6,54.68,no,CFB,9,Kentucky
+Lubbock TX,TX,South,64.8,69.69,yes,CFB,12,Texas
+Macon GA,GA,South,63.5,54.2,yes,CFB,14,Georgia
+Madison WI,WI,North Central,43.1,32.97,yes,CFB,8,Wisconsin
+Mankato MN,MN,North Central,41.2,54.38,yes,CFB,4,Minnesota
+Marquette MI,MI,North Central,44.4,55.34,yes,CFB,5,Michigan
+Medford-Klamath Falls OR,OR,West,48.4,55.46,no,CFB,10,Oregon
+Memphis TN,TN,South,57.6,47.36,yes,CFB,11,Tennessee
+Meridian MS,MS,South,63.4,58.93,no,CFB,17,Mississippi
+Miami-Ft. Lauderdale FL,FL,South,70.7,33.03,yes,CFB,6,Florida
+Milwaukee WI,WI,North Central,43.1,46.14,yes,CFB,5,Wisconsin
+Minneapolis-St. Paul MN,MN,North Central,41.2,44.33,yes,CFB,5,Minnesota
+Minot-Bismarck-Dickinson(Williston) ND,ND,North Central,40.4,71.05,no,CFB,5,North Dakota
+Missoula MT,MT,West,42.7,54.19,no,CFB,8,Montana
+Mobile AL-Pensacola (Ft. Walton Beach) FL,FL,South,70.7,64.14,yes,CFB,22,Florida
+Monroe LA-El Dorado AR,AR,South,60.4,63.82,no,CFB,13,Arkansas
+Monterey-Salinas CA,CA,West,59.4,22.95,yes,CFB,4,California
+Montgomery (Selma) AL,AL,South,62.8,50.2,no,CFB,27,Alabama
+Nashville TN,TN,South,57.6,60.71,yes,CFB,13,Tennessee
+New Orleans LA,LA,South,66.4,53.67,yes,CFB,11,Louisiana
+New York NY,NY,Northeast,45.4,35.24,yes,CFB,3,New York
+Norfolk-Portsmouth-Newport News VA,VA,South,55.1,44,no,CFB,6,Virginia
+North Platte NE,NE,North Central,48.8,77.35,no,CFB,21,Nebraska
+Odessa-Midland TX,TX,South,64.8,70.44,yes,CFB,9,Texas
+Oklahoma City OK,OK,South,59.6,62.83,no,CFB,15,Oklahoma
+Omaha NE,NE,North Central,48.8,55.34,no,CFB,16,Nebraska
+Orlando-Daytona Beach-Melbourne FL,FL,South,70.7,49.22,yes,CFB,10,Florida
+Ottumwa IA-Kirksville MO,MO,North Central,54.5,63.52,yes,CFB,6,Missouri
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,IL,North Central,51.8,71.45,yes,CFB,6,Illinois
+Palm Springs CA,CA,West,59.4,44.73,yes,CFB,5,California
+Panama City FL,FL,South,70.7,72.62,yes,CFB,23,Florida
+Parkersburg WV,WV,South,51.8,69.63,no,CFB,13,West Virginia
+Peoria-Bloomington IL,IL,North Central,51.8,52.81,yes,CFB,4,Illinois
+Philadelphia PA,PA,Northeast,48.8,36.61,yes,CFB,4,Pennsylvania
+Phoenix AZ,AZ,West,60.3,50.09,yes,CFB,6,Arizona
+Pittsburgh PA,PA,Northeast,48.8,52.24,yes,CFB,6,Pennsylvania
+Portland OR,OR,West,48.4,36.85,no,CFB,8,Oregon
+Portland-Auburn ME,ME,Northeast,41,42.97,no,CFB,3,Maine
+Presque Isle ME,ME,Northeast,41,55.54,no,CFB,2,Maine
+Providence RI-New Bedford MA,MA,Northeast,47.9,40.21,yes,CFB,3,Massachusetts
+Quincy IL-Hannibal MO-Keokuk IA,IA,North Central,47.8,68.03,no,CFB,5,Iowa
+Raleigh-Durham (Fayetteville) NC,NC,South,59,40.6,yes,CFB,7,North Carolina
+Rapid City SD,SD,North Central,45.2,66.94,no,CFB,6,South Dakota
+Reno NV,NV,West,49.9,51.55,no,CFB,6,Nevada
+Richmond-Petersburg VA,VA,South,55.1,44.06,no,CFB,6,Virginia
+Roanoke-Lynchburg VA,VA,South,55.1,60.3,no,CFB,10,Virginia
+Rochester MN-Mason City IA-Austin MN,MN,North Central,41.2,50.78,yes,CFB,6,Minnesota
+Rochester NY,NY,Northeast,45.4,44.07,yes,CFB,3,New York
+Rockford IL,IL,North Central,51.8,50.22,yes,CFB,4,Illinois
+Sacramento-Stockton-Modesto CA,CA,West,59.4,40.26,yes,CFB,4,California
+Salisbury MD,MD,South,54.2,57.38,yes,CFB,4,Maryland
+Salt Lake City UT,UT,West,48.6,46.81,no,CFB,10,Utah
+San Angelo TX,TX,South,64.8,74.12,yes,CFB,11,Texas
+San Antonio TX,TX,South,64.8,49.36,yes,CFB,7,Texas
+San Diego CA,CA,West,59.4,37.02,yes,CFB,5,California
+San Francisco-Oakland-San Jose CA,CA,West,59.4,18.56,yes,CFB,4,California
+Santa Barbara-Santa Maria-San Luis Obispo CA,CA,West,59.4,36.03,yes,CFB,5,California
+Savannah GA,GA,South,63.5,54.52,yes,CFB,13,Georgia
+Seattle-Tacoma WA,WA,West,48.3,32.15,yes,CFB,10,Washington
+Sherman TX-Ada OK,OK,South,59.6,75.05,no,CFB,13,Oklahoma
+Shreveport LA,LA,South,66.4,63.05,yes,CFB,11,Louisiana
+Sioux City IA,IA,North Central,47.8,68.06,no,CFB,12,Iowa
+Sioux Falls(Mitchell) SD,SD,North Central,45.2,61.41,no,CFB,6,South Dakota
+South Bend-Elkhart IN,IN,North Central,51.7,58.42,yes,CFB,12,Indiana
+Spokane WA,WA,West,48.3,56.02,yes,CFB,7,Washington
+Springfield MO,MO,North Central,54.5,72.57,yes,CFB,7,Missouri
+Springfield-Holyoke MA,MA,Northeast,47.9,34.52,yes,CFB,3,Massachusetts
+St. Joseph MO,MO,North Central,54.5,64.68,yes,CFB,6,Missouri
+St. Louis MO,MO,North Central,54.5,50.62,yes,CFB,5,Missouri
+Syracuse NY,NY,Northeast,45.4,43.45,yes,CFB,5,New York
+Tallahassee FL-Thomasville GA,GA,South,63.5,48.52,yes,CFB,23,Georgia
+Tampa-St. Petersburg (Sarasota) FL,FL,South,70.7,52.1,yes,CFB,9,Florida
+Terre Haute IN,IN,North Central,51.7,68.85,yes,CFB,5,Indiana
+Toledo OH,OH,North Central,50.7,51.1,yes,CFB,13,Ohio
+Topeka KS,KS,North Central,54.3,57.33,no,CFB,10,Kansas
+Traverse City-Cadillac MI,MI,North Central,44.4,59.97,yes,CFB,10,Michigan
+Tri-Cities TN-VA,VA,South,55.1,76.54,no,CFB,15,Virginia
+Tucson (Sierra Vista) AZ,AZ,West,60.3,40.89,yes,CFB,6,Arizona
+Tulsa OK,OK,South,59.6,65.59,no,CFB,16,Oklahoma
+Twin Falls ID,ID,West,44.4,62.85,no,CFB,10,Idaho
+Tyler-Longview(Lufkin & Nacogdoches) TX,TX,South,64.8,72.8,yes,CFB,10,Texas
+Utica NY,NY,Northeast,45.4,57.47,yes,CFB,4,New York
+Victoria TX,TX,South,64.8,68.36,yes,CFB,7,Texas
+Waco-Temple-Bryan TX,TX,South,64.8,61.59,yes,CFB,14,Texas
+Washington DC (Hagerstown MD),DC,Northeast,NA,29.9,yes,CFB,5,NA
+Watertown NY,NY,Northeast,45.4,55.93,yes,CFB,4,New York
+Wausau-Rhinelander WI,WI,North Central,43.1,55.86,yes,CFB,5,Wisconsin
+West Palm Beach-Ft. Pierce FL,FL,South,70.7,45.87,yes,CFB,5,Florida
+Wheeling WV-Steubenville OH,OH,North Central,50.7,67.75,yes,CFB,11,Ohio
+Wichita Falls TX & Lawton OK,OK,South,59.6,73.72,no,CFB,12,Oklahoma
+Wichita-Hutchinson KS,KS,North Central,54.3,65.22,no,CFB,8,Kansas
+Wilkes Barre-Scranton PA,PA,Northeast,48.8,60.11,yes,CFB,7,Pennsylvania
+Wilmington NC,NC,South,59,55.91,yes,CFB,7,North Carolina
+Yakima-Pasco-Richland-Kennewick WA,WA,West,48.3,55.26,yes,CFB,7,Washington
+Youngstown OH,OH,North Central,50.7,53.17,yes,CFB,8,Ohio
+Yuma AZ-El Centro CA,CA,West,59.4,37.48,yes,CFB,4,California
+Zanesville OH,OH,North Central,50.7,64.59,yes,CFB,14,Ohio

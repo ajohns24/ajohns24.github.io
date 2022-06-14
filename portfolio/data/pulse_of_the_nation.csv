@@ -1,0 +1,1001 @@
+Income,Gender,Age,Political Affiliation,Do you approve or disapprove of how Donald Trump is handling his job as president?,What is your highest level of education? ,What is your marital status?,What would you say is the likelihood that your current job will be entirely performed by robots or computers within the next decade?,"Do you believe that climate change is real and caused by people, real but not caused by people, or not real at all?",How many Transformers movies have you seen? ,Do you agree or disagree with the following statement: scientists are generally honest and are serving the public good. ,Do you agree or disagree with the following statement: vaccines are safe and protect children from disease.,"How many books, if any, have you read in the past year?",Do you believe in ghosts?,"Is federal funding of scientific research too high, too low, or about right?",True or false: the earth is always farther away from the sun in the winter than in the summer.,"If you had to choose: would you rather be wise and unhappy, or unwise and happy?"
+8000,Female,64,Democrat,Strongly disapprove,College degree,Divorced,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Disagree,20,Yes,Too Low,FALSE,Wise and Unhappy
+68000,Female,56,Democrat,Strongly disapprove,High school,Single,Unlikely,DK/REF,0,Somewhat Agree,Somewhat Disagree,6,No,Too High,FALSE,Wise and Unhappy
+46000,Male,63,Independent,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+51000,Male,48,Republican,Strongly Approve,High school,Divorced,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Disagree,1,No,About Right,FALSE,Unwise and happy
+100000,Female,32,Democrat,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,30,Yes,Too Low,FALSE,Wise and Unhappy
+54000,Female,64,Democrat,Strongly disapprove,Some college,Married,DK/REF,Real and Caused by People,0,Strongly Agree,Strongly Agree,15,No,Too Low,TRUE,Wise and Unhappy
+83000,Male,61,Independent,Somewhat Approve,College degree,Divorced,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+114000,Female,64,Republican,Somewhat disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,40,No,DK/REF,TRUE,Wise and Unhappy
+90000,Female,64,Republican,Somewhat Approve,High school,Married,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+5000,Female,68,Democrat,Somewhat disapprove,Some college,Widowed,DK/REF,Real and Caused by People,0,Somewhat Agree,Strongly Agree,1,No,Too Low,TRUE,Wise and Unhappy
+57000,Female,63,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too Low,FALSE,Wise and Unhappy
+47000,Female,44,Independent,Neither approve nor disapprove,High school,Married,Unlikely,Real and Caused by People,1,Strongly Disagree,Somewhat Agree,2,Yes,Too High,DK/REF,Unwise and happy
+39000,Female,57,Democrat,Somewhat Approve,College degree,Married,DK/REF,Real and Caused by People,0,Strongly Disagree,Somewhat Agree,12,Yes,Too High,TRUE,Unwise and happy
+5000,Female,62,Democrat,Strongly disapprove,College degree,Single,Likely,DK/REF,0,Strongly Agree,Strongly Agree,6,No,Too Low,DK/REF,Wise and Unhappy
+84000,Male,62,Republican,Somewhat disapprove,College degree,Divorced,Likely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,6,No,Too Low,FALSE,Unwise and happy
+104000,Male,46,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,24,No,Too Low,TRUE,DK/REF
+8000,Female,60,DK/REF,Strongly disapprove,Some college,Divorced,Likely,Real and Caused by People,5,Strongly Agree,Strongly Agree,0,Yes,Too Low,DK/REF,Unwise and happy
+23000,Female,62,Democrat,Neither approve nor disapprove,High school,Married,Likely,Real but not Caused by People,1,Strongly Disagree,Strongly Agree,40,No,Too High,TRUE,Unwise and happy
+55000,Female,40,Republican,Somewhat Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,15,No,Too High,FALSE,Wise and Unhappy
+80000,Female,48,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,DK/REF,5,Yes,Too Low,TRUE,Unwise and happy
+194000,Female,54,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+82000,Male,62,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Unwise and happy
+22000,Female,50,Democrat,Neither approve nor disapprove,High school,Married,Likely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,6,Yes,Too Low,TRUE,Unwise and happy
+54000,Female,59,Democrat,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Disagree,25,Yes,DK/REF,TRUE,Wise and Unhappy
+79000,Female,30,Independent,Strongly Approve,College degree,Married,Unlikely,Not Real At All,1,Strongly Agree,Strongly Agree,5,Yes,DK/REF,DK/REF,Unwise and happy
+5000,Female,60,Democrat,Somewhat disapprove,Some college,Single,Likely,Real and Caused by People,3,DK/REF,Somewhat Agree,2,No,DK/REF,FALSE,DK/REF
+60000,Male,70,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real but not Caused by People,5,Somewhat Agree,Strongly Agree,6,No,About Right,TRUE,DK/REF
+39000,Male,19,Independent,Somewhat Approve,High school,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,3,Yes,Too Low,TRUE,Unwise and happy
+58000,Male,61,Independent,Somewhat Approve,College degree,Separated,Likely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,0,Yes,About Right,FALSE,DK/REF
+54000,Female,57,Democrat,Somewhat disapprove,High school,Married,Likely,Not Real At All,0,Somewhat Agree,Strongly Agree,0,No,About Right,TRUE,Wise and Unhappy
+73000,Male,36,DK/REF,Neither approve nor disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,12,No,About Right,FALSE,DK/REF
+26000,Female,63,Democrat,Somewhat disapprove,High school,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,Yes,Too Low,TRUE,Wise and Unhappy
+48000,Female,63,Republican,DK/REF,College degree,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,30,No,DK/REF,TRUE,Unwise and happy
+61000,Female,55,Independent,Strongly disapprove,High school,Separated,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,1,No,About Right,TRUE,Unwise and happy
+67000,Female,56,Republican,Somewhat Approve,College degree,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,1,Yes,Too Low,FALSE,Wise and Unhappy
+58000,Male,54,DK/REF,Somewhat Approve,DK/REF,DK/REF,DK/REF,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,0,Yes,DK/REF,FALSE,Unwise and happy
+,Female,50,Independent,Strongly disapprove,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,30,Yes,Too High,TRUE,Unwise and happy
+,Male,65,Independent,Somewhat disapprove,Graduate degree,Married,DK/REF,Real but not Caused by People,5,Somewhat Agree,Strongly Agree,10,No,Too Low,TRUE,Unwise and happy
+,Female,73,Democrat,DK/REF,College degree,Widowed,Likely,Real but not Caused by People,2,Strongly Agree,Somewhat Agree,200,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,44,Independent,Strongly disapprove,Some college,Married,Likely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,6,No,About Right,FALSE,Wise and Unhappy
+,Male,65,Republican,Strongly Approve,Graduate degree,In a relationship,DK/REF,Real and Caused by People,0,Strongly Agree,Strongly Agree,7,No,Too Low,FALSE,Unwise and happy
+,Female,25,Independent,DK/REF,Some college,Single,Unlikely,Real and Caused by People,4,Somewhat Disagree,Somewhat Disagree,124,Yes,About Right,TRUE,Unwise and happy
+,Male,53,Republican,Strongly disapprove,College degree,Separated,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,1,No,Too High,TRUE,DK/REF
+,Male,30,Independent,Neither approve nor disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Disagree,15,No,About Right,TRUE,Wise and Unhappy
+,Male,73,Independent,Strongly Approve,Some college,Widowed,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,8,No,About Right,FALSE,Unwise and happy
+,Female,56,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,Too Low,TRUE,Wise and Unhappy
+,Female,54,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,5,No,Too High,TRUE,Unwise and happy
+,Female,60,DK/REF,Somewhat disapprove,Other,Separated,Likely,Real but not Caused by People,2,Somewhat Agree,Somewhat Agree,0,Yes,About Right,TRUE,Wise and Unhappy
+,Female,19,Independent,Somewhat disapprove,Some college,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Disagree,5,Yes,Too Low,TRUE,Wise and Unhappy
+,Other,35,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,50,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,31,DK/REF,Somewhat Approve,College degree,Single,Unlikely,Real but not Caused by People,1,Strongly Disagree,Somewhat Agree,10,No,Too High,TRUE,DK/REF
+,Female,31,Independent,Neither approve nor disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,Yes,Too Low,FALSE,Unwise and happy
+,Male,62,Independent,Somewhat disapprove,High school,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,1,Yes,Too High,TRUE,Wise and Unhappy
+,Male,75,Republican,Strongly Approve,High school,Married,Likely,Real but not Caused by People,,Somewhat Agree,Somewhat Agree,20,No,About Right,TRUE,Wise and Unhappy
+,Female,66,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,30,No,About Right,FALSE,Wise and Unhappy
+,Male,58,Independent,Somewhat disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Disagree,4,No,About Right,FALSE,Unwise and happy
+,Female,47,DK/REF,Strongly disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,20,Yes,Too Low,TRUE,Unwise and happy
+,Male,18,Republican,Strongly Approve,High school,Single,Unlikely,Not Real At All,2,Somewhat Agree,Strongly Agree,4,Yes,About Right,FALSE,Unwise and happy
+,Male,34,Republican,Strongly Approve,High school,Widowed,Likely,Not Real At All,5,Strongly Disagree,Strongly Disagree,1,Yes,Too High,DK/REF,Wise and Unhappy
+,Female,63,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,6,No,About Right,TRUE,Wise and Unhappy
+,Male,28,Republican,Strongly Approve,Some college,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Unwise and happy
+,Male,36,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,8,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,32,Independent,Somewhat Approve,High school,Single,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,18,No,About Right,TRUE,Wise and Unhappy
+,Male,55,Independent,Somewhat Approve,Some college,Divorced,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Disagree,0,Yes,About Right,TRUE,Unwise and happy
+,Male,72,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,6,Yes,About Right,TRUE,Wise and Unhappy
+,Male,31,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Wise and Unhappy
+,Female,41,Democrat,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Disagree,0,No,Too Low,TRUE,Unwise and happy
+,Male,48,DK/REF,Strongly Approve,High school,In a relationship,Unlikely,Not Real At All,2,Somewhat Agree,Somewhat Agree,2,Yes,About Right,TRUE,Unwise and happy
+,Female,86,Independent,Strongly disapprove,College degree,Married,Unlikely,DK/REF,,Somewhat Agree,Strongly Agree,2,No,DK/REF,TRUE,Unwise and happy
+,Female,53,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,50,No,Too Low,DK/REF,Wise and Unhappy
+30000,Female,74,Independent,DK/REF,High school,Divorced,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,50,No,About Right,TRUE,Unwise and happy
+52000,Female,33,DK/REF,Strongly Approve,College degree,Married,Unlikely,Not Real At All,2,Strongly Disagree,Strongly Agree,1000,Yes,Too High,DK/REF,Unwise and happy
+41000,Female,78,Republican,Somewhat Approve,Some college,Widowed,Likely,Not Real At All,0,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Unwise and happy
+106000,Male,45,DK/REF,Strongly Approve,College degree,Married,Unlikely,Not Real At All,2,Somewhat Agree,Somewhat Agree,20,No,Too Low,FALSE,Unwise and happy
+21000,Male,41,Democrat,Somewhat Approve,High school,Divorced,Likely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,1,No,About Right,FALSE,Unwise and happy
+107000,Male,76,Independent,Strongly disapprove,College degree,Married,Likely,Real and Caused by People,2,DK/REF,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+53000,Female,65,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,3,No,About Right,TRUE,Wise and Unhappy
+26000,Male,48,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,15,Yes,Too Low,FALSE,Unwise and happy
+126000,Male,46,Independent,Neither approve nor disapprove,Some college,Married,Unlikely,Real but not Caused by People,3,Strongly Agree,Strongly Agree,1,No,Too Low,FALSE,Wise and Unhappy
+179000,Male,50,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,5,Strongly Disagree,Strongly Agree,10,No,Too Low,FALSE,Unwise and happy
+122000,Female,48,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,2,Somewhat Disagree,Somewhat Agree,20,No,Too High,FALSE,Unwise and happy
+113000,Female,54,Independent,Strongly disapprove,Graduate degree,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,65,Yes,Too Low,FALSE,Wise and Unhappy
+140000,Male,21,Independent,Somewhat disapprove,Some college,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,3,No,Too Low,TRUE,Unwise and happy
+207000,Female,48,Independent,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,150,No,About Right,FALSE,Unwise and happy
+182000,Female,42,Independent,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,12,Yes,Too Low,FALSE,Wise and Unhappy
+128000,Female,50,Independent,Strongly Approve,Some college,Married,Likely,Real and Caused by People,3,DK/REF,Strongly Agree,5,Yes,DK/REF,FALSE,Wise and Unhappy
+71000,Female,40,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,60,No,Too Low,FALSE,Wise and Unhappy
+70000,Male,52,Republican,Strongly Approve,Some college,Married,Unlikely,DK/REF,0,Strongly Disagree,Somewhat Agree,0,No,DK/REF,FALSE,Wise and Unhappy
+,Male,37,Independent,Strongly disapprove,College degree,Divorced,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+,Female,45,Independent,Somewhat disapprove,College degree,Married,Likely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,1,Yes,Too Low,FALSE,Unwise and happy
+,Female,27,DK/REF,Neither approve nor disapprove,High school,In a relationship,Unlikely,Real and Caused by People,,DK/REF,Strongly Agree,3,No,About Right,TRUE,Unwise and happy
+,Female,43,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,12,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,28,Republican,Neither approve nor disapprove,Graduate degree,Single,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,16,No,Too Low,TRUE,Wise and Unhappy
+,Female,80,Democrat,Strongly disapprove,DK/REF,Separated,Likely,Not Real At All,,Strongly Agree,Strongly Agree,25,No,About Right,TRUE,Unwise and happy
+,Male,68,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,3,No,Too High,FALSE,Unwise and happy
+,Male,36,DK/REF,DK/REF,Graduate degree,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Disagree,12,No,DK/REF,TRUE,Unwise and happy
+,Female,53,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,35,Yes,About Right,FALSE,Unwise and happy
+,Male,38,DK/REF,Somewhat disapprove,Other,Married,Unlikely,DK/REF,,Somewhat Agree,Strongly Agree,10,Yes,Too High,DK/REF,Wise and Unhappy
+,Female,37,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,1,Strongly Disagree,Somewhat Disagree,10,No,About Right,TRUE,DK/REF
+,Female,42,Independent,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,20,Yes,Too Low,DK/REF,Unwise and happy
+,Male,24,DK/REF,Strongly Approve,Some college,Single,Unlikely,Real and Caused by People,2,Neither Agree nor Disagree,Neither Agree nor Disagree,,No,DK/REF,TRUE,DK/REF
+,Female,50,Democrat,Strongly disapprove,College degree,Married,Unlikely,Not Real At All,,Strongly Disagree,Strongly Agree,2,Yes,Too Low,DK/REF,Unwise and happy
+,Male,53,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,7,No,About Right,FALSE,Unwise and happy
+,Female,30,Independent,Somewhat disapprove,Other,In a relationship,Unlikely,DK/REF,1,Strongly Agree,Strongly Agree,20,No,About Right,FALSE,Unwise and happy
+,Female,20,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,10,Yes,About Right,FALSE,Unwise and happy
+,Male,67,Republican,Strongly Approve,Some college,In a relationship,Unlikely,Not Real At All,0,Somewhat Agree,DK/REF,4,No,About Right,TRUE,Wise and Unhappy
+77000,Male,18,Republican,Strongly Approve,High school,In a relationship,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,3,Yes,About Right,FALSE,Wise and Unhappy
+,Female,34,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,60,No,Too Low,FALSE,Wise and Unhappy
+,Male,60,Democrat,Somewhat disapprove,High school,Single,Likely,Real and Caused by People,1,Strongly Agree,Strongly Agree,20,No,About Right,TRUE,Unwise and happy
+,Male,25,DK/REF,DK/REF,Some college,Married,Unlikely,Real and Caused by People,3,DK/REF,DK/REF,5,No,DK/REF,FALSE,DK/REF
+,Male,56,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,2,Strongly Disagree,Somewhat Disagree,4,Yes,Too High,FALSE,Wise and Unhappy
+,Male,50,Republican,Strongly Approve,High school,In a relationship,Unlikely,Not Real At All,0,Strongly Disagree,Somewhat Agree,1,No,Too High,FALSE,Unwise and happy
+96000,Female,61,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,2,Yes,DK/REF,TRUE,Wise and Unhappy
+,Female,34,Independent,Somewhat Approve,Some college,Divorced,DK/REF,Real and Caused by People,3,Strongly Agree,Strongly Agree,0,Yes,DK/REF,TRUE,Wise and Unhappy
+,Female,55,Republican,Strongly Approve,Graduate degree,Widowed,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Agree,5,No,DK/REF,FALSE,DK/REF
+,Male,25,Independent,Strongly Approve,High school,Married,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,0,Yes,DK/REF,DK/REF,Wise and Unhappy
+,Female,19,DK/REF,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,2,Yes,About Right,TRUE,Unwise and happy
+,Male,70,Independent,Somewhat Approve,DK/REF,Married,Unlikely,Not Real At All,1,Strongly Disagree,DK/REF,1,No,Too High,TRUE,DK/REF
+,Male,28,Independent,Somewhat disapprove,Some college,Married,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,1,Yes,About Right,TRUE,Unwise and happy
+,Male,35,Independent,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,10,Yes,Too Low,FALSE,Unwise and happy
+,Other,27,Independent,Strongly disapprove,College degree,In a relationship,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,8,No,Too High,FALSE,Unwise and happy
+,Female,48,Independent,Strongly Approve,Some college,Single,Unlikely,Not Real At All,0,DK/REF,Somewhat Agree,,Yes,DK/REF,DK/REF,Unwise and happy
+,Female,50,DK/REF,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,50,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,30,Independent,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,50,No,About Right,TRUE,Wise and Unhappy
+,Female,35,Democrat,Strongly disapprove,Other,Separated,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,8,Yes,Too Low,FALSE,Unwise and happy
+,Female,22,Democrat,Somewhat disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,6,Yes,About Right,TRUE,Unwise and happy
+,Female,40,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,Yes,Too Low,TRUE,Unwise and happy
+,Female,70,DK/REF,Strongly Approve,High school,Widowed,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,10,No,Too High,TRUE,Unwise and happy
+,Male,46,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Somewhat Agree,24,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,42,Independent,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,6,No,DK/REF,TRUE,Wise and Unhappy
+,Male,36,DK/REF,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,4,Somewhat Agree,Neither Agree nor Disagree,15,DK/REF,Too Low,FALSE,Unwise and happy
+,Female,66,DK/REF,DK/REF,College degree,Married,Likely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,,DK/REF,DK/REF,TRUE,DK/REF
+,Female,71,Democrat,Strongly disapprove,Some college,Divorced,DK/REF,Real and Caused by People,,Strongly Disagree,Somewhat Agree,100,Yes,Too High,TRUE,Wise and Unhappy
+,Male,25,Independent,DK/REF,Graduate degree,In a relationship,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,No,Too High,TRUE,Unwise and happy
+,Male,69,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,2,No,About Right,DK/REF,Unwise and happy
+,Female,29,Independent,DK/REF,College degree,Single,Likely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+57000,Female,60,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,15,Yes,About Right,TRUE,Wise and Unhappy
+,Female,70,Democrat,Strongly disapprove,College degree,Married,Likely,Real and Caused by People,0,Strongly Disagree,Somewhat Disagree,2,No,About Right,FALSE,Unwise and happy
+101000,Male,45,Independent,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,2,No,Too Low,TRUE,Unwise and happy
+152000,Male,30,Republican,Neither approve nor disapprove,College degree,Married,Unlikely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,25,No,Too High,DK/REF,Unwise and happy
+35000,Male,63,Republican,Strongly Approve,Graduate degree,Married,Likely,Real but not Caused by People,1,Strongly Disagree,Somewhat Agree,24,No,About Right,FALSE,Wise and Unhappy
+109000,Male,51,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Wise and Unhappy
+87000,Male,56,Republican,Strongly Approve,High school,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,About Right,DK/REF,Unwise and happy
+79000,Female,62,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,Yes,Too Low,FALSE,Unwise and happy
+73000,Female,46,Democrat,DK/REF,Some college,Married,Unlikely,DK/REF,0,Strongly Agree,Somewhat Disagree,0,Yes,DK/REF,TRUE,Unwise and happy
+89000,Female,83,DK/REF,Strongly Approve,High school,Widowed,Unlikely,Not Real At All,0,DK/REF,DK/REF,12,No,DK/REF,TRUE,DK/REF
+250000,Male,48,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Unwise and happy
+93000,Female,54,Independent,Strongly disapprove,Some college,Married,Likely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,15,Yes,Too Low,DK/REF,DK/REF
+21000,Female,64,Democrat,DK/REF,College degree,Single,Unlikely,Real but not Caused by People,3,Strongly Agree,Strongly Agree,0,No,About Right,DK/REF,DK/REF
+80000,Female,62,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,125,No,Too Low,TRUE,Wise and Unhappy
+30000,Male,68,DK/REF,Strongly disapprove,Some college,Widowed,DK/REF,DK/REF,0,DK/REF,DK/REF,,No,Too Low,TRUE,Wise and Unhappy
+73000,Male,40,DK/REF,Strongly disapprove,College degree,Single,Unlikely,Real but not Caused by People,,Strongly Agree,Strongly Disagree,10,No,Too Low,TRUE,Wise and Unhappy
+133000,Male,53,Independent,Strongly disapprove,College degree,Married,Unlikely,DK/REF,1,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+74000,Female,85,Democrat,DK/REF,Graduate degree,Widowed,Unlikely,Not Real At All,0,Somewhat Agree,Somewhat Agree,5,No,Too High,TRUE,Unwise and happy
+67000,Male,55,Democrat,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,0,No,Too Low,TRUE,Unwise and happy
+,Female,52,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,Yes,Too Low,FALSE,Unwise and happy
+,Male,68,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,2,DK/REF,Strongly Agree,5,No,Too Low,FALSE,Unwise and happy
+,Female,59,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+,Female,25,DK/REF,Strongly disapprove,High school,Single,Likely,Real and Caused by People,3,Strongly Agree,Somewhat Agree,50,Yes,About Right,TRUE,Wise and Unhappy
+,Female,57,Republican,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,60,Yes,Too Low,TRUE,Unwise and happy
+,Male,72,Independent,Strongly Approve,High school,Widowed,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,20,No,About Right,FALSE,Unwise and happy
+,Male,66,DK/REF,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,3,Yes,About Right,TRUE,DK/REF
+,Male,49,Independent,Strongly disapprove,Some college,Divorced,Likely,Real and Caused by People,1,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Wise and Unhappy
+,Male,44,DK/REF,Neither approve nor disapprove,High school,Single,Unlikely,DK/REF,5,Neither Agree nor Disagree,Somewhat Agree,,No,Too Low,FALSE,Wise and Unhappy
+,Male,58,Republican,Strongly Approve,High school,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,0,No,About Right,FALSE,Unwise and happy
+,Male,55,Democrat,Strongly disapprove,High school,Single,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,15,No,Too Low,TRUE,Unwise and happy
+,Male,42,Republican,Somewhat Approve,High school,In a relationship,Unlikely,Not Real At All,2,Strongly Agree,Strongly Agree,2,Yes,About Right,TRUE,Unwise and happy
+,Other,34,Independent,DK/REF,Graduate degree,DK/REF,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,30,No,DK/REF,FALSE,Unwise and happy
+,Female,47,Independent,Strongly Approve,High school,In a relationship,Unlikely,DK/REF,3,Strongly Disagree,Somewhat Agree,0,No,Too High,TRUE,Unwise and happy
+,Female,38,Democrat,DK/REF,College degree,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,0,Yes,About Right,DK/REF,Wise and Unhappy
+,Male,31,Democrat,Somewhat disapprove,High school,Single,Unlikely,Real but not Caused by People,3,Somewhat Disagree,Strongly Agree,2,Yes,Too Low,TRUE,Unwise and happy
+,Male,49,Democrat,Strongly Approve,Some college,Married,Likely,Real but not Caused by People,0,Strongly Agree,Somewhat Disagree,10,No,About Right,TRUE,Wise and Unhappy
+,Male,52,DK/REF,Neither approve nor disapprove,Some college,Single,Likely,Not Real At All,5,Strongly Disagree,Somewhat Agree,2,No,Too High,TRUE,Unwise and happy
+,Female,63,Independent,Strongly disapprove,Graduate degree,Single,Unlikely,DK/REF,0,Strongly Agree,Strongly Agree,50,No,Too Low,FALSE,Wise and Unhappy
+,Male,26,Democrat,Somewhat disapprove,High school,In a relationship,Likely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,50,Yes,About Right,TRUE,Unwise and happy
+,Male,43,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Unwise and happy
+,Male,19,Independent,Somewhat disapprove,Some college,Single,DK/REF,Real and Caused by People,1,Somewhat Agree,Strongly Agree,5,No,Too Low,TRUE,Wise and Unhappy
+,Male,22,DK/REF,DK/REF,DK/REF,Single,Unlikely,Not Real At All,,Strongly Disagree,Strongly Disagree,0,No,DK/REF,DK/REF,Wise and Unhappy
+,Male,39,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Somewhat Agree,5,No,About Right,FALSE,Wise and Unhappy
+,Male,65,Independent,Somewhat Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,Somewhat Agree,0,Yes,About Right,TRUE,Wise and Unhappy
+,Male,35,DK/REF,DK/REF,Graduate degree,Married,Unlikely,DK/REF,,DK/REF,DK/REF,8,Yes,DK/REF,TRUE,DK/REF
+,Male,40,DK/REF,DK/REF,College degree,Married,Unlikely,Real and Caused by People,,DK/REF,Strongly Agree,10,No,Too High,TRUE,Unwise and happy
+77000,Female,18,DK/REF,DK/REF,Some college,Single,Unlikely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,25,No,About Right,FALSE,Wise and Unhappy
+112000,Female,59,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,2,No,DK/REF,FALSE,Unwise and happy
+71000,Female,58,DK/REF,DK/REF,Some college,Single,Unlikely,Real and Caused by People,0,DK/REF,Strongly Agree,3,No,DK/REF,TRUE,Wise and Unhappy
+52000,Female,61,Independent,Somewhat disapprove,Some college,Widowed,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,2,Yes,DK/REF,TRUE,Wise and Unhappy
+22000,Female,64,Independent,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,2,DK/REF,About Right,TRUE,Wise and Unhappy
+136000,Female,64,Republican,DK/REF,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,DK/REF,TRUE,DK/REF
+167000,Male,65,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,DK/REF,12,No,Too Low,TRUE,DK/REF
+76000,Male,60,Independent,Strongly Approve,Graduate degree,Divorced,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Agree,150,Yes,Too High,FALSE,DK/REF
+32000,Female,60,Democrat,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,6,No,About Right,TRUE,Wise and Unhappy
+110000,Female,44,Republican,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,3,No,About Right,TRUE,Unwise and happy
+80000,Female,22,DK/REF,DK/REF,College degree,In a relationship,Unlikely,DK/REF,0,Somewhat Agree,Strongly Agree,20,Yes,About Right,TRUE,DK/REF
+114000,Male,56,Independent,Strongly Approve,Graduate degree,Married,DK/REF,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,2,No,About Right,FALSE,Wise and Unhappy
+236000,Male,52,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,6,DK/REF,Too Low,FALSE,Wise and Unhappy
+48000,Male,64,Democrat,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,,No,About Right,DK/REF,Wise and Unhappy
+25000,Female,45,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Disagree,2,Yes,DK/REF,TRUE,DK/REF
+143000,Male,52,DK/REF,Strongly Approve,Graduate degree,DK/REF,Likely,DK/REF,5,DK/REF,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+17000,Female,63,Independent,Strongly disapprove,Some college,Divorced,Likely,DK/REF,0,DK/REF,Strongly Agree,10,No,DK/REF,TRUE,Unwise and happy
+138000,Male,49,Democrat,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Wise and Unhappy
+100000,Male,19,Independent,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,No,DK/REF,DK/REF,Wise and Unhappy
+104000,Female,70,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,60,Yes,Too Low,FALSE,Wise and Unhappy
+85000,Female,60,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,50,No,Too High,TRUE,DK/REF
+202000,Male,40,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+41000,Female,41,Independent,Neither approve nor disapprove,College degree,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,7,Yes,Too Low,TRUE,Wise and Unhappy
+65000,Female,50,Independent,DK/REF,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,0,No,Too Low,TRUE,Unwise and happy
+147000,Male,64,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,3,No,Too Low,TRUE,Wise and Unhappy
+19000,Male,83,Republican,Strongly Approve,High school,Widowed,DK/REF,Real and Caused by People,,DK/REF,DK/REF,3,Yes,Too Low,TRUE,Unwise and happy
+97000,Female,53,Independent,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,5,Strongly Disagree,Strongly Disagree,1,Yes,About Right,FALSE,Unwise and happy
+105000,Male,68,Independent,DK/REF,Graduate degree,Single,Unlikely,Real but not Caused by People,3,Somewhat Disagree,Strongly Disagree,4,Yes,About Right,FALSE,Wise and Unhappy
+132000,Male,60,Independent,Strongly disapprove,Some college,Married,DK/REF,Real and Caused by People,0,Strongly Agree,Strongly Agree,6,No,About Right,TRUE,Wise and Unhappy
+153000,Female,58,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Disagree,10,Yes,About Right,TRUE,Unwise and happy
+17000,Female,53,Democrat,Somewhat disapprove,Some college,Married,Likely,Real and Caused by People,2,Somewhat Disagree,Somewhat Agree,2,No,Too Low,DK/REF,Unwise and happy
+45000,Female,26,Independent,Somewhat disapprove,High school,In a relationship,Likely,Not Real At All,3,Somewhat Agree,Strongly Agree,3,No,About Right,FALSE,Unwise and happy
+35000,Male,58,Democrat,Strongly disapprove,High school,In a relationship,Likely,Not Real At All,0,Somewhat Agree,Strongly Disagree,0,Yes,Too High,FALSE,Wise and Unhappy
+90000,Female,37,Independent,Strongly disapprove,College degree,Married,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,120,No,Too Low,TRUE,Unwise and happy
+62000,Male,52,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,1,DK/REF,Strongly Agree,4,No,About Right,TRUE,Wise and Unhappy
+71000,Female,56,DK/REF,Strongly disapprove,High school,Married,Likely,Real and Caused by People,2,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Unwise and happy
+118000,Male,50,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,4,Somewhat Disagree,Strongly Agree,0,No,DK/REF,FALSE,Unwise and happy
+159000,Female,47,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,4,Yes,Too Low,FALSE,Unwise and happy
+5000,Female,55,Republican,Strongly Approve,High school,In a relationship,Unlikely,Real but not Caused by People,4,Somewhat Agree,Strongly Agree,5,Yes,Too Low,TRUE,Unwise and happy
+436000,Male,55,Independent,Somewhat disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,3,Yes,Too Low,TRUE,Unwise and happy
+97000,Female,61,Republican,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,Unwise and happy
+22000,Male,64,DK/REF,Strongly disapprove,DK/REF,Widowed,Unlikely,Real and Caused by People,,Somewhat Agree,DK/REF,4,DK/REF,Too Low,FALSE,Unwise and happy
+19000,Female,54,Republican,Strongly Approve,Some college,In a relationship,Likely,Real and Caused by People,1,DK/REF,Strongly Disagree,15,Yes,DK/REF,TRUE,Unwise and happy
+200000,Female,52,DK/REF,Somewhat disapprove,Some college,Married,Likely,Real but not Caused by People,2,Strongly Agree,Strongly Agree,200,DK/REF,Too Low,FALSE,Wise and Unhappy
+51000,Female,71,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Strongly Disagree,Somewhat Disagree,16,Yes,Too High,FALSE,Wise and Unhappy
+7000,Female,58,Republican,Strongly Approve,High school,Single,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,3,No,Too High,TRUE,Wise and Unhappy
+18000,Female,40,Democrat,Strongly disapprove,Some college,Divorced,Unlikely,Not Real At All,,Strongly Disagree,Strongly Disagree,100,No,Too High,TRUE,Unwise and happy
+56000,Female,59,Democrat,Strongly disapprove,High school,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+140000,Female,42,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,225,No,Too Low,FALSE,Wise and Unhappy
+31000,Female,38,Independent,Somewhat Approve,College degree,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,20,Yes,Too Low,TRUE,Wise and Unhappy
+93000,Female,64,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,DK/REF,About Right,DK/REF,Unwise and happy
+32000,Female,59,Democrat,Strongly disapprove,Graduate degree,Widowed,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,6,No,Too Low,FALSE,Wise and Unhappy
+59000,Female,29,Democrat,Strongly disapprove,Some college,Single,DK/REF,Real and Caused by People,0,DK/REF,Strongly Agree,3,Yes,DK/REF,DK/REF,Unwise and happy
+150000,Male,65,Republican,Strongly disapprove,High school,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Agree,2,No,Too High,TRUE,Unwise and happy
+132000,Male,52,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,2,Yes,Too Low,TRUE,Unwise and happy
+172000,Male,40,DK/REF,Strongly Approve,High school,Married,Unlikely,Not Real At All,2,Strongly Disagree,Somewhat Agree,13,No,Too High,TRUE,Wise and Unhappy
+25000,Female,52,Independent,Strongly disapprove,High school,Divorced,Likely,Not Real At All,0,Somewhat Disagree,Strongly Agree,0,No,Too Low,TRUE,Unwise and happy
+31000,Male,56,Democrat,Strongly disapprove,Some college,In a relationship,DK/REF,Real and Caused by People,,Strongly Agree,Strongly Agree,,Yes,Too Low,DK/REF,Unwise and happy
+54000,Male,60,Republican,Somewhat Approve,High school,Married,Unlikely,DK/REF,0,DK/REF,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+199000,Male,63,Democrat,Strongly disapprove,Graduate degree,Married,Likely,Real but not Caused by People,,Strongly Agree,Strongly Agree,12,No,Too Low,FALSE,Wise and Unhappy
+55000,Female,59,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,Yes,Too Low,TRUE,Wise and Unhappy
+44000,Male,56,DK/REF,Somewhat Approve,Graduate degree,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Disagree,20,No,Too High,FALSE,Wise and Unhappy
+51000,Male,61,Republican,Strongly Approve,Some college,Married,DK/REF,Real but not Caused by People,2,Neither Agree nor Disagree,Somewhat Agree,17,No,About Right,TRUE,DK/REF
+98000,Male,57,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,2,No,Too Low,FALSE,Wise and Unhappy
+39000,Female,57,Independent,Strongly disapprove,Graduate degree,In a relationship,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,15,No,Too Low,TRUE,Wise and Unhappy
+26000,Male,49,Independent,Somewhat Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,0,No,About Right,FALSE,Unwise and happy
+70000,Female,72,Republican,Strongly Approve,High school,Widowed,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Agree,2,DK/REF,About Right,FALSE,DK/REF
+174000,Female,68,Democrat,Strongly disapprove,Graduate degree,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+,Female,60,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,10,No,Too Low,FALSE,Unwise and happy
+,Female,63,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,,Strongly Agree,Somewhat Agree,30,No,About Right,FALSE,Unwise and happy
+,Male,46,DK/REF,Strongly Approve,Some college,Married,Unlikely,Not Real At All,1,Somewhat Disagree,Strongly Agree,25,No,Too High,FALSE,DK/REF
+,Male,39,Independent,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,,Somewhat Disagree,Somewhat Disagree,1000,Yes,Too High,TRUE,Wise and Unhappy
+,Male,50,DK/REF,Somewhat Approve,High school,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,0,No,Too High,FALSE,Wise and Unhappy
+,Male,88,Independent,Neither approve nor disapprove,College degree,Married,Likely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,0,No,About Right,TRUE,Wise and Unhappy
+,Male,31,Republican,Somewhat Approve,College degree,In a relationship,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,4,No,Too Low,FALSE,Unwise and happy
+,Male,45,DK/REF,Neither approve nor disapprove,High school,Single,Unlikely,DK/REF,0,DK/REF,Strongly Agree,0,No,Too Low,FALSE,Wise and Unhappy
+,Other,30,Democrat,Strongly Approve,High school,Single,Unlikely,DK/REF,,Strongly Agree,Strongly Agree,2,Yes,Too High,DK/REF,Unwise and happy
+,Female,64,DK/REF,DK/REF,High school,Married,Unlikely,DK/REF,0,Somewhat Agree,Strongly Agree,20,No,DK/REF,TRUE,Wise and Unhappy
+,Female,32,DK/REF,DK/REF,Some college,Single,Unlikely,DK/REF,,DK/REF,Somewhat Agree,30,No,DK/REF,TRUE,Wise and Unhappy
+,Female,42,Independent,Strongly Approve,College degree,In a relationship,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,3,No,About Right,TRUE,Unwise and happy
+,Male,70,Independent,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,4,No,About Right,FALSE,Unwise and happy
+,Female,69,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+,Male,51,Independent,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,4,Somewhat Agree,Strongly Agree,0,Yes,About Right,TRUE,Wise and Unhappy
+,Male,64,Independent,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,Neither Agree nor Disagree,3,Yes,Too High,TRUE,Wise and Unhappy
+,Female,49,DK/REF,DK/REF,Graduate degree,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Disagree,3,No,About Right,TRUE,Unwise and happy
+,Female,34,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,3,Somewhat Disagree,Somewhat Agree,8,Yes,Too High,TRUE,Unwise and happy
+,Female,50,Republican,Neither approve nor disapprove,College degree,Married,Unlikely,Not Real At All,,Somewhat Agree,Somewhat Agree,50,No,DK/REF,FALSE,Wise and Unhappy
+,Female,65,Independent,Strongly Approve,Graduate degree,Widowed,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,5,No,Too Low,TRUE,Wise and Unhappy
+,Male,74,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+,Male,49,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,1,No,About Right,TRUE,Unwise and happy
+,Female,25,Republican,Strongly disapprove,Some college,Single,Unlikely,Not Real At All,5,Somewhat Disagree,Somewhat Disagree,0,Yes,Too High,TRUE,Unwise and happy
+,Female,22,DK/REF,Strongly disapprove,Graduate degree,Single,Likely,Real and Caused by People,0,Somewhat Disagree,Strongly Disagree,40,No,About Right,FALSE,Wise and Unhappy
+,Female,67,Democrat,Somewhat disapprove,High school,Widowed,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,50,No,About Right,FALSE,Unwise and happy
+,Male,25,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Wise and Unhappy
+,Male,76,Independent,Strongly disapprove,Other,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+,Male,30,Independent,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,0,No,About Right,FALSE,Unwise and happy
+,Male,21,Independent,Somewhat disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Disagree,Strongly Agree,60,No,Too Low,TRUE,Wise and Unhappy
+,Female,38,Republican,Strongly Approve,College degree,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,13,No,About Right,TRUE,Wise and Unhappy
+100000,Female,59,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,3,Yes,About Right,FALSE,Unwise and happy
+,Male,52,Republican,Strongly Approve,High school,In a relationship,Unlikely,Not Real At All,3,Strongly Disagree,Strongly Agree,25,Yes,About Right,TRUE,Wise and Unhappy
+,Female,21,Democrat,Strongly disapprove,Some college,Single,Likely,Real and Caused by People,2,Neither Agree nor Disagree,Neither Agree nor Disagree,0,No,About Right,FALSE,Unwise and happy
+,Male,38,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+,Male,53,Independent,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Female,51,Independent,Somewhat disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,2,No,About Right,FALSE,Unwise and happy
+,Male,45,Independent,Neither approve nor disapprove,Some college,Single,Unlikely,Not Real At All,0,Neither Agree nor Disagree,Strongly Agree,28,No,Too High,TRUE,Unwise and happy
+,Female,40,Democrat,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Unwise and happy
+,Male,70,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Disagree,1,No,About Right,TRUE,Wise and Unhappy
+,Male,58,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Female,42,Independent,Somewhat disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Unwise and happy
+,Female,36,Democrat,Strongly disapprove,Graduate degree,In a relationship,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,3,Yes,Too High,FALSE,Wise and Unhappy
+,Female,40,Independent,DK/REF,College degree,Married,DK/REF,Real and Caused by People,0,Somewhat Agree,Strongly Agree,100,No,DK/REF,TRUE,Unwise and happy
+,Female,24,Independent,DK/REF,College degree,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,10,Yes,Too Low,FALSE,Unwise and happy
+,Male,75,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,6,No,Too Low,FALSE,Wise and Unhappy
+,Female,68,Republican,Somewhat Approve,Some college,Widowed,Likely,Real but not Caused by People,0,Somewhat Agree,Strongly Disagree,250,No,About Right,TRUE,Unwise and happy
+132000,Male,57,Independent,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,4,No,About Right,FALSE,Unwise and happy
+48000,Male,64,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,3,Somewhat Agree,Somewhat Agree,0,Yes,About Right,FALSE,Wise and Unhappy
+92000,Female,56,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,12,Yes,Too Low,FALSE,Wise and Unhappy
+25000,Female,33,Democrat,Somewhat disapprove,Graduate degree,Single,Unlikely,Real but not Caused by People,1,Neither Agree nor Disagree,Strongly Agree,12,No,About Right,TRUE,Unwise and happy
+22000,Female,40,DK/REF,Somewhat Approve,Some college,Married,Unlikely,DK/REF,5,Strongly Agree,Strongly Agree,5,Yes,Too Low,TRUE,Unwise and happy
+57000,Female,57,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,56,Yes,Too High,FALSE,Unwise and happy
+170000,Male,63,Independent,Somewhat disapprove,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,3,No,About Right,TRUE,Wise and Unhappy
+92000,Female,57,Independent,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,52,No,Too Low,TRUE,Unwise and happy
+91000,Female,48,Independent,Somewhat Approve,College degree,Divorced,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,12,Yes,About Right,FALSE,Wise and Unhappy
+10000,Female,55,Independent,Neither approve nor disapprove,College degree,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,6,No,Too Low,TRUE,DK/REF
+48000,Female,60,Independent,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,40,Yes,Too High,TRUE,Wise and Unhappy
+105000,Female,59,Independent,Strongly Approve,High school,Divorced,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+52000,Male,51,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,4,Yes,Too Low,TRUE,Wise and Unhappy
+90000,Female,64,Republican,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,Yes,Too Low,TRUE,Wise and Unhappy
+39000,Female,75,Democrat,Strongly disapprove,High school,Divorced,DK/REF,Real and Caused by People,0,Strongly Disagree,Strongly Disagree,0,No,Too High,TRUE,Unwise and happy
+120000,Male,53,Democrat,Strongly disapprove,High school,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,2,Yes,About Right,TRUE,Unwise and happy
+34000,Female,65,DK/REF,Strongly Approve,High school,Single,Unlikely,Real but not Caused by People,1,Somewhat Disagree,DK/REF,0,No,Too High,TRUE,Unwise and happy
+180000,Female,40,Republican,Strongly Approve,College degree,Married,Likely,Not Real At All,0,Somewhat Disagree,Somewhat Agree,0,No,Too High,TRUE,Wise and Unhappy
+150000,Male,45,Republican,Somewhat Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,0,No,DK/REF,TRUE,Unwise and happy
+164000,Female,26,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+83000,Male,64,Independent,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,4,No,About Right,TRUE,Unwise and happy
+386000,Other,36,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,5,DK/REF,DK/REF,FALSE,Unwise and happy
+79000,Male,60,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Somewhat Agree,3,Yes,About Right,TRUE,Unwise and happy
+32000,Male,64,Independent,Strongly disapprove,College degree,Separated,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,6,No,Too Low,FALSE,DK/REF
+327000,Female,55,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,2,No,Too Low,TRUE,Wise and Unhappy
+62000,Female,62,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,5,No,Too Low,TRUE,Wise and Unhappy
+180000,Female,64,Republican,Somewhat Approve,Some college,Widowed,Unlikely,Real but not Caused by People,0,DK/REF,Strongly Agree,1,Yes,About Right,TRUE,Unwise and happy
+70000,Female,49,Independent,Strongly disapprove,Some college,In a relationship,Unlikely,Real but not Caused by People,4,Strongly Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+103000,Female,58,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Disagree,50,Yes,About Right,TRUE,Wise and Unhappy
+20000,Female,60,DK/REF,Strongly Approve,High school,Married,Likely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+57000,Male,47,Independent,Somewhat Approve,Graduate degree,Single,Likely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,Unwise and happy
+90000,Female,55,DK/REF,DK/REF,DK/REF,Married,Unlikely,DK/REF,2,Somewhat Disagree,Somewhat Disagree,8,No,DK/REF,DK/REF,Unwise and happy
+78000,Female,58,DK/REF,Strongly disapprove,Other,Married,Unlikely,Real and Caused by People,3,Strongly Disagree,Somewhat Agree,120,No,Too Low,FALSE,Wise and Unhappy
+132000,Female,61,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,6,No,Too Low,FALSE,DK/REF
+73000,Male,61,Republican,Neither approve nor disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,20,No,Too High,FALSE,Wise and Unhappy
+42000,Female,57,Republican,Somewhat Approve,Graduate degree,Married,DK/REF,Not Real At All,0,Somewhat Agree,Strongly Agree,30,Yes,About Right,TRUE,Unwise and happy
+21000,Female,69,Democrat,Strongly disapprove,High school,Separated,Likely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Disagree,2,No,About Right,FALSE,Unwise and happy
+163000,Male,58,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,DK/REF,12,No,Too Low,TRUE,Wise and Unhappy
+25000,Female,63,Independent,Strongly Approve,High school,Divorced,Unlikely,DK/REF,2,Strongly Agree,Strongly Agree,4,Yes,DK/REF,DK/REF,Wise and Unhappy
+92000,Female,66,Republican,Strongly Approve,High school,In a relationship,Likely,Not Real At All,,Strongly Disagree,Strongly Disagree,2,Yes,Too High,TRUE,Unwise and happy
+88000,Female,44,Independent,Strongly disapprove,High school,Married,Unlikely,Real but not Caused by People,5,Strongly Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+22000,Male,70,Independent,Somewhat Approve,Graduate degree,In a relationship,Unlikely,Not Real At All,0,Strongly Agree,Strongly Agree,6,No,About Right,TRUE,Wise and Unhappy
+43000,Male,63,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Disagree,5,No,About Right,FALSE,Unwise and happy
+90000,Male,60,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,2,Strongly Disagree,Somewhat Agree,15,No,About Right,TRUE,Wise and Unhappy
+47000,Female,60,Independent,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,2,Somewhat Disagree,Strongly Agree,6,Yes,Too Low,FALSE,Unwise and happy
+120000,Male,52,Independent,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,3,Strongly Disagree,Somewhat Agree,8,No,DK/REF,TRUE,Wise and Unhappy
+10000,Female,38,Independent,Strongly Approve,High school,Married,DK/REF,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+10000,Female,61,Independent,Strongly disapprove,Some college,In a relationship,Likely,Real and Caused by People,4,Somewhat Disagree,Strongly Disagree,10,Yes,Too High,FALSE,Unwise and happy
+55000,Female,62,Independent,Strongly Approve,High school,Married,Likely,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,10,DK/REF,About Right,TRUE,DK/REF
+113000,Male,40,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,0,No,About Right,FALSE,Unwise and happy
+137000,Female,40,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,15,Yes,About Right,FALSE,Wise and Unhappy
+9000,Female,61,Republican,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,25,Yes,Too Low,TRUE,Wise and Unhappy
+37000,Female,68,Democrat,Strongly disapprove,High school,Widowed,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,1,No,About Right,TRUE,Unwise and happy
+39000,Female,32,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,30,No,Too Low,FALSE,Unwise and happy
+13000,Female,55,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Somewhat Agree,0,Yes,About Right,TRUE,Unwise and happy
+47000,Female,58,Republican,Somewhat Approve,High school,Married,Likely,Real and Caused by People,0,Somewhat Disagree,Somewhat Disagree,0,No,About Right,TRUE,Unwise and happy
+72000,Male,60,Independent,Strongly Approve,Some college,Married,Unlikely,Not Real At All,1,Somewhat Disagree,Somewhat Agree,40,No,About Right,FALSE,Wise and Unhappy
+37000,Male,58,Independent,Strongly Approve,College degree,Married,Likely,Not Real At All,3,Somewhat Agree,Strongly Agree,60,Yes,About Right,TRUE,Unwise and happy
+69000,Male,55,Independent,Strongly Approve,Some college,Widowed,Unlikely,Not Real At All,4,Strongly Disagree,DK/REF,7,No,Too High,TRUE,Wise and Unhappy
+208000,Male,55,Independent,Strongly Approve,Graduate degree,Single,Unlikely,Not Real At All,4,Somewhat Disagree,Strongly Agree,10,No,About Right,TRUE,Unwise and happy
+75000,Female,59,Republican,Strongly Approve,Some college,Married,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,5,Yes,About Right,TRUE,Wise and Unhappy
+30000,Female,57,DK/REF,Somewhat disapprove,College degree,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,17,No,Too Low,TRUE,Wise and Unhappy
+23000,Male,62,Democrat,Strongly disapprove,High school,Divorced,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,5,No,About Right,FALSE,Unwise and happy
+8000,Male,34,Independent,Strongly disapprove,Some college,Single,DK/REF,Real and Caused by People,0,Strongly Disagree,Strongly Agree,3,No,Too Low,TRUE,Unwise and happy
+114000,Male,40,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,150,No,About Right,FALSE,Wise and Unhappy
+112000,Female,33,Democrat,Strongly disapprove,High school,Single,DK/REF,DK/REF,,DK/REF,DK/REF,0,Yes,DK/REF,DK/REF,Unwise and happy
+129000,Female,45,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,6,Yes,About Right,TRUE,DK/REF
+94000,Male,51,Democrat,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,10,No,Too Low,TRUE,Wise and Unhappy
+129000,Male,63,Republican,Strongly Approve,Graduate degree,Widowed,Unlikely,DK/REF,0,Strongly Agree,Somewhat Disagree,10,No,DK/REF,FALSE,Unwise and happy
+177000,Male,63,Republican,Strongly Approve,Some college,Divorced,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,2,Yes,About Right,TRUE,Unwise and happy
+30000,Female,62,DK/REF,Strongly disapprove,Some college,Married,DK/REF,Real and Caused by People,0,Strongly Disagree,Strongly Disagree,100,Yes,Too High,FALSE,Wise and Unhappy
+12000,Male,35,DK/REF,Somewhat Approve,College degree,Divorced,Likely,Real and Caused by People,2,Neither Agree nor Disagree,Somewhat Agree,4,No,Too Low,TRUE,Unwise and happy
+135000,Male,57,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Wise and Unhappy
+87000,Male,50,Independent,Somewhat Approve,High school,Married,Unlikely,Not Real At All,1,Somewhat Agree,Somewhat Disagree,6,Yes,Too Low,TRUE,Unwise and happy
+52000,Male,65,Independent,Somewhat disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,DK/REF,2,No,Too Low,TRUE,Wise and Unhappy
+86000,Male,55,DK/REF,Strongly disapprove,High school,Single,DK/REF,Real and Caused by People,3,Strongly Agree,Strongly Agree,10,No,Too Low,TRUE,Wise and Unhappy
+93000,Female,51,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,3,Yes,Too Low,TRUE,Unwise and happy
+183000,Female,80,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,10,No,About Right,FALSE,Wise and Unhappy
+169000,Female,61,Independent,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,5,No,About Right,TRUE,DK/REF
+13000,Other,22,DK/REF,DK/REF,College degree,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Somewhat Agree,6,Yes,About Right,TRUE,Unwise and happy
+102000,Female,61,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,8,Yes,About Right,FALSE,Wise and Unhappy
+71000,Male,60,Independent,Neither approve nor disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,4,No,Too Low,FALSE,Unwise and happy
+101000,Male,54,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,12,No,Too Low,TRUE,Unwise and happy
+198000,Female,54,Democrat,Strongly disapprove,College degree,Separated,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,10,Yes,Too Low,FALSE,Unwise and happy
+153000,Female,60,Republican,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,3,Yes,About Right,TRUE,Unwise and happy
+43000,Male,56,Democrat,Strongly disapprove,High school,Single,Likely,Real and Caused by People,4,Strongly Disagree,Strongly Agree,20,No,About Right,TRUE,Unwise and happy
+5000,Male,64,Democrat,Somewhat disapprove,High school,Single,Unlikely,Not Real At All,2,Somewhat Disagree,Somewhat Disagree,6,No,About Right,FALSE,Unwise and happy
+61000,Female,29,Democrat,Strongly disapprove,College degree,Single,Likely,Real and Caused by People,0,Somewhat Disagree,Strongly Disagree,0,No,Too High,TRUE,Wise and Unhappy
+42000,Female,20,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,4,Strongly Disagree,Strongly Agree,15,Yes,Too High,FALSE,Wise and Unhappy
+65000,Male,28,Democrat,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Disagree,100,Yes,DK/REF,TRUE,Unwise and happy
+203000,Male,50,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,70,No,Too High,FALSE,Unwise and happy
+168000,Female,58,Independent,Strongly disapprove,Other,In a relationship,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,4,Yes,About Right,FALSE,Unwise and happy
+130000,Female,36,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,20,Yes,Too Low,FALSE,Unwise and happy
+,Male,43,Democrat,Strongly disapprove,High school,Single,Unlikely,Not Real At All,5,Strongly Disagree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+,Female,63,Republican,Somewhat Approve,College degree,Widowed,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,,Yes,About Right,TRUE,Wise and Unhappy
+,Male,45,Independent,Somewhat Approve,College degree,Single,Unlikely,Real and Caused by People,,Somewhat Agree,Somewhat Agree,2,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,78,Independent,Strongly disapprove,Some college,Widowed,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,100,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,18,Independent,Strongly disapprove,High school,Single,Likely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,3,No,About Right,TRUE,Wise and Unhappy
+,Female,68,Independent,Somewhat Approve,Graduate degree,Widowed,Unlikely,Not Real At All,2,Somewhat Agree,Strongly Agree,30,No,DK/REF,FALSE,Unwise and happy
+105000,Female,64,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,3,DK/REF,Somewhat Agree,15,No,DK/REF,DK/REF,DK/REF
+,Male,71,Republican,Strongly Approve,College degree,Single,Unlikely,Not Real At All,4,Strongly Disagree,Strongly Agree,4,No,Too High,FALSE,Unwise and happy
+,Female,66,Democrat,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,31,Independent,Somewhat Approve,High school,Single,Unlikely,Not Real At All,3,Somewhat Disagree,Somewhat Agree,1,Yes,Too High,TRUE,Wise and Unhappy
+,Male,60,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,5,No,About Right,FALSE,Wise and Unhappy
+,Male,39,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,1,Strongly Disagree,Strongly Disagree,1,Yes,About Right,TRUE,Unwise and happy
+,Male,67,Independent,Somewhat disapprove,College degree,Widowed,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Disagree,2,No,Too Low,TRUE,Unwise and happy
+,Male,20,Independent,Somewhat Approve,Some college,Single,Unlikely,Real but not Caused by People,1,Somewhat Agree,Somewhat Agree,25,No,DK/REF,FALSE,Wise and Unhappy
+,Female,57,Democrat,Strongly disapprove,College degree,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,Wise and Unhappy
+,Male,29,Independent,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,0,Strongly Disagree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+,Male,61,Independent,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Strongly Disagree,Somewhat Agree,7,Yes,DK/REF,TRUE,Wise and Unhappy
+,Female,66,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,DK/REF,TRUE,Unwise and happy
+,Male,63,Independent,Strongly disapprove,College degree,Married,Likely,Real and Caused by People,2,Strongly Agree,Strongly Agree,700,No,Too Low,FALSE,Wise and Unhappy
+,Female,62,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,4,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,60,Independent,Strongly Approve,High school,Divorced,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,50,Yes,Too Low,TRUE,Unwise and happy
+,Male,21,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,17,No,Too Low,FALSE,Unwise and happy
+,Female,61,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,5,Somewhat Agree,Strongly Agree,15,Yes,Too Low,DK/REF,Wise and Unhappy
+,Female,72,Independent,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,No,Too Low,TRUE,DK/REF
+,Female,28,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,5,Strongly Agree,Strongly Agree,15,Yes,Too Low,FALSE,Unwise and happy
+,Male,29,Independent,Somewhat disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,2,No,About Right,FALSE,Unwise and happy
+,Male,33,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,No,Too Low,DK/REF,Wise and Unhappy
+,Female,32,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,7,Yes,Too Low,TRUE,Unwise and happy
+,Female,51,Independent,Somewhat Approve,High school,Single,Unlikely,Real and Caused by People,1,Somewhat Disagree,Somewhat Disagree,0,No,DK/REF,TRUE,Unwise and happy
+,Male,41,Independent,Strongly Approve,High school,In a relationship,Unlikely,Not Real At All,4,Strongly Disagree,Strongly Disagree,0,Yes,About Right,FALSE,Unwise and happy
+,Male,59,Republican,Strongly Approve,High school,Married,Unlikely,Not Real At All,0,Neither Agree nor Disagree,Strongly Agree,1,No,Too High,TRUE,Unwise and happy
+,Male,70,Republican,Strongly Approve,Graduate degree,Divorced,Unlikely,Real but not Caused by People,1,Somewhat Disagree,Strongly Agree,5,Yes,About Right,FALSE,Wise and Unhappy
+,Female,65,Independent,Strongly Approve,Graduate degree,Married,Likely,Not Real At All,2,Somewhat Agree,Strongly Agree,9,DK/REF,DK/REF,TRUE,Wise and Unhappy
+,Female,60,Independent,Strongly Approve,Some college,Married,Likely,Not Real At All,2,Somewhat Disagree,Strongly Disagree,14,Yes,Too High,FALSE,Unwise and happy
+,Male,32,Independent,Neither approve nor disapprove,High school,Married,Unlikely,Real and Caused by People,5,Strongly Disagree,Strongly Agree,5,Yes,DK/REF,TRUE,Wise and Unhappy
+,Male,36,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Other,60,Independent,Strongly Approve,Other,Single,Likely,Real and Caused by People,,Strongly Disagree,DK/REF,0,Yes,About Right,TRUE,DK/REF
+,Female,61,Democrat,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,Yes,About Right,FALSE,Wise and Unhappy
+,Male,23,Independent,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,4,Strongly Agree,Somewhat Disagree,70,Yes,Too Low,TRUE,Unwise and happy
+,Female,55,Democrat,Strongly disapprove,College degree,Separated,Unlikely,Real and Caused by People,1,Strongly Disagree,Somewhat Disagree,3,Yes,Too High,FALSE,Unwise and happy
+,Female,58,Democrat,Somewhat Approve,Some college,Widowed,DK/REF,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,20,Yes,About Right,TRUE,Unwise and happy
+,Male,24,Republican,Strongly Approve,Graduate degree,Single,Unlikely,Not Real At All,0,Somewhat Agree,Somewhat Disagree,5,No,About Right,FALSE,Wise and Unhappy
+,Female,34,DK/REF,DK/REF,College degree,Married,Unlikely,Not Real At All,1,Somewhat Disagree,Strongly Agree,3,Yes,Too Low,TRUE,Unwise and happy
+,Female,77,DK/REF,DK/REF,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Disagree,2,No,DK/REF,DK/REF,Unwise and happy
+,Male,36,Independent,Somewhat disapprove,Some college,Married,Unlikely,Real and Caused by People,,Somewhat Agree,Somewhat Disagree,5,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,19,Republican,Strongly Approve,Graduate degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,Yes,About Right,FALSE,Wise and Unhappy
+,Female,54,Democrat,Strongly Approve,Some college,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,5,Yes,Too Low,TRUE,Unwise and happy
+,Female,23,Republican,DK/REF,Some college,In a relationship,Unlikely,Real and Caused by People,5,Somewhat Agree,Somewhat Agree,30,Yes,Too Low,TRUE,Unwise and happy
+,Female,19,Independent,Somewhat disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,7,Yes,Too High,TRUE,Unwise and happy
+,Male,67,Independent,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,0,DK/REF,Too Low,DK/REF,Unwise and happy
+,Female,38,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,12,No,Too Low,FALSE,Wise and Unhappy
+,Female,99,DK/REF,Strongly Approve,College degree,Single,Unlikely,Not Real At All,4,Somewhat Agree,Strongly Disagree,25,No,Too Low,FALSE,DK/REF
+,Male,25,Democrat,Strongly disapprove,Graduate degree,In a relationship,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,23,No,Too Low,FALSE,Wise and Unhappy
+,Female,42,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Disagree,Strongly Disagree,6,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,71,Democrat,Strongly disapprove,Graduate degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,13,No,Too Low,FALSE,Wise and Unhappy
+,Male,48,DK/REF,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,1,No,Too Low,TRUE,Wise and Unhappy
+69000,Male,62,Democrat,Strongly disapprove,High school,Married,DK/REF,Real and Caused by People,0,Somewhat Agree,Strongly Agree,4,No,DK/REF,TRUE,Wise and Unhappy
+,Other,82,Independent,DK/REF,High school,Single,DK/REF,Real and Caused by People,,DK/REF,Somewhat Agree,,Yes,DK/REF,DK/REF,DK/REF
+,Other,26,DK/REF,Strongly Approve,Graduate degree,Separated,Likely,Not Real At All,5,Somewhat Agree,Neither Agree nor Disagree,55,Yes,DK/REF,FALSE,Wise and Unhappy
+,Female,65,Democrat,Strongly disapprove,College degree,Divorced,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,70,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,58,DK/REF,Neither approve nor disapprove,Graduate degree,Single,Unlikely,Not Real At All,0,DK/REF,Strongly Disagree,12,No,DK/REF,DK/REF,DK/REF
+,Male,72,Independent,DK/REF,Some college,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,2,No,Too Low,TRUE,Wise and Unhappy
+,Male,40,DK/REF,Strongly Approve,Graduate degree,In a relationship,Unlikely,Real but not Caused by People,0,DK/REF,Somewhat Disagree,3,No,Too Low,TRUE,DK/REF
+,Male,42,Independent,Neither approve nor disapprove,Graduate degree,Single,Likely,Real but not Caused by People,1,Somewhat Agree,Somewhat Agree,4,No,About Right,FALSE,DK/REF
+,Male,22,DK/REF,Somewhat Approve,High school,Single,Unlikely,Real and Caused by People,2,Somewhat Disagree,Somewhat Disagree,10,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,58,Independent,Strongly Approve,College degree,Separated,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,0,Yes,Too Low,DK/REF,Wise and Unhappy
+,Female,20,Independent,Somewhat disapprove,Some college,Single,Likely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,5,Yes,Too Low,FALSE,Unwise and happy
+,Male,42,Democrat,Somewhat Approve,College degree,Single,Likely,Real and Caused by People,4,Somewhat Agree,Strongly Disagree,20,No,Too Low,TRUE,Unwise and happy
+,Male,23,Independent,DK/REF,Some college,Married,Likely,Real and Caused by People,2,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+,DK/REF,62,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,50,No,Too High,TRUE,Unwise and happy
+41000,Female,53,Independent,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,25,Yes,Too Low,FALSE,Wise and Unhappy
+18000,Female,83,Republican,Somewhat disapprove,Some college,Widowed,Unlikely,Not Real At All,0,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Wise and Unhappy
+152000,Male,35,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,10,No,About Right,TRUE,Unwise and happy
+73000,Female,53,Independent,Strongly Approve,Some college,Married,Likely,Real but not Caused by People,0,Somewhat Agree,Strongly Disagree,5,No,About Right,TRUE,Unwise and happy
+42000,Female,40,Independent,Somewhat Approve,College degree,Single,Likely,Not Real At All,3,Somewhat Agree,Strongly Agree,0,Yes,DK/REF,FALSE,Unwise and happy
+68000,Female,48,Democrat,Somewhat disapprove,Some college,Married,Unlikely,Not Real At All,2,Somewhat Disagree,Strongly Agree,4,No,About Right,FALSE,Wise and Unhappy
+162000,Other,48,Independent,Strongly Approve,Graduate degree,In a relationship,Unlikely,Not Real At All,2,Somewhat Agree,Somewhat Agree,3,Yes,About Right,TRUE,Unwise and happy
+36000,Female,65,Republican,Strongly Approve,College degree,Divorced,Unlikely,Not Real At All,,Somewhat Disagree,Strongly Agree,10,Yes,About Right,DK/REF,Wise and Unhappy
+10000,Female,43,Democrat,Strongly disapprove,College degree,Married,Likely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,20,No,About Right,TRUE,Wise and Unhappy
+48000,Female,23,Democrat,Strongly disapprove,Some college,Single,Unlikely,DK/REF,0,Somewhat Agree,Somewhat Disagree,20,Yes,DK/REF,DK/REF,Wise and Unhappy
+126000,Other,42,Independent,Strongly Approve,Graduate degree,Single,Likely,Not Real At All,2,Somewhat Agree,Somewhat Agree,7,Yes,Too Low,FALSE,Wise and Unhappy
+9000,Female,70,Democrat,Strongly disapprove,Other,Married,DK/REF,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,40,No,Too High,TRUE,Unwise and happy
+122000,Male,65,DK/REF,Strongly disapprove,Some college,Widowed,Unlikely,DK/REF,0,Somewhat Agree,Somewhat Agree,3,No,Too Low,TRUE,Wise and Unhappy
+163000,Female,47,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,3,No,Too Low,TRUE,Unwise and happy
+38000,Male,45,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Strongly Agree,Strongly Agree,7,No,DK/REF,FALSE,Unwise and happy
+78000,Female,38,Independent,Strongly disapprove,High school,Married,DK/REF,Not Real At All,1,Strongly Disagree,Strongly Agree,0,Yes,Too Low,TRUE,Wise and Unhappy
+500000,Male,46,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,2,Yes,Too Low,FALSE,Wise and Unhappy
+77000,Female,51,Republican,DK/REF,Graduate degree,In a relationship,Likely,DK/REF,1,Strongly Agree,Strongly Agree,,Yes,Too High,DK/REF,DK/REF
+103000,Male,51,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,No,Too Low,FALSE,Wise and Unhappy
+64000,Male,28,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,5,Somewhat Agree,Strongly Agree,2,Yes,Too Low,TRUE,Wise and Unhappy
+166000,Male,28,Independent,Somewhat Approve,Some college,DK/REF,Unlikely,Real but not Caused by People,3,Strongly Disagree,Strongly Agree,5,No,About Right,FALSE,Wise and Unhappy
+102000,Male,49,Republican,Somewhat Approve,High school,Married,Unlikely,Not Real At All,3,Somewhat Disagree,Somewhat Disagree,1,Yes,Too High,FALSE,Unwise and happy
+86000,Male,69,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,DK/REF
+74000,Male,38,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,4,Yes,Too Low,TRUE,DK/REF
+146000,Female,46,Independent,Strongly disapprove,Graduate degree,Married,Likely,Real and Caused by People,2,Somewhat Disagree,Somewhat Disagree,5,Yes,Too High,FALSE,Unwise and happy
+,Female,49,Democrat,Strongly disapprove,High school,Widowed,Likely,Real but not Caused by People,4,Strongly Agree,Strongly Agree,10,Yes,Too Low,FALSE,Wise and Unhappy
+74000,Female,45,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,1,Strongly Agree,Somewhat Agree,26,No,Too High,TRUE,Wise and Unhappy
+,Female,27,Independent,Neither approve nor disapprove,College degree,Single,Unlikely,Real and Caused by People,4,Somewhat Disagree,Somewhat Agree,30,No,About Right,FALSE,Wise and Unhappy
+,Female,41,DK/REF,DK/REF,Graduate degree,Divorced,DK/REF,Real and Caused by People,2,Somewhat Agree,Strongly Agree,20,Yes,About Right,TRUE,Wise and Unhappy
+,Female,24,Democrat,DK/REF,College degree,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,20,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,32,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Male,54,DK/REF,Somewhat disapprove,High school,Divorced,Likely,Real but not Caused by People,0,Strongly Agree,DK/REF,400,No,Too High,TRUE,Wise and Unhappy
+,Male,51,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Wise and Unhappy
+,Female,44,Republican,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,Wise and Unhappy
+,Female,45,DK/REF,Strongly disapprove,College degree,Divorced,Likely,Real but not Caused by People,,Strongly Agree,Neither Agree nor Disagree,10,Yes,DK/REF,TRUE,DK/REF
+,Female,49,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,25,No,Too Low,FALSE,Wise and Unhappy
+,Female,18,DK/REF,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,40,No,About Right,FALSE,Unwise and happy
+,Female,30,Independent,Strongly disapprove,Some college,Married,Likely,Real but not Caused by People,3,Strongly Agree,Somewhat Disagree,5,Yes,Too High,FALSE,Wise and Unhappy
+,Female,29,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,2,No,Too Low,TRUE,Wise and Unhappy
+,Female,21,Republican,Strongly Approve,Some college,Single,Unlikely,Real but not Caused by People,3,Somewhat Disagree,Strongly Agree,5,No,About Right,TRUE,Unwise and happy
+,Male,75,Independent,Strongly Approve,College degree,Divorced,Likely,Real but not Caused by People,3,Somewhat Agree,Somewhat Agree,4,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,50,Democrat,Strongly disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,1,Strongly Disagree,Somewhat Disagree,2,Yes,Too Low,DK/REF,Unwise and happy
+36000,Female,87,DK/REF,Somewhat Approve,Some college,Widowed,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,20,No,DK/REF,FALSE,Wise and Unhappy
+,Male,72,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,12,DK/REF,Too Low,FALSE,Wise and Unhappy
+,Female,54,Independent,Neither approve nor disapprove,College degree,Widowed,Unlikely,Real and Caused by People,,Somewhat Agree,Strongly Agree,100,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,18,Democrat,Somewhat disapprove,College degree,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,30,No,Too High,TRUE,Wise and Unhappy
+,Male,41,DK/REF,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,2,DK/REF,Too Low,DK/REF,Wise and Unhappy
+,Male,21,Independent,DK/REF,Some college,In a relationship,Likely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,2,No,About Right,FALSE,Unwise and happy
+,Male,70,Democrat,Somewhat Approve,Some college,Widowed,Unlikely,Real but not Caused by People,1,Strongly Disagree,Somewhat Agree,0,No,DK/REF,FALSE,Unwise and happy
+,Female,22,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,DK/REF,Wise and Unhappy
+,Female,97,Independent,Somewhat Approve,College degree,Widowed,Unlikely,DK/REF,,Somewhat Disagree,DK/REF,5,No,DK/REF,TRUE,DK/REF
+,Female,35,DK/REF,DK/REF,College degree,Single,Likely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,7,No,About Right,FALSE,Unwise and happy
+,Female,40,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,0,Yes,About Right,FALSE,Wise and Unhappy
+,Male,28,Independent,Somewhat Approve,Some college,In a relationship,Unlikely,Real and Caused by People,5,Somewhat Agree,Somewhat Agree,30,No,About Right,TRUE,Unwise and happy
+,Male,50,DK/REF,DK/REF,College degree,Single,Unlikely,Real and Caused by People,3,Strongly Disagree,DK/REF,7,No,Too High,DK/REF,Wise and Unhappy
+,Male,29,DK/REF,Neither approve nor disapprove,Some college,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Male,27,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+106000,Male,50,Independent,DK/REF,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,DK/REF,Too Low,TRUE,Unwise and happy
+,Male,20,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,7,No,Too Low,TRUE,Wise and Unhappy
+,Male,34,Democrat,Somewhat disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,3,Somewhat Disagree,Strongly Agree,60,Yes,About Right,FALSE,Unwise and happy
+,Other,34,Independent,Somewhat Approve,College degree,DK/REF,Likely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,18,No,Too High,FALSE,Wise and Unhappy
+,Male,34,Democrat,Strongly Approve,High school,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,1,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,33,DK/REF,Neither approve nor disapprove,Graduate degree,Single,Unlikely,DK/REF,3,Somewhat Disagree,Neither Agree nor Disagree,4,No,Too Low,DK/REF,Unwise and happy
+,Female,36,DK/REF,DK/REF,College degree,Married,Unlikely,DK/REF,2,Strongly Agree,Somewhat Agree,50,Yes,About Right,TRUE,Wise and Unhappy
+,Male,74,DK/REF,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,,Somewhat Agree,Strongly Agree,,No,Too High,DK/REF,Unwise and happy
+,Other,21,DK/REF,Strongly Approve,Other,Single,Likely,Real and Caused by People,3,Strongly Disagree,Somewhat Disagree,,No,Too High,FALSE,Unwise and happy
+,Male,29,Republican,Somewhat disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Female,37,Independent,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Disagree,0,No,Too High,FALSE,Unwise and happy
+,Female,79,Independent,Somewhat disapprove,High school,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,35,No,DK/REF,FALSE,DK/REF
+,Male,23,Independent,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Unwise and happy
+,Male,77,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,36,Republican,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,4,Strongly Agree,Strongly Agree,10,No,About Right,FALSE,DK/REF
+,Male,69,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,DK/REF,3,DK/REF,About Right,TRUE,Unwise and happy
+,Female,20,Democrat,Strongly disapprove,High school,Single,Likely,Real and Caused by People,4,Strongly Agree,Strongly Agree,100,No,Too Low,FALSE,Wise and Unhappy
+,Male,34,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,0,No,Too Low,TRUE,Unwise and happy
+,Male,23,Independent,Neither approve nor disapprove,Some college,Single,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,9,No,About Right,FALSE,Unwise and happy
+,Male,51,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,6,No,About Right,FALSE,Wise and Unhappy
+,Female,68,Republican,Strongly Approve,High school,Married,Likely,DK/REF,0,Somewhat Disagree,Somewhat Disagree,4,Yes,Too High,DK/REF,Unwise and happy
+,Female,68,Democrat,Strongly disapprove,College degree,Divorced,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,300,No,Too Low,FALSE,Wise and Unhappy
+,Female,44,Democrat,Strongly disapprove,High school,Single,Likely,Real and Caused by People,4,Strongly Agree,Somewhat Agree,12,Yes,About Right,TRUE,Unwise and happy
+,Female,19,DK/REF,DK/REF,College degree,Single,Likely,DK/REF,0,Strongly Disagree,DK/REF,9,No,DK/REF,FALSE,Unwise and happy
+,Male,20,Republican,Somewhat Approve,Some college,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,12,No,Too Low,FALSE,Wise and Unhappy
+,Female,31,DK/REF,DK/REF,Some college,In a relationship,Unlikely,Real but not Caused by People,,DK/REF,Strongly Agree,0,Yes,DK/REF,TRUE,DK/REF
+,Female,67,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,150,No,DK/REF,FALSE,Wise and Unhappy
+127000,Female,85,DK/REF,Somewhat Approve,DK/REF,Married,DK/REF,DK/REF,0,Somewhat Agree,Somewhat Agree,0,Yes,About Right,TRUE,DK/REF
+24000,Female,28,Independent,Somewhat Approve,College degree,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+8000,Female,50,Republican,Strongly Approve,High school,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,6,Yes,About Right,TRUE,Unwise and happy
+60000,Male,39,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,25,No,Too Low,TRUE,Wise and Unhappy
+167000,Female,34,Independent,Strongly disapprove,Some college,Married,Unlikely,DK/REF,1,Somewhat Agree,Strongly Agree,36,No,Too Low,TRUE,Unwise and happy
+43000,Male,50,Independent,DK/REF,High school,Married,Likely,Real and Caused by People,5,Somewhat Disagree,Strongly Disagree,2,No,DK/REF,TRUE,Unwise and happy
+121000,Female,49,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,12,Yes,DK/REF,FALSE,Unwise and happy
+74000,Female,42,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Wise and Unhappy
+101000,Female,42,Democrat,Strongly disapprove,Graduate degree,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,2,Yes,About Right,FALSE,Wise and Unhappy
+360000,Female,65,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,DK/REF,12,DK/REF,Too Low,TRUE,Wise and Unhappy
+30000,Female,49,Democrat,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Disagree,50,Yes,Too Low,FALSE,Wise and Unhappy
+80000,Male,50,Republican,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,5,Somewhat Agree,Strongly Agree,4,No,About Right,FALSE,Unwise and happy
+72000,Other,70,Independent,Somewhat Approve,Graduate degree,DK/REF,Unlikely,Not Real At All,0,Strongly Agree,Strongly Disagree,25,Yes,About Right,TRUE,Wise and Unhappy
+81000,Female,27,DK/REF,Strongly disapprove,Graduate degree,In a relationship,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,27,Yes,Too Low,FALSE,Unwise and happy
+54000,Female,54,Republican,Strongly Approve,Some college,Married,Likely,Real but not Caused by People,0,DK/REF,DK/REF,20,No,DK/REF,DK/REF,Unwise and happy
+23000,Male,73,Independent,Somewhat disapprove,High school,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,3,No,Too High,TRUE,Wise and Unhappy
+44000,Female,44,DK/REF,DK/REF,Some college,Widowed,Unlikely,Real and Caused by People,4,Somewhat Disagree,Somewhat Agree,6,Yes,Too Low,TRUE,Wise and Unhappy
+159000,Female,45,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,18,No,Too Low,FALSE,Wise and Unhappy
+163000,Male,45,DK/REF,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,12,No,Too Low,TRUE,Unwise and happy
+44000,Female,80,Democrat,Strongly disapprove,High school,Married,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,20,Yes,Too Low,TRUE,Wise and Unhappy
+47000,Female,45,Democrat,Strongly disapprove,Other,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,20,Yes,Too Low,DK/REF,Wise and Unhappy
+124000,Female,80,Independent,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,About Right,TRUE,Wise and Unhappy
+97000,Other,32,Independent,Strongly disapprove,High school,Single,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,3,No,DK/REF,TRUE,Unwise and happy
+220000,Male,45,Democrat,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,6,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,24,Independent,Strongly disapprove,Some college,In a relationship,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,30,Yes,DK/REF,FALSE,Wise and Unhappy
+,Male,54,Republican,Strongly Approve,Graduate degree,Single,Unlikely,Real but not Caused by People,5,Strongly Disagree,Strongly Agree,3,Yes,DK/REF,FALSE,Unwise and happy
+,Female,43,Independent,Strongly disapprove,High school,Widowed,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,0,No,Too Low,TRUE,Wise and Unhappy
+,Female,43,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,,Strongly Agree,Somewhat Agree,7,No,About Right,FALSE,Wise and Unhappy
+,Female,31,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Somewhat Disagree,4,No,Too High,FALSE,Wise and Unhappy
+,Male,31,DK/REF,DK/REF,College degree,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,20,No,Too Low,FALSE,DK/REF
+,Female,71,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,10,No,About Right,TRUE,Unwise and happy
+,Male,40,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,4,Somewhat Agree,Strongly Agree,6,No,Too Low,TRUE,Wise and Unhappy
+,Male,28,Republican,Neither approve nor disapprove,College degree,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Somewhat Agree,1,No,Too Low,FALSE,Unwise and happy
+,Male,47,Independent,Somewhat disapprove,High school,Single,Unlikely,Real and Caused by People,1,Neither Agree nor Disagree,Somewhat Disagree,3,No,Too High,TRUE,DK/REF
+,Male,22,Democrat,Somewhat Approve,Graduate degree,In a relationship,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,20,No,Too Low,FALSE,Unwise and happy
+,Male,71,Democrat,Somewhat disapprove,High school,Single,Likely,Real and Caused by People,2,Somewhat Disagree,Strongly Agree,9,No,Too High,TRUE,Unwise and happy
+,Male,77,Republican,DK/REF,Some college,Divorced,Unlikely,DK/REF,1,DK/REF,DK/REF,30,No,Too Low,FALSE,Wise and Unhappy
+16000,Female,68,Democrat,DK/REF,College degree,Married,Unlikely,Real and Caused by People,0,DK/REF,DK/REF,2,No,DK/REF,DK/REF,Unwise and happy
+,Female,46,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Unwise and happy
+,Female,25,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,8,Yes,Too Low,FALSE,Unwise and happy
+,Female,46,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,DK/REF,3,Somewhat Agree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+,Male,50,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,10,No,About Right,TRUE,Unwise and happy
+,Female,25,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Disagree,10,Yes,DK/REF,TRUE,Wise and Unhappy
+,Female,29,Democrat,Strongly disapprove,High school,In a relationship,Unlikely,Real and Caused by People,,Strongly Agree,Somewhat Disagree,25,Yes,Too High,TRUE,Wise and Unhappy
+,Male,20,Republican,Strongly Approve,Some college,Single,Unlikely,Real but not Caused by People,4,Strongly Disagree,Strongly Agree,20,No,Too High,TRUE,Wise and Unhappy
+,Male,40,DK/REF,DK/REF,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,32,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,20,No,Too Low,TRUE,Unwise and happy
+,Female,54,Republican,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,10,Yes,DK/REF,TRUE,Wise and Unhappy
+,Male,35,Republican,Strongly disapprove,High school,In a relationship,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,2,No,About Right,TRUE,Unwise and happy
+,Female,19,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,4,No,Too Low,FALSE,Unwise and happy
+,Female,67,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,Yes,Too Low,DK/REF,DK/REF
+,Male,35,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,Wise and Unhappy
+,Female,42,Republican,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,3,Yes,Too Low,TRUE,Unwise and happy
+,Male,91,Democrat,DK/REF,High school,Widowed,DK/REF,Real but not Caused by People,,DK/REF,DK/REF,1,No,DK/REF,TRUE,DK/REF
+,Female,21,Republican,Strongly Approve,Some college,In a relationship,Unlikely,Not Real At All,5,Somewhat Agree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+,Female,67,Republican,Strongly Approve,High school,Widowed,Unlikely,Real and Caused by People,2,Strongly Disagree,Strongly Agree,15,Yes,Too Low,FALSE,Unwise and happy
+,Male,32,DK/REF,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Unwise and happy
+,Male,30,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,Unwise and happy
+,Female,71,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,40,No,Too Low,TRUE,Wise and Unhappy
+,Male,73,Independent,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,3,No,Too Low,TRUE,Unwise and happy
+,Female,38,Republican,Somewhat Approve,College degree,Divorced,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,20,No,About Right,FALSE,Unwise and happy
+,Female,30,Democrat,Somewhat disapprove,Some college,Married,Unlikely,Not Real At All,3,Somewhat Agree,Strongly Agree,15,No,About Right,TRUE,Unwise and happy
+,Male,20,DK/REF,DK/REF,Some college,In a relationship,Unlikely,Real but not Caused by People,5,Neither Agree nor Disagree,Neither Agree nor Disagree,5,No,About Right,FALSE,Unwise and happy
+,Female,45,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,DK/REF,DK/REF,FALSE,DK/REF
+,Female,75,Republican,DK/REF,High school,Widowed,Likely,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,100,Yes,Too High,TRUE,Unwise and happy
+,Female,48,Democrat,Strongly disapprove,Other,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+,Male,21,DK/REF,DK/REF,Some college,In a relationship,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,0,No,Too Low,FALSE,Unwise and happy
+,Male,46,Independent,Somewhat disapprove,High school,Other,Unlikely,Real and Caused by People,4,Strongly Agree,Somewhat Disagree,,Yes,DK/REF,TRUE,Unwise and happy
+,Other,92,Independent,Somewhat disapprove,High school,Divorced,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Male,71,Republican,Somewhat Approve,College degree,Widowed,Unlikely,Real and Caused by People,,Strongly Disagree,Somewhat Agree,2,Yes,Too High,FALSE,DK/REF
+,Female,36,DK/REF,Somewhat Approve,High school,Divorced,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,200,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,30,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,15,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,36,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Somewhat Disagree,Strongly Agree,6,No,About Right,FALSE,Unwise and happy
+,Male,48,DK/REF,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Disagree,90,No,Too High,FALSE,Wise and Unhappy
+,Male,43,Independent,Strongly Approve,High school,Married,Likely,Real and Caused by People,5,Somewhat Disagree,Somewhat Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Male,27,Republican,Strongly Approve,High school,Married,Unlikely,Real and Caused by People,4,Strongly Disagree,Somewhat Disagree,4,Yes,Too High,TRUE,Unwise and happy
+,Female,36,Democrat,Strongly disapprove,Graduate degree,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,40,Yes,Too Low,FALSE,Wise and Unhappy
+390000,Male,48,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,Yes,Too Low,FALSE,Wise and Unhappy
+170000,Male,46,Democrat,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,6,No,Too Low,FALSE,Unwise and happy
+92000,Male,99,Republican,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,15,No,About Right,TRUE,Unwise and happy
+223000,Female,84,Independent,DK/REF,Graduate degree,Married,DK/REF,DK/REF,0,Somewhat Agree,Strongly Agree,10,No,About Right,TRUE,Wise and Unhappy
+102000,Male,37,Independent,Neither approve nor disapprove,High school,Married,Likely,Real and Caused by People,3,Somewhat Disagree,Strongly Disagree,0,Yes,DK/REF,TRUE,Unwise and happy
+68000,Male,44,Republican,Strongly Approve,Some college,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,DK/REF,TRUE,Unwise and happy
+160000,Male,65,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,0,No,About Right,DK/REF,DK/REF
+70000,Female,38,Independent,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,30,No,Too Low,FALSE,Unwise and happy
+56000,Male,68,Independent,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,15,DK/REF,Too Low,FALSE,DK/REF
+38000,Male,51,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Strongly Disagree,Somewhat Agree,8,No,Too Low,TRUE,Unwise and happy
+64000,Male,54,Democrat,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,0,No,Too High,FALSE,Unwise and happy
+124000,Female,37,Republican,Strongly Approve,Graduate degree,In a relationship,Unlikely,Real but not Caused by People,1,Strongly Disagree,Strongly Agree,16,Yes,About Right,FALSE,Wise and Unhappy
+7000,Female,66,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,50,Yes,Too Low,FALSE,Unwise and happy
+43000,Female,65,Independent,Strongly Approve,Some college,Widowed,Likely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,100,No,About Right,FALSE,Unwise and happy
+12000,Other,72,Republican,DK/REF,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,52,Yes,Too Low,TRUE,Unwise and happy
+34000,Male,65,Democrat,Somewhat disapprove,Some college,Divorced,Unlikely,Real and Caused by People,0,Somewhat Disagree,DK/REF,10,Yes,Too High,TRUE,Unwise and happy
+87000,Male,22,DK/REF,Strongly disapprove,Some college,Divorced,Likely,Real and Caused by People,5,Neither Agree nor Disagree,Neither Agree nor Disagree,0,Yes,DK/REF,DK/REF,Unwise and happy
+58000,Male,51,Republican,Strongly Approve,High school,Single,Likely,Not Real At All,0,Somewhat Agree,Somewhat Agree,0,No,Too High,TRUE,Unwise and happy
+260000,Female,43,Independent,DK/REF,Some college,Single,Unlikely,Real and Caused by People,1,Strongly Disagree,Strongly Agree,18,Yes,DK/REF,TRUE,Unwise and happy
+139000,Male,32,Democrat,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,2,No,About Right,TRUE,Unwise and happy
+211000,Female,65,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,12,Yes,DK/REF,TRUE,DK/REF
+73000,Female,71,DK/REF,DK/REF,Some college,Widowed,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,1,No,About Right,FALSE,Unwise and happy
+72000,Male,65,Independent,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,2,Strongly Agree,Strongly Agree,6,DK/REF,About Right,FALSE,Wise and Unhappy
+9000,Female,40,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,1,Strongly Disagree,Strongly Disagree,20,No,Too High,TRUE,Unwise and happy
+56000,Male,79,Democrat,DK/REF,Some college,Married,Likely,Real and Caused by People,,Somewhat Agree,Somewhat Agree,20,No,Too Low,DK/REF,Wise and Unhappy
+30000,Female,68,Republican,Strongly Approve,High school,Married,Likely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,3,No,About Right,TRUE,Unwise and happy
+101000,Female,51,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Somewhat Agree,12,Yes,Too Low,FALSE,DK/REF
+32000,Male,39,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Disagree,12,Yes,Too High,FALSE,DK/REF
+168000,Female,51,Independent,Neither approve nor disapprove,College degree,Married,Unlikely,Real but not Caused by People,0,Strongly Agree,Somewhat Agree,24,No,About Right,FALSE,Unwise and happy
+75000,Male,83,Democrat,DK/REF,Some college,Divorced,DK/REF,DK/REF,0,Neither Agree nor Disagree,DK/REF,0,DK/REF,Too Low,TRUE,DK/REF
+27000,Male,52,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,1,No,DK/REF,TRUE,Unwise and happy
+32000,Male,53,DK/REF,Somewhat Approve,Some college,Single,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,2,No,About Right,TRUE,Unwise and happy
+93000,Female,66,Democrat,Strongly disapprove,Graduate degree,Married,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+29000,Female,37,Independent,Strongly disapprove,College degree,Single,Unlikely,Not Real At All,2,Somewhat Disagree,Strongly Agree,2,Yes,DK/REF,FALSE,Unwise and happy
+131000,Male,53,DK/REF,Strongly disapprove,High school,Married,DK/REF,DK/REF,0,DK/REF,DK/REF,0,No,DK/REF,TRUE,Unwise and happy
+168000,Female,65,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,,Yes,Too Low,TRUE,Unwise and happy
+62000,Female,18,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,5,Strongly Agree,Somewhat Agree,50,No,Too Low,TRUE,Wise and Unhappy
+10000,Male,43,Independent,Somewhat disapprove,College degree,Divorced,Unlikely,Not Real At All,0,Somewhat Disagree,Somewhat Disagree,50,No,Too High,TRUE,Unwise and happy
+24000,Female,65,Independent,Neither approve nor disapprove,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,20,No,About Right,FALSE,DK/REF
+15000,Female,86,Independent,Strongly Approve,High school,Widowed,Likely,Real but not Caused by People,0,DK/REF,Somewhat Agree,,No,DK/REF,DK/REF,Unwise and happy
+107000,Male,76,Democrat,Strongly Approve,Graduate degree,Married,Likely,DK/REF,0,Somewhat Agree,Strongly Agree,25,No,Too Low,DK/REF,Unwise and happy
+204000,Female,35,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,45,No,Too Low,TRUE,Wise and Unhappy
+75000,Male,40,Independent,DK/REF,College degree,Married,Unlikely,DK/REF,0,Somewhat Agree,Somewhat Agree,20,Yes,Too Low,FALSE,Wise and Unhappy
+12000,Female,48,Democrat,Strongly disapprove,Graduate degree,Divorced,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,15,No,DK/REF,TRUE,Wise and Unhappy
+144000,Male,36,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,7,No,Too Low,TRUE,Wise and Unhappy
+79000,Female,48,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Disagree,3,No,Too Low,FALSE,Wise and Unhappy
+28000,Female,68,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,50,No,Too Low,FALSE,Wise and Unhappy
+129000,Female,51,Republican,DK/REF,Some college,Married,DK/REF,Real but not Caused by People,,Strongly Disagree,Somewhat Agree,3,Yes,Too High,DK/REF,Unwise and happy
+25000,Male,53,Independent,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,4,Strongly Agree,Somewhat Disagree,10,No,About Right,TRUE,Wise and Unhappy
+5000,Female,43,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,2,No,DK/REF,TRUE,Wise and Unhappy
+10000,Female,76,Independent,DK/REF,DK/REF,Widowed,Likely,Real and Caused by People,0,DK/REF,DK/REF,0,Yes,DK/REF,TRUE,DK/REF
+,Male,44,Independent,Strongly disapprove,College degree,Divorced,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Unwise and happy
+,Female,75,Republican,Somewhat Approve,Some college,Married,DK/REF,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,4,No,About Right,DK/REF,DK/REF
+,Female,35,Democrat,Strongly disapprove,Some college,In a relationship,Likely,Real and Caused by People,0,Strongly Agree,Strongly Disagree,20,No,Too Low,TRUE,Wise and Unhappy
+,Female,43,Independent,DK/REF,Some college,Married,Likely,Real but not Caused by People,4,Somewhat Disagree,Somewhat Agree,3,No,About Right,TRUE,Wise and Unhappy
+,Male,30,DK/REF,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,3,Somewhat Disagree,Strongly Agree,7,No,Too Low,FALSE,Wise and Unhappy
+,Male,21,Democrat,Somewhat Approve,High school,Divorced,DK/REF,Not Real At All,0,Somewhat Agree,Somewhat Agree,0,No,About Right,TRUE,Unwise and happy
+,Male,34,Independent,DK/REF,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,5,No,About Right,FALSE,Unwise and happy
+,Male,43,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+,Female,45,Democrat,Strongly disapprove,High school,Single,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,0,No,Too High,TRUE,Wise and Unhappy
+,Male,20,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Somewhat Disagree,DK/REF,3,No,About Right,FALSE,Wise and Unhappy
+,Female,47,DK/REF,DK/REF,Graduate degree,Divorced,Unlikely,Real and Caused by People,1,DK/REF,Somewhat Disagree,6,Yes,Too Low,DK/REF,Unwise and happy
+,Male,28,DK/REF,Strongly disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Disagree,5,No,About Right,FALSE,Wise and Unhappy
+,Female,22,Democrat,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,40,No,Too Low,TRUE,Wise and Unhappy
+,Female,42,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,10,No,About Right,FALSE,Wise and Unhappy
+,Male,37,DK/REF,DK/REF,Graduate degree,Married,Unlikely,DK/REF,0,Somewhat Agree,Strongly Agree,5,No,DK/REF,TRUE,Wise and Unhappy
+,Female,50,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,20,No,Too Low,DK/REF,Wise and Unhappy
+,Female,33,Democrat,Strongly disapprove,College degree,In a relationship,Likely,Real and Caused by People,3,Somewhat Disagree,Strongly Disagree,15,Yes,About Right,FALSE,Wise and Unhappy
+,Male,47,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,80,No,Too Low,FALSE,Wise and Unhappy
+,Male,46,Democrat,Strongly disapprove,Some college,In a relationship,Likely,Real and Caused by People,2,DK/REF,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Male,27,Republican,Strongly Approve,College degree,Single,Likely,Real and Caused by People,4,Somewhat Agree,DK/REF,150,Yes,Too Low,TRUE,Unwise and happy
+,Male,21,Democrat,Strongly disapprove,Some college,Single,Likely,Real and Caused by People,0,Strongly Disagree,DK/REF,0,Yes,DK/REF,TRUE,Wise and Unhappy
+,Female,75,Republican,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Neither Agree nor Disagree,7,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,24,Independent,Somewhat disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,15,Yes,Too Low,TRUE,Unwise and happy
+,Female,24,Republican,Somewhat Approve,Some college,Single,Unlikely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,10,No,Too Low,TRUE,Wise and Unhappy
+42000,Male,30,Independent,DK/REF,DK/REF,Divorced,Likely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,10,No,Too Low,TRUE,Unwise and happy
+63000,Male,23,DK/REF,DK/REF,High school,Single,Likely,Real and Caused by People,1,DK/REF,DK/REF,200,No,About Right,TRUE,Wise and Unhappy
+32000,Male,51,Democrat,Somewhat disapprove,High school,Married,Unlikely,Real and Caused by People,5,Somewhat Agree,Strongly Agree,1,Yes,Too Low,TRUE,Wise and Unhappy
+58000,Female,53,Independent,DK/REF,High school,In a relationship,Unlikely,Real but not Caused by People,0,Strongly Disagree,Strongly Agree,0,Yes,Too High,TRUE,Unwise and happy
+135000,Female,51,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,3,Yes,Too Low,FALSE,Wise and Unhappy
+81000,Female,66,Independent,Neither approve nor disapprove,High school,Divorced,Likely,DK/REF,0,Somewhat Disagree,Strongly Agree,100,No,Too High,FALSE,Unwise and happy
+46000,Male,50,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,0,DK/REF,Somewhat Agree,5,No,DK/REF,TRUE,DK/REF
+76000,Female,24,DK/REF,Strongly disapprove,Graduate degree,Single,Unlikely,DK/REF,2,DK/REF,DK/REF,,No,DK/REF,FALSE,Wise and Unhappy
+95000,Female,47,Republican,Neither approve nor disapprove,Graduate degree,Married,Unlikely,DK/REF,0,Neither Agree nor Disagree,Strongly Agree,100,No,DK/REF,TRUE,Unwise and happy
+23000,Female,50,DK/REF,Strongly Approve,Graduate degree,Married,Likely,Not Real At All,5,Somewhat Agree,Somewhat Agree,50,No,Too Low,TRUE,DK/REF
+38000,Male,41,Republican,Neither approve nor disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,No,About Right,TRUE,Unwise and happy
+68000,Other,86,Republican,Strongly Approve,Graduate degree,Married,Unlikely,DK/REF,0,Somewhat Agree,Strongly Agree,25,No,About Right,TRUE,Unwise and happy
+177000,Female,54,Republican,Somewhat Approve,Graduate degree,Married,Unlikely,DK/REF,3,Somewhat Agree,Strongly Agree,6,No,About Right,FALSE,Unwise and happy
+79000,Male,69,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,4,Yes,Too High,TRUE,Unwise and happy
+46000,Female,47,DK/REF,DK/REF,High school,Married,Unlikely,Real and Caused by People,0,DK/REF,Strongly Agree,5,Yes,DK/REF,DK/REF,Unwise and happy
+106000,Male,37,DK/REF,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,4,Neither Agree nor Disagree,Strongly Agree,1,Yes,DK/REF,TRUE,Wise and Unhappy
+73000,Female,38,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+18000,Male,46,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,3,Strongly Disagree,Somewhat Disagree,1,No,About Right,TRUE,Unwise and happy
+17000,Female,52,DK/REF,DK/REF,High school,Married,Unlikely,Real but not Caused by People,0,Strongly Disagree,Somewhat Agree,5,No,DK/REF,FALSE,Wise and Unhappy
+135000,Male,65,DK/REF,Strongly Approve,College degree,Widowed,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Disagree,0,No,Too High,DK/REF,Unwise and happy
+61000,Male,35,DK/REF,DK/REF,College degree,Married,Unlikely,Not Real At All,5,Somewhat Agree,Strongly Agree,2,No,About Right,FALSE,Unwise and happy
+57000,Female,50,Republican,Strongly Approve,College degree,Married,Likely,Not Real At All,3,Somewhat Disagree,Somewhat Disagree,0,No,DK/REF,FALSE,DK/REF
+56000,Female,51,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,200,Yes,Too Low,TRUE,Wise and Unhappy
+14000,Other,96,Independent,Strongly Approve,Graduate degree,Divorced,Likely,Real and Caused by People,5,Strongly Agree,Somewhat Agree,1000,Yes,About Right,TRUE,Unwise and happy
+98000,Male,47,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,7,No,Too Low,TRUE,Unwise and happy
+,Male,30,Independent,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Strongly Agree,Somewhat Agree,5,No,About Right,TRUE,DK/REF
+142000,Female,53,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,Wise and Unhappy
+10000,Male,86,Democrat,Strongly disapprove,Graduate degree,Widowed,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,150,No,Too Low,FALSE,DK/REF
+211000,Female,48,Republican,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,1,Yes,About Right,TRUE,Unwise and happy
+47000,Male,51,Independent,Strongly Approve,High school,Married,Likely,Not Real At All,5,Strongly Disagree,Strongly Agree,0,No,Too High,TRUE,Unwise and happy
+72000,Female,65,DK/REF,Strongly disapprove,High school,Married,Likely,Real and Caused by People,3,Strongly Disagree,Strongly Agree,50,Yes,Too Low,TRUE,Unwise and happy
+39000,Male,45,Independent,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,,Strongly Agree,DK/REF,0,Yes,Too Low,DK/REF,Unwise and happy
+55000,Other,47,Republican,Strongly Approve,Some college,Married,Unlikely,DK/REF,0,Somewhat Agree,Strongly Agree,1,Yes,Too High,TRUE,Unwise and happy
+116000,Male,48,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,5,No,Too Low,FALSE,Unwise and happy
+9000,Other,48,Democrat,Strongly disapprove,High school,Single,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+35000,Male,30,Republican,Strongly Approve,High school,Single,Unlikely,Not Real At All,4,Strongly Agree,Strongly Agree,0,No,About Right,FALSE,Unwise and happy
+5000,Female,48,DK/REF,Somewhat disapprove,Other,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Disagree,30,Yes,Too Low,TRUE,DK/REF
+23000,Female,51,Democrat,Strongly disapprove,Some college,In a relationship,Unlikely,Real but not Caused by People,2,Strongly Agree,Strongly Agree,0,No,About Right,TRUE,Wise and Unhappy
+164000,Male,35,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,DK/REF
+90000,Female,48,Democrat,Somewhat disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Disagree,1,Yes,Too Low,TRUE,Unwise and happy
+9000,Male,22,Independent,Strongly Approve,High school,In a relationship,Likely,Not Real At All,3,Strongly Agree,Strongly Disagree,200,No,About Right,FALSE,Unwise and happy
+131000,Female,51,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Disagree,40,No,Too Low,FALSE,Wise and Unhappy
+,Male,73,Republican,Strongly Approve,Some college,Widowed,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Disagree,5,No,Too High,TRUE,Unwise and happy
+,Female,23,Independent,Strongly disapprove,College degree,Single,Likely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,8,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,51,Republican,Strongly Approve,Some college,Divorced,Unlikely,Not Real At All,5,Strongly Disagree,Strongly Disagree,15,Yes,Too High,TRUE,Wise and Unhappy
+,Male,42,Republican,Strongly Approve,High school,Single,Unlikely,Real and Caused by People,4,Somewhat Agree,Somewhat Agree,1,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,84,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,30,No,Too Low,FALSE,Wise and Unhappy
+,Female,77,Republican,Strongly Approve,DK/REF,Widowed,Likely,DK/REF,0,Somewhat Disagree,DK/REF,260,No,Too High,DK/REF,Unwise and happy
+,Female,37,DK/REF,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,4,Yes,Too Low,FALSE,Unwise and happy
+,Male,50,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,0,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,30,Republican,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,4,Yes,About Right,TRUE,Unwise and happy
+,Female,31,Democrat,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,Yes,About Right,TRUE,Unwise and happy
+,Female,24,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,20,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,26,Independent,Somewhat disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,5,No,Too Low,TRUE,Unwise and happy
+,Male,35,Republican,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,10,No,About Right,FALSE,Wise and Unhappy
+,Female,18,Republican,Somewhat Approve,Some college,In a relationship,Likely,Real but not Caused by People,4,Somewhat Disagree,Somewhat Agree,9,No,Too High,FALSE,Unwise and happy
+,Female,77,Independent,DK/REF,College degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,250,Yes,Too Low,FALSE,Unwise and happy
+,Male,60,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,6,No,Too Low,FALSE,DK/REF
+,Male,58,Republican,Strongly Approve,Some college,Divorced,DK/REF,DK/REF,2,Somewhat Agree,DK/REF,30,No,About Right,TRUE,Unwise and happy
+,Male,41,Independent,Strongly disapprove,Some college,Divorced,Likely,Real but not Caused by People,3,Strongly Agree,Strongly Agree,0,Yes,About Right,TRUE,Unwise and happy
+,Male,71,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Not Real At All,3,Strongly Disagree,Strongly Disagree,0,Yes,About Right,TRUE,DK/REF
+,Female,61,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,0,Yes,Too High,TRUE,Wise and Unhappy
+,Female,34,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,10,No,Too Low,TRUE,Wise and Unhappy
+,Male,61,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,2,Strongly Disagree,Somewhat Disagree,3,No,Too High,TRUE,Wise and Unhappy
+,Male,24,DK/REF,DK/REF,Graduate degree,Single,Likely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,12,No,Too Low,FALSE,Wise and Unhappy
+,Male,70,Independent,Somewhat disapprove,High school,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,2,Yes,DK/REF,TRUE,Unwise and happy
+,Female,21,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,25,No,Too Low,FALSE,Wise and Unhappy
+,Female,67,DK/REF,Strongly disapprove,Some college,Married,Likely,Real and Caused by People,5,Strongly Agree,Somewhat Agree,0,No,About Right,FALSE,Unwise and happy
+,Female,70,Independent,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Somewhat Disagree,Strongly Agree,5,No,About Right,TRUE,Wise and Unhappy
+,Male,80,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,30,No,Too Low,FALSE,Wise and Unhappy
+,Male,41,Independent,Strongly disapprove,High school,Divorced,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Disagree,5,No,Too Low,FALSE,Wise and Unhappy
+,Male,45,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,10,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,54,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,TRUE,Wise and Unhappy
+,Male,36,Independent,Strongly disapprove,Some college,Married,DK/REF,Real and Caused by People,1,Strongly Agree,Strongly Agree,10,No,Too Low,FALSE,Wise and Unhappy
+,Female,38,Independent,Strongly disapprove,Some college,Single,Likely,Not Real At All,1,Somewhat Disagree,Somewhat Disagree,5,Yes,Too Low,TRUE,Unwise and happy
+,Male,42,Independent,Somewhat Approve,College degree,DK/REF,DK/REF,DK/REF,,DK/REF,DK/REF,0,No,DK/REF,DK/REF,Wise and Unhappy
+,Male,23,Democrat,Neither approve nor disapprove,Some college,Single,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,0,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,63,Republican,DK/REF,College degree,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Male,32,Independent,DK/REF,College degree,Single,Likely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,10,No,Too High,FALSE,Wise and Unhappy
+,Female,62,Independent,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,10,No,Too Low,TRUE,Unwise and happy
+,Female,47,Independent,DK/REF,Some college,Divorced,Unlikely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,200,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,34,Independent,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,18,No,Too Low,TRUE,Wise and Unhappy
+,Female,23,Independent,Somewhat Approve,Some college,Single,Unlikely,Real and Caused by People,1,Strongly Disagree,Somewhat Disagree,2,Yes,About Right,FALSE,Wise and Unhappy
+,Male,27,Independent,DK/REF,Some college,In a relationship,Unlikely,Real but not Caused by People,4,DK/REF,DK/REF,20,Yes,About Right,TRUE,Unwise and happy
+,Female,48,Democrat,Strongly disapprove,Some college,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,1,Yes,About Right,TRUE,Unwise and happy
+,Female,36,Democrat,Somewhat Approve,Some college,Married,Unlikely,Not Real At All,3,Strongly Agree,Strongly Agree,2,No,About Right,FALSE,Wise and Unhappy
+,Male,47,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Neither Agree nor Disagree,Somewhat Agree,20,Yes,About Right,DK/REF,Unwise and happy
+,Male,48,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,1,Strongly Agree,Strongly Agree,4,No,Too Low,FALSE,Unwise and happy
+,Male,54,Independent,Strongly disapprove,Graduate degree,In a relationship,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,4,No,Too Low,TRUE,Wise and Unhappy
+,Female,45,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,60,Yes,About Right,FALSE,Unwise and happy
+,Female,50,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Wise and Unhappy
+,Female,35,DK/REF,Neither approve nor disapprove,College degree,Single,Unlikely,DK/REF,2,Somewhat Agree,Strongly Agree,3,Yes,About Right,FALSE,Wise and Unhappy
+,Male,48,Independent,Somewhat disapprove,High school,Separated,Likely,Real and Caused by People,2,Somewhat Disagree,Somewhat Agree,1,No,Too High,FALSE,Unwise and happy
+,Male,50,Independent,DK/REF,High school,Single,Unlikely,Real and Caused by People,,Strongly Disagree,DK/REF,,Yes,Too High,DK/REF,DK/REF
+,Male,38,Independent,DK/REF,Some college,Single,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Disagree,10,No,Too Low,FALSE,Unwise and happy
+,Male,36,Independent,Strongly disapprove,Graduate degree,Single,Likely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,7,No,About Right,FALSE,Unwise and happy
+,Female,67,Democrat,Strongly disapprove,Graduate degree,Widowed,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,70,Yes,Too Low,FALSE,Wise and Unhappy
+176000,Male,38,DK/REF,Neither approve nor disapprove,Graduate degree,Single,Unlikely,DK/REF,3,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Wise and Unhappy
+92000,Male,58,DK/REF,Somewhat disapprove,Graduate degree,Married,Unlikely,Not Real At All,0,DK/REF,Strongly Agree,20,No,Too High,FALSE,Unwise and happy
+117000,Male,42,Republican,Strongly Approve,Some college,In a relationship,Unlikely,Real but not Caused by People,,Strongly Disagree,Somewhat Agree,4,No,DK/REF,TRUE,Unwise and happy
+137000,Male,51,Independent,Somewhat Approve,College degree,Widowed,Unlikely,Not Real At All,0,Somewhat Disagree,Neither Agree nor Disagree,2,No,Too Low,FALSE,Unwise and happy
+39000,Female,48,Independent,Neither approve nor disapprove,Some college,Married,Unlikely,Not Real At All,4,Somewhat Agree,Strongly Agree,40,Yes,Too Low,TRUE,Unwise and happy
+80000,Female,37,Independent,Strongly disapprove,High school,In a relationship,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,100,No,DK/REF,TRUE,Unwise and happy
+60000,Male,50,Democrat,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,No,About Right,TRUE,Wise and Unhappy
+114000,Female,45,Independent,Somewhat Approve,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,30,Yes,Too Low,FALSE,Unwise and happy
+89000,Male,52,Republican,DK/REF,Some college,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,50,No,About Right,FALSE,Unwise and happy
+11000,Female,41,DK/REF,DK/REF,Some college,Divorced,Unlikely,Real and Caused by People,5,Somewhat Agree,Strongly Agree,200,No,DK/REF,TRUE,Unwise and happy
+16000,Female,65,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,2,No,About Right,TRUE,Wise and Unhappy
+125000,Male,53,Republican,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,0,No,Too Low,FALSE,Unwise and happy
+92000,Male,43,Independent,DK/REF,High school,Widowed,DK/REF,Real and Caused by People,4,Somewhat Disagree,Strongly Disagree,0,No,DK/REF,TRUE,Unwise and happy
+161000,Male,28,Independent,Somewhat disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,1,No,About Right,FALSE,Unwise and happy
+74000,Other,22,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,6,No,Too Low,FALSE,Unwise and happy
+148000,Female,58,Independent,Neither approve nor disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,40,No,Too Low,TRUE,Unwise and happy
+85000,Female,58,Republican,Somewhat Approve,High school,Widowed,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+44000,Male,54,Democrat,Strongly Approve,Some college,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,0,No,Too Low,FALSE,Wise and Unhappy
+165000,Male,65,Independent,Somewhat disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,5,No,About Right,FALSE,Unwise and happy
+175000,Other,92,DK/REF,DK/REF,Graduate degree,Married,Unlikely,Real and Caused by People,,Strongly Agree,Strongly Agree,100,Yes,Too Low,TRUE,DK/REF
+14000,Male,65,Independent,Strongly Approve,Graduate degree,In a relationship,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,6,No,Too High,TRUE,Unwise and happy
+179000,Male,51,DK/REF,Strongly Approve,College degree,Married,Unlikely,Not Real At All,1,DK/REF,DK/REF,5,No,DK/REF,FALSE,DK/REF
+62000,Other,56,Democrat,Strongly Approve,High school,Married,Unlikely,Real and Caused by People,3,Strongly Disagree,Strongly Disagree,16,Yes,Too High,TRUE,Unwise and happy
+179000,Female,49,Independent,Somewhat disapprove,College degree,Married,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,15,Yes,Too Low,FALSE,Unwise and happy
+39000,Female,49,Republican,Somewhat Approve,High school,Divorced,Unlikely,Real but not Caused by People,1,Somewhat Agree,Strongly Agree,3,Yes,Too Low,TRUE,Unwise and happy
+85000,Female,63,Independent,Strongly disapprove,High school,Single,Unlikely,DK/REF,0,Strongly Agree,Strongly Agree,0,Yes,DK/REF,DK/REF,Wise and Unhappy
+45000,Female,58,Independent,Somewhat Approve,High school,Single,Likely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,3,No,About Right,TRUE,Wise and Unhappy
+37000,Female,59,DK/REF,DK/REF,Graduate degree,Divorced,Unlikely,Real and Caused by People,1,DK/REF,Somewhat Agree,1,Yes,Too Low,DK/REF,Wise and Unhappy
+148000,Female,60,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,20,No,About Right,FALSE,Unwise and happy
+80000,Female,55,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,3,Somewhat Agree,Strongly Agree,20,Yes,About Right,TRUE,Unwise and happy
+40000,Female,61,Democrat,Strongly disapprove,Some college,Single,Likely,Real but not Caused by People,2,Somewhat Disagree,Strongly Agree,100,No,About Right,TRUE,Wise and Unhappy
+181000,Male,53,Republican,Somewhat disapprove,High school,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,2,Yes,About Right,FALSE,Unwise and happy
+65000,Female,55,Independent,Strongly Approve,College degree,Married,DK/REF,Real and Caused by People,2,Somewhat Agree,Strongly Agree,10,No,DK/REF,DK/REF,Unwise and happy
+76000,Female,57,Democrat,Somewhat disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Disagree,Somewhat Agree,8,Yes,Too Low,TRUE,Unwise and happy
+90000,DK/REF,56,Democrat,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,,Strongly Disagree,Strongly Agree,4,No,About Right,TRUE,Unwise and happy
+74000,Male,49,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,2,Somewhat Disagree,Strongly Agree,12,No,About Right,TRUE,Wise and Unhappy
+162000,Male,50,Republican,Strongly Approve,College degree,Married,Likely,Real but not Caused by People,1,Somewhat Agree,Strongly Disagree,20,No,Too High,FALSE,Unwise and happy
+45000,Male,83,DK/REF,DK/REF,High school,Widowed,Unlikely,Not Real At All,0,DK/REF,Somewhat Agree,12,Yes,Too High,DK/REF,DK/REF
+,Male,45,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,25,No,Too Low,TRUE,Unwise and happy
+,Female,57,Democrat,Strongly disapprove,Some college,Single,Likely,Real and Caused by People,1,Strongly Agree,Strongly Agree,20,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,80,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Somewhat Disagree,Strongly Agree,0,No,DK/REF,DK/REF,Unwise and happy
+,Male,70,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,30,Yes,DK/REF,DK/REF,DK/REF
+,Female,50,DK/REF,DK/REF,High school,Married,Unlikely,Real and Caused by People,4,Somewhat Agree,Strongly Agree,1,No,DK/REF,FALSE,Unwise and happy
+,Male,42,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,12,No,Too Low,TRUE,Wise and Unhappy
+,Male,54,Independent,Strongly disapprove,Some college,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Disagree,12,Yes,DK/REF,TRUE,Unwise and happy
+,Male,72,DK/REF,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,,Somewhat Agree,Strongly Agree,5,No,DK/REF,TRUE,Unwise and happy
+,Female,49,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,12,No,About Right,FALSE,Unwise and happy
+,Male,60,DK/REF,Strongly disapprove,Some college,Single,DK/REF,Real and Caused by People,3,Strongly Agree,Somewhat Agree,6,No,Too Low,DK/REF,Unwise and happy
+,Male,54,Democrat,Somewhat disapprove,High school,Single,Unlikely,DK/REF,,Somewhat Agree,DK/REF,2,DK/REF,DK/REF,FALSE,Unwise and happy
+,Male,54,Republican,Strongly Approve,Some college,Divorced,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Agree,1,No,Too High,FALSE,DK/REF
+,Female,49,DK/REF,Somewhat Approve,High school,Separated,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,Yes,DK/REF,FALSE,Wise and Unhappy
+,Male,27,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,,Strongly Agree,Somewhat Agree,2,No,Too Low,TRUE,Unwise and happy
+,Male,30,DK/REF,Strongly Approve,High school,Married,Likely,Real but not Caused by People,2,DK/REF,Strongly Agree,20,No,DK/REF,FALSE,Wise and Unhappy
+,Male,25,Independent,DK/REF,Other,In a relationship,Unlikely,Real but not Caused by People,2,DK/REF,Strongly Agree,3,No,Too High,DK/REF,Wise and Unhappy
+,Male,60,DK/REF,Strongly Approve,Some college,Married,Likely,Real but not Caused by People,3,Somewhat Agree,Somewhat Disagree,4,Yes,About Right,FALSE,Unwise and happy
+157000,Female,46,Republican,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Disagree,Somewhat Disagree,6,Yes,About Right,TRUE,Wise and Unhappy
+161000,Male,35,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real but not Caused by People,4,Somewhat Agree,Strongly Agree,30,Yes,Too High,TRUE,Wise and Unhappy
+41000,Female,62,Republican,Strongly Approve,Graduate degree,Widowed,Likely,Not Real At All,0,Strongly Disagree,Somewhat Disagree,20,DK/REF,About Right,FALSE,Unwise and happy
+103000,Male,60,Republican,Strongly Approve,College degree,Married,Unlikely,Not Real At All,0,Somewhat Agree,Somewhat Agree,4,No,DK/REF,TRUE,DK/REF
+91000,Male,65,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,0,No,About Right,FALSE,Wise and Unhappy
+188000,Male,47,DK/REF,DK/REF,College degree,Married,Unlikely,DK/REF,1,Somewhat Agree,Strongly Agree,8,No,Too Low,FALSE,Unwise and happy
+21000,Female,43,Independent,Strongly disapprove,High school,In a relationship,Likely,Not Real At All,4,Somewhat Agree,Strongly Agree,4,No,About Right,TRUE,Unwise and happy
+103000,Male,58,Independent,Somewhat Approve,Some college,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,5,No,Too High,FALSE,Unwise and happy
+27000,Male,59,Independent,Neither approve nor disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,16,No,DK/REF,TRUE,Wise and Unhappy
+326000,Female,58,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,40,Yes,Too Low,FALSE,Wise and Unhappy
+74000,Female,66,Democrat,Strongly disapprove,Some college,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,12,Yes,Too Low,FALSE,Unwise and happy
+500000,Male,42,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,15,No,Too Low,FALSE,Wise and Unhappy
+86000,Male,60,Democrat,Strongly disapprove,DK/REF,Married,DK/REF,Real and Caused by People,0,DK/REF,DK/REF,10,No,Too High,DK/REF,Unwise and happy
+77000,Other,55,Independent,Strongly Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,5,Strongly Agree,Strongly Agree,25,Yes,DK/REF,TRUE,Unwise and happy
+500000,Female,70,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,About Right,FALSE,Wise and Unhappy
+47000,Male,47,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,5,Strongly Agree,Strongly Agree,2,No,Too Low,TRUE,Unwise and happy
+88000,Female,62,DK/REF,Neither approve nor disapprove,High school,Separated,Unlikely,Real and Caused by People,3,DK/REF,Somewhat Agree,,No,About Right,FALSE,DK/REF
+56000,Female,53,Independent,Somewhat disapprove,Other,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,30,Yes,About Right,TRUE,Unwise and happy
+68000,Male,72,Republican,Strongly disapprove,Graduate degree,Single,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,10,No,Too Low,TRUE,Unwise and happy
+153000,Female,60,Republican,Neither approve nor disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Somewhat Disagree,5,Yes,DK/REF,FALSE,DK/REF
+64000,Female,51,Republican,Strongly Approve,Some college,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,100,No,About Right,TRUE,Wise and Unhappy
+138000,Male,51,Republican,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,1,Somewhat Disagree,Strongly Agree,6,No,About Right,TRUE,Wise and Unhappy
+79000,Female,50,DK/REF,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,20,Yes,Too Low,FALSE,Wise and Unhappy
+64000,Male,60,Republican,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,3,No,About Right,FALSE,Wise and Unhappy
+124000,Female,50,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,50,No,Too Low,FALSE,Wise and Unhappy
+113000,Female,58,DK/REF,Strongly disapprove,Some college,In a relationship,Likely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,2,No,DK/REF,TRUE,Wise and Unhappy
+155000,Male,55,Independent,Somewhat Approve,College degree,In a relationship,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,6,No,Too Low,FALSE,Wise and Unhappy
+,Male,47,Independent,Somewhat disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,22,No,Too Low,FALSE,Wise and Unhappy
+,Male,61,Independent,Strongly Approve,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,No,Too High,FALSE,Unwise and happy
+,Male,51,Democrat,Strongly disapprove,Some college,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Somewhat Disagree,0,No,Too Low,TRUE,Unwise and happy
+,Male,56,Independent,Strongly disapprove,College degree,Widowed,Unlikely,Real and Caused by People,0,Somewhat Disagree,Strongly Disagree,50,Yes,About Right,FALSE,Wise and Unhappy
+,Female,69,Independent,Strongly Approve,High school,Widowed,Unlikely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,40,No,About Right,TRUE,Unwise and happy
+,Female,50,Independent,Strongly disapprove,College degree,Separated,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,12,No,Too Low,TRUE,Wise and Unhappy
+,Male,52,Republican,Strongly Approve,Graduate degree,Married,Likely,Not Real At All,,Strongly Agree,Somewhat Agree,4,DK/REF,Too High,TRUE,Unwise and happy
+,Female,18,DK/REF,Somewhat disapprove,High school,In a relationship,DK/REF,Real and Caused by People,4,Strongly Disagree,Somewhat Disagree,2,No,Too High,FALSE,Unwise and happy
+,Female,63,Independent,Strongly Approve,Some college,Married,Unlikely,Real but not Caused by People,2,Strongly Agree,Strongly Agree,2,No,Too Low,FALSE,Unwise and happy
+,Female,55,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,60,No,Too High,TRUE,Wise and Unhappy
+13000,Male,45,Democrat,Strongly disapprove,College degree,Married,Likely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,12,No,Too Low,TRUE,Unwise and happy
+100000,Male,50,DK/REF,Strongly Approve,Graduate degree,In a relationship,Unlikely,Real but not Caused by People,0,Strongly Agree,Strongly Agree,12,No,About Right,FALSE,Wise and Unhappy
+,Female,56,Democrat,Strongly disapprove,Other,Married,Likely,Real and Caused by People,2,Somewhat Disagree,Somewhat Agree,1,Yes,Too High,TRUE,DK/REF
+,Female,66,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,20,No,Too Low,FALSE,Wise and Unhappy
+,Male,55,Independent,Neither approve nor disapprove,High school,Married,Unlikely,Real and Caused by People,5,Neither Agree nor Disagree,Strongly Agree,3,No,DK/REF,FALSE,Unwise and happy
+,Female,27,DK/REF,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,17,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,21,Independent,Somewhat Approve,Some college,Single,Likely,Real and Caused by People,3,Strongly Agree,Somewhat Agree,13,No,Too Low,FALSE,Wise and Unhappy
+,Female,58,Democrat,Strongly disapprove,College degree,Divorced,Unlikely,DK/REF,0,Strongly Agree,Strongly Agree,200,Yes,Too Low,DK/REF,DK/REF
+,Female,46,Independent,Strongly disapprove,College degree,Divorced,Likely,Real and Caused by People,1,Strongly Disagree,Strongly Disagree,5,Yes,About Right,FALSE,Unwise and happy
+,Male,37,DK/REF,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,5,Somewhat Agree,Strongly Disagree,7,Yes,About Right,DK/REF,Unwise and happy
+,Male,21,Republican,Somewhat Approve,Some college,Single,Likely,DK/REF,0,Somewhat Disagree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+,Female,33,Independent,Somewhat Approve,College degree,Other,Unlikely,Real and Caused by People,5,Strongly Disagree,Strongly Disagree,50,Yes,About Right,TRUE,Wise and Unhappy
+,Male,50,Republican,Strongly Approve,Graduate degree,Married,Unlikely,Not Real At All,0,Strongly Agree,Strongly Agree,12,No,About Right,FALSE,DK/REF
+,Female,22,DK/REF,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,6,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,45,DK/REF,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Disagree,2,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,33,Republican,DK/REF,Graduate degree,Married,Unlikely,DK/REF,1,Strongly Agree,Strongly Agree,10,No,About Right,FALSE,Wise and Unhappy
+,Female,29,Democrat,Strongly disapprove,College degree,Single,Likely,Real and Caused by People,2,Strongly Agree,Strongly Agree,100,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,30,Democrat,Somewhat Approve,College degree,In a relationship,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,5,No,Too High,TRUE,Wise and Unhappy
+,Male,67,Democrat,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+,Male,57,Independent,Strongly disapprove,Some college,Divorced,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,DK/REF,TRUE,DK/REF
+,Male,20,Democrat,Neither approve nor disapprove,High school,Married,Unlikely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,1,No,Too Low,TRUE,Wise and Unhappy
+,Female,51,DK/REF,DK/REF,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,1,No,About Right,TRUE,Wise and Unhappy
+,Female,48,DK/REF,Somewhat disapprove,Some college,Divorced,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,3,No,DK/REF,TRUE,Wise and Unhappy
+,Male,63,Republican,Strongly Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Strongly Disagree,Strongly Agree,80,No,About Right,FALSE,Unwise and happy
+,Male,72,DK/REF,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,Unwise and happy
+,Female,61,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,1,Somewhat Disagree,Somewhat Disagree,100,Yes,DK/REF,TRUE,Wise and Unhappy
+,Male,59,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,5,No,Too Low,FALSE,Unwise and happy
+,Male,57,Independent,Neither approve nor disapprove,College degree,Married,Likely,Not Real At All,0,DK/REF,Strongly Agree,3,No,About Right,TRUE,Unwise and happy
+,Male,50,DK/REF,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,5,Somewhat Disagree,Strongly Disagree,2,No,Too High,TRUE,DK/REF
+,Female,27,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,25,No,Too Low,TRUE,Wise and Unhappy
+,Male,80,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real but not Caused by People,,Strongly Agree,Strongly Disagree,20,No,Too Low,TRUE,DK/REF
+,Male,83,Republican,Strongly Approve,College degree,Widowed,Unlikely,Not Real At All,0,Somewhat Agree,Strongly Agree,0,No,About Right,TRUE,Wise and Unhappy
+,Male,90,Democrat,Strongly disapprove,College degree,Widowed,Likely,Real and Caused by People,3,Strongly Agree,Strongly Agree,15,No,Too Low,DK/REF,DK/REF
+,Male,24,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,1,No,Too Low,FALSE,Wise and Unhappy
+,Male,70,Independent,Somewhat Approve,High school,Single,Likely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,1,Yes,About Right,TRUE,Wise and Unhappy
+,Male,22,DK/REF,DK/REF,College degree,Single,Unlikely,Real and Caused by People,4,DK/REF,Neither Agree nor Disagree,4,No,About Right,FALSE,DK/REF
+,Male,49,Independent,Strongly disapprove,College degree,Divorced,Likely,Real and Caused by People,0,Strongly Agree,Somewhat Agree,12,Yes,Too Low,TRUE,Unwise and happy
+,Female,23,Democrat,Somewhat disapprove,Some college,In a relationship,Unlikely,Real and Caused by People,2,Somewhat Agree,Strongly Agree,10,No,Too Low,FALSE,Wise and Unhappy
+,Male,24,Democrat,Strongly disapprove,Some college,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,6,Yes,About Right,FALSE,Unwise and happy
+,Female,50,DK/REF,Neither approve nor disapprove,Some college,Married,Unlikely,Real and Caused by People,1,Somewhat Agree,Strongly Agree,0,Yes,DK/REF,DK/REF,DK/REF
+,Male,51,Independent,DK/REF,College degree,Single,Unlikely,DK/REF,0,Strongly Agree,Strongly Agree,2,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,68,Independent,DK/REF,Some college,Widowed,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Somewhat Agree,2,No,Too High,TRUE,DK/REF
+,Male,21,Independent,Somewhat disapprove,Some college,Single,Unlikely,Real but not Caused by People,4,Somewhat Agree,Somewhat Agree,6,No,About Right,TRUE,Unwise and happy
+,Female,34,Democrat,Strongly disapprove,Other,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,6,No,Too Low,TRUE,Wise and Unhappy
+,Male,24,Independent,Strongly Approve,Some college,Single,Likely,Real and Caused by People,1,Somewhat Disagree,Somewhat Disagree,56,Yes,DK/REF,DK/REF,Wise and Unhappy
+422000,Male,46,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Strongly Agree,Somewhat Agree,10,No,About Right,TRUE,Wise and Unhappy
+,Male,75,Democrat,DK/REF,Some college,Married,Likely,Not Real At All,,DK/REF,DK/REF,2,No,Too Low,TRUE,DK/REF
+,Male,18,Independent,Somewhat Approve,Some college,In a relationship,Unlikely,Real and Caused by People,1,Strongly Disagree,Strongly Agree,15,No,About Right,TRUE,Wise and Unhappy
+,Female,55,Democrat,Strongly disapprove,Some college,Married,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Male,45,Independent,Strongly disapprove,High school,Married,Likely,Not Real At All,0,Somewhat Agree,Strongly Agree,5,No,About Right,TRUE,Unwise and happy
+,Male,27,Independent,Somewhat disapprove,High school,In a relationship,Unlikely,Real but not Caused by People,2,Strongly Agree,Strongly Disagree,4,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,89,Republican,Strongly Approve,Some college,Married,Unlikely,Not Real At All,0,Strongly Disagree,Strongly Agree,5,No,Too High,FALSE,Unwise and happy
+,Female,50,DK/REF,DK/REF,Graduate degree,Divorced,Unlikely,Real and Caused by People,0,Neither Agree nor Disagree,Neither Agree nor Disagree,10,DK/REF,DK/REF,TRUE,DK/REF
+,Female,26,Independent,Strongly disapprove,Some college,Married,Unlikely,Not Real At All,3,Strongly Agree,Strongly Agree,2,No,About Right,TRUE,Wise and Unhappy
+,Female,34,Independent,Strongly disapprove,High school,Married,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,0,Yes,DK/REF,FALSE,Unwise and happy
+,Female,26,Independent,Strongly disapprove,College degree,Single,Likely,Real and Caused by People,2,Somewhat Agree,Somewhat Agree,5,Yes,Too Low,FALSE,Wise and Unhappy
+,Male,36,DK/REF,DK/REF,Graduate degree,Married,Likely,DK/REF,3,DK/REF,DK/REF,,Yes,Too Low,FALSE,DK/REF
+,Male,75,Independent,Strongly Approve,Graduate degree,Widowed,Unlikely,Real and Caused by People,0,Strongly Agree,Neither Agree nor Disagree,62,Yes,Too Low,FALSE,Unwise and happy
+,Male,44,Independent,Strongly disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,0,No,Too High,FALSE,Unwise and happy
+,Female,70,Independent,Strongly disapprove,Graduate degree,Single,Unlikely,Real and Caused by People,1,Somewhat Agree,Somewhat Disagree,3,Yes,About Right,FALSE,Unwise and happy
+,Male,79,Independent,Strongly Approve,Some college,Widowed,Unlikely,Real and Caused by People,1,Strongly Disagree,Strongly Agree,25,No,Too Low,TRUE,Unwise and happy
+,Male,40,DK/REF,Strongly disapprove,Graduate degree,Single,Likely,Real and Caused by People,4,Strongly Agree,Strongly Disagree,59,No,Too Low,FALSE,Wise and Unhappy
+,Female,66,Republican,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Disagree,Somewhat Disagree,2,No,DK/REF,DK/REF,Wise and Unhappy
+,Female,53,Independent,Strongly disapprove,High school,Married,Likely,Real but not Caused by People,2,Somewhat Agree,Somewhat Agree,2,Yes,Too High,TRUE,Unwise and happy
+,Male,23,Independent,Strongly disapprove,College degree,In a relationship,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,2,No,Too Low,TRUE,Unwise and happy
+,Male,80,Democrat,Strongly disapprove,College degree,Divorced,Likely,Real and Caused by People,1,Somewhat Agree,Somewhat Agree,1000,No,Too Low,FALSE,Wise and Unhappy
+,Male,26,DK/REF,Neither approve nor disapprove,College degree,Single,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,7,No,Too Low,FALSE,Wise and Unhappy
+,Male,45,Independent,Neither approve nor disapprove,Some college,Divorced,Likely,Real and Caused by People,,Somewhat Agree,Strongly Agree,5,No,DK/REF,FALSE,Wise and Unhappy
+140000,Female,62,Democrat,Somewhat Approve,Some college,Married,Likely,Real and Caused by People,2,Strongly Disagree,Strongly Agree,4,No,Too High,FALSE,Unwise and happy
+105000,Male,75,Democrat,DK/REF,Some college,Married,Likely,Real and Caused by People,2,Somewhat Disagree,Strongly Agree,1,Yes,About Right,TRUE,Wise and Unhappy
+,Male,32,Independent,Neither approve nor disapprove,High school,In a relationship,Unlikely,Real and Caused by People,4,Strongly Agree,Strongly Agree,0,Yes,Too Low,TRUE,Unwise and happy
+,Female,46,Independent,Strongly Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Somewhat Agree,1,No,About Right,DK/REF,Unwise and happy
+,Female,55,Democrat,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,300,Yes,Too Low,TRUE,Wise and Unhappy
+,Female,51,Republican,Strongly Approve,Some college,In a relationship,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,3,No,DK/REF,TRUE,DK/REF
+,Male,39,Democrat,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,4,No,Too Low,FALSE,Unwise and happy
+127000,Female,50,DK/REF,Somewhat disapprove,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,12,No,Too Low,FALSE,Unwise and happy
+84000,Female,45,Independent,Somewhat Approve,Graduate degree,Married,Unlikely,Real but not Caused by People,3,Somewhat Disagree,Strongly Agree,15,Yes,Too Low,TRUE,Unwise and happy
+104000,Male,59,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,30,No,DK/REF,FALSE,Unwise and happy
+,Female,50,DK/REF,DK/REF,College degree,Single,Unlikely,Not Real At All,,Somewhat Agree,Somewhat Disagree,,Yes,DK/REF,FALSE,Unwise and happy
+,Male,29,Democrat,DK/REF,College degree,Married,DK/REF,Real and Caused by People,0,Somewhat Agree,Strongly Agree,5,Yes,About Right,FALSE,Unwise and happy
+,Male,87,Democrat,DK/REF,Other,Married,Likely,Real and Caused by People,0,Neither Agree nor Disagree,Neither Agree nor Disagree,3,No,Too High,TRUE,Unwise and happy
+,Male,29,Independent,Strongly disapprove,College degree,Single,Unlikely,Real and Caused by People,1,Strongly Agree,Strongly Agree,3,No,Too Low,FALSE,Unwise and happy
+,Female,25,Independent,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,3,Strongly Agree,Strongly Agree,0,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,39,DK/REF,Strongly disapprove,Graduate degree,Married,Likely,DK/REF,0,DK/REF,Somewhat Disagree,,No,Too Low,DK/REF,Unwise and happy
+,Female,40,Independent,Somewhat Approve,College degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,4,No,About Right,FALSE,Unwise and happy
+,Male,40,Republican,Somewhat Approve,High school,Married,Unlikely,DK/REF,3,DK/REF,Somewhat Agree,0,No,About Right,FALSE,DK/REF
+,Female,57,Republican,Strongly Approve,High school,Divorced,Unlikely,Real and Caused by People,0,Somewhat Disagree,Somewhat Agree,4,Yes,DK/REF,TRUE,Unwise and happy
+,Male,19,Independent,Somewhat Approve,Some college,Single,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Agree,5,Yes,About Right,FALSE,Unwise and happy
+,Female,54,Democrat,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Strongly Agree,7,No,Too Low,FALSE,Wise and Unhappy
+,Female,18,Democrat,Strongly disapprove,High school,Single,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,4,Yes,Too Low,FALSE,Wise and Unhappy
+,Female,65,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,40,No,Too Low,FALSE,DK/REF
+,Female,89,Democrat,Neither approve nor disapprove,Some college,Widowed,Likely,Real and Caused by People,0,Strongly Agree,Strongly Agree,5,No,DK/REF,TRUE,Wise and Unhappy
+,Male,70,Independent,Somewhat disapprove,Some college,Single,Unlikely,Not Real At All,,DK/REF,DK/REF,,No,Too Low,TRUE,Unwise and happy
+,Male,41,Independent,Strongly Approve,Some college,Married,Likely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy
+,Male,65,Democrat,DK/REF,High school,Separated,Unlikely,Real but not Caused by People,0,DK/REF,Strongly Agree,0,Yes,DK/REF,TRUE,DK/REF
+,Male,64,Democrat,Somewhat Approve,High school,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Disagree,0,No,About Right,TRUE,Unwise and happy
+,Female,38,Independent,Strongly disapprove,College degree,Married,Unlikely,Real and Caused by People,3,Somewhat Agree,Somewhat Agree,3,Yes,Too Low,TRUE,Wise and Unhappy
+,Male,78,Independent,Strongly Approve,Some college,Married,Unlikely,Real and Caused by People,0,Strongly Agree,Strongly Agree,3,No,Too Low,TRUE,Unwise and happy
+,Female,26,Independent,Somewhat disapprove,College degree,In a relationship,Unlikely,Real but not Caused by People,3,Strongly Agree,Somewhat Agree,1,Yes,Too Low,TRUE,Unwise and happy
+,Male,59,Republican,Somewhat Approve,Some college,Divorced,Unlikely,Real but not Caused by People,0,DK/REF,Strongly Agree,0,Yes,About Right,FALSE,Unwise and happy
+,Male,18,Independent,DK/REF,High school,Single,Unlikely,Real and Caused by People,3,Somewhat Agree,Strongly Agree,15,No,Too Low,FALSE,Unwise and happy
+,Other,41,DK/REF,DK/REF,College degree,Married,Likely,Real but not Caused by People,0,Neither Agree nor Disagree,Strongly Agree,4,No,Too Low,FALSE,Wise and Unhappy
+,Male,49,Republican,Strongly disapprove,Some college,Single,Likely,Real and Caused by People,,Somewhat Agree,Somewhat Agree,10,Yes,Too Low,TRUE,Wise and Unhappy
+,Other,30,Democrat,Strongly Approve,Some college,Divorced,Unlikely,Real and Caused by People,2,Strongly Agree,Strongly Disagree,9.5,No,Too Low,FALSE,Wise and Unhappy
+,Male,52,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real and Caused by People,1,Somewhat Disagree,Strongly Agree,20,No,Too Low,TRUE,Wise and Unhappy
+,Female,66,Republican,Strongly Approve,High school,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,10,No,Too High,TRUE,Unwise and happy
+,Male,44,Independent,Strongly Approve,College degree,Married,Likely,Real but not Caused by People,0,Somewhat Agree,Somewhat Agree,3,No,Too High,FALSE,Wise and Unhappy
+,Male,65,Democrat,Strongly disapprove,Some college,Widowed,Unlikely,Real and Caused by People,0,Strongly Disagree,Strongly Agree,0,No,Too Low,DK/REF,Unwise and happy
+,Female,81,Republican,DK/REF,Some college,Widowed,Unlikely,Not Real At All,,Strongly Agree,Strongly Agree,5,No,About Right,TRUE,DK/REF
+,Female,59,Republican,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Agree,Strongly Agree,10,No,About Right,TRUE,Unwise and happy
+,Male,25,Independent,Somewhat Approve,College degree,Married,Unlikely,Real but not Caused by People,2,Somewhat Agree,Strongly Agree,20,No,Too High,FALSE,Unwise and happy
+,Female,22,Independent,Somewhat Approve,College degree,Single,Unlikely,Not Real At All,2,Somewhat Disagree,Somewhat Agree,10,No,Too Low,TRUE,Wise and Unhappy
+,Other,34,Republican,Strongly disapprove,College degree,Single,DK/REF,Real and Caused by People,4,Somewhat Disagree,Strongly Agree,10,No,Too High,TRUE,Wise and Unhappy
+,Male,74,Republican,Strongly Approve,Some college,Married,Unlikely,Real and Caused by People,0,Somewhat Agree,Neither Agree nor Disagree,3,No,Too High,FALSE,Wise and Unhappy
+,Male,60,Independent,Strongly disapprove,Graduate degree,Married,Unlikely,Real but not Caused by People,0,Somewhat Disagree,Strongly Agree,4,Yes,Too Low,TRUE,Unwise and happy
+,Male,46,DK/REF,Strongly Approve,High school,Married,Likely,Not Real At All,3,Strongly Agree,Strongly Agree,0,No,About Right,TRUE,Unwise and happy

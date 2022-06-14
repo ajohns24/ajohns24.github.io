@@ -1,0 +1,11 @@
+"artist_name","track_name","acousticness","danceability","duration_ms","energy","instrumentalness","liveness","loudness","speechiness","tempo","valence"
+"Antonio Vivaldi","Concerto grosso in D Minor, Op. 3 No. 11, RV 565: I. Allegro - Adagio e spiccato - Allegro (Live)",0.646,0.34,235060,0.415,0.901,0.115,-11.963,0.0379,118.633,0.131
+"Carrie Underwood","Ghosts On The Stereo",0.00714,0.486,253600,0.825,0,0.399,-3.807,0.0413,134.114,0.404
+"Curren$y","Worth Living",0.219,0.493,209215,0.769,0,0.132,-6.576,0.431,138.736,0.52
+"Drake","Final Fantasy",0.422,0.5,219960,0.448,8.03e-06,0.115,-10.977,0.442,144.204,0.104
+"Fleetwood Mac","The Chain - Remastered",0.008,0.555,269813,0.607,0.0054,0.0968,-9.403,0.0439,151.886,0.526
+"Grateful Dead","One More Saturday Night - Live at Portland Memorial Coliseum, Portland, OR 5/19/74",0.701,0.584,290973,0.743,0.0165,0.724,-7.941,0.0469,163.989,0.947
+"J. Cole","Motiv8",0.135,0.869,133922,0.385,0,0.0931,-7.801,0.297,149.897,0.596
+"John Prine","Mexican Home",0.302,0.52,276507,0.548,0,0.647,-13.514,0.028,148.552,0.921
+"Ludwig van Beethoven","Piano Sonata No. 1 in F Minor, Op. 2, No. 1: III. Menuetto: Allegretto",0.988,0.493,211227,0.162,0.92,0.275,-22.595,0.039,109.392,0.39
+"Pyotr Ilyich Tchaikovsky","Symphony No. 2 in C Minor, Op. 17 ""Little Russian"": II. Andantino marziale, quasi moderato",0.948,0.305,371773,0.102,0.955,0.109,-22.125,0.0375,113.981,0.116

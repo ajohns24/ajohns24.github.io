@@ -1,0 +1,35 @@
+"album_name","album_release_date","track_name","track_number","danceability","energy","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","duration_ms","track_popularity"
+"Closer","1980","Atrocity Exhibition - 2007 Remastered Version",1,0.565,0.767,-7.348,"major",0.052,0.00645,0.0438,0.0765,0.787,126.435,364760,45
+"Closer","1980","Isolation - 2007 Remastered Version",2,0.544,0.783,-8.12,"major",0.054,0.048,0.00734,0.0917,0.697,151.522,175093,51
+"Closer","1980","Passover - 2007 Remastered Version",3,0.773,0.577,-11.936,"major",0.0419,0.0495,0.0154,0.0543,0.941,127.977,285000,39
+"Closer","1980","Colony - 2007 Remastered Version",4,0.6,0.88,-7.292,"major",0.0445,0.00559,0.46,0.656,0.808,137.612,235053,38
+"Closer","1980","A Means To An End - 2007 Remastered Version",5,0.655,0.786,-7.946,"minor",0.0287,0.0389,0.576,0.0527,0.752,130.549,249000,43
+"Closer","1980","Heart And Soul - 2007 Remastered Version",6,0.64,0.611,-9.817,"major",0.0284,0.211,0.756,0.0942,0.68,149.774,353106,42
+"Closer","1980","Twenty Four Hours - 2007 Remastered Version",7,0.363,0.879,-8.955,"major",0.0439,0.0066,0.158,0.186,0.647,131.73,268013,41
+"Closer","1980","The Eternal - 2007 Remastered Version",8,0.507,0.474,-14.043,"major",0.0516,0.745,0.1,0.106,0.327,109.574,364293,39
+"Closer","1980","Decades - 2007 Remastered Version",9,0.572,0.538,-9.206,"major",0.0459,0.000489,0.511,0.142,0.436,107.089,374413,46
+"Les Bains Douches","2007-03-28","Disorder",1,0.228,0.943,-13.151,"major",0.0697,0.00057,0.946,0.135,0.303,179.472,204347,41
+"Les Bains Douches","2007-03-28","Love Will Tear Us Apart",2,0.177,0.792,-12.445,"major",0.11,0.000314,0.766,0.112,0.612,162.829,201093,41
+"Les Bains Douches","2007-03-28","Insight",3,0.294,0.771,-12.073,"major",0.0375,0.0131,0.831,0.348,0.55,136.691,209573,34
+"Les Bains Douches","2007-03-28","Shadowplay",4,0.392,0.89,-13.575,"major",0.0643,0.000224,0.447,0.43,0.171,149.173,229267,35
+"Les Bains Douches","2007-03-28","Transmission",5,0.191,0.759,-12.72,"major",0.118,0.000175,0.033,0.146,0.456,155.168,200067,41
+"Les Bains Douches","2007-03-28","Day of the Lords",6,0.31,0.9,-11.832,"major",0.0856,5.48e-05,0.0342,0.178,0.13,119.863,286133,33
+"Les Bains Douches","2007-03-28","Twenty Four Hours",7,0.368,0.692,-15.279,"minor",0.0499,0.00815,0.845,0.125,0.773,138.305,255093,31
+"Les Bains Douches","2007-03-28","These Days",8,0.351,0.862,-13.685,"minor",0.0425,0.00104,0.005,0.249,0.949,156.219,227253,32
+"Les Bains Douches","2007-03-28","A Means to an End",9,0.369,0.755,-15.781,"minor",0.0498,0.000118,0.775,0.521,0.407,130.093,257347,30
+"Les Bains Douches","2007-03-28","Wilderness",10,0.494,0.516,-16.306,"minor",0.0646,0.151,0.77,0.12,0.775,119.634,166240,29
+"Les Bains Douches","2007-03-28","New Dawn Fades",11,0.342,0.463,-17.039,"major",0.0452,0.329,0.851,0.118,0.345,152.029,278787,30
+"Les Bains Douches","2007-03-28","The Eternal",12,0.37,0.566,-16.658,"minor",0.0849,0.0293,0.842,0.292,0.505,104.453,494907,30
+"Les Bains Douches","2007-03-28","Heart and Soul",13,0.219,0.681,-8.96,"major",0.0623,0.000131,0.342,0.68,0.366,83.152,219440,28
+"Les Bains Douches","2007-03-28","Warsaw",14,0.377,0.874,-13.055,"minor",0.0917,0.0757,0.959,0.361,0.273,166.396,161027,26
+"Les Bains Douches","2007-03-28","Colony",15,0.359,0.752,-12.768,"major",0.289,0.102,0.862,0.116,0.692,143.95,239547,24
+"Unknown Pleasures","1979-06-01","Disorder - 2007 Remastered Version",1,0.32,0.798,-7.078,"minor",0.124,0.00033,0.692,0.176,0.74,84.696,209040,63
+"Unknown Pleasures","1979-06-01","Day Of The Lords - 2007 Remastered Version",2,0.317,0.599,-8.434,"major",0.0321,1.9e-05,0.897,0.122,0.113,124.492,287573,51
+"Unknown Pleasures","1979-06-01","Candidate - 2007 Remastered Version",3,0.586,0.27,-13.168,"minor",0.0363,0.0117,0.757,0.0943,0.227,134.819,187880,48
+"Unknown Pleasures","1979-06-01","Insight - 2007 Remastered Version",4,0.636,0.476,-12.582,"major",0.0348,0.0211,0.805,0.522,0.164,131.22,266280,46
+"Unknown Pleasures","1979-06-01","New Dawn Fades - 2007 Remastered Version",5,0.387,0.525,-9.634,"major",0.035,0.00236,0.769,0.251,0.258,78.339,291706,52
+"Unknown Pleasures","1979-06-01","She's Lost Control - 2007 Remastered Version",6,0.485,0.846,-7.63,"minor",0.0528,0.0157,0.0287,0.0766,0.743,144.246,237013,59
+"Unknown Pleasures","1979-06-01","Shadowplay - 2007 Remastered Version",7,0.433,0.756,-7.855,"major",0.0565,0.000997,0.761,0.124,0.117,145.443,233720,56
+"Unknown Pleasures","1979-06-01","Wilderness - 2007 Remastered Version",8,0.584,0.651,-8.609,"major",0.0337,0.00144,0.893,0.194,0.492,120.023,160173,44
+"Unknown Pleasures","1979-06-01","Interzone - 2007 Remastered Version",9,0.478,0.783,-7.346,"major",0.0419,0.000126,0.582,0.225,0.746,156.337,137653,46
+"Unknown Pleasures","1979-06-01","I Remember Nothing - 2007 Remastered Version",10,0.398,0.421,-10.528,"major",0.0346,0.0548,0.707,0.114,0.302,144.708,355186,43
