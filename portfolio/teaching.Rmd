@@ -27,7 +27,7 @@ The courses I teach at Macalester are listed below.  I'm always open to new idea
 
 - **STAT 155: Introduction to Statistical Modeling**    
     A modern alternative to the traditional introductory course.  By emphasizing statistical literacy and computing, STAT 155 covers traditional topics (eg: confidence intervals and hypothesis tests) in the multivariate regression modeling context.        
-    [Most recent course manual.](https://ajohns24.github.io/155_Spring_2019/)
+    [Most recent course manual.](https://ajohns24.github.io/155_Spring_2022/)
     
 
 \
@@ -43,8 +43,7 @@ The courses I teach at Macalester are listed below.  I'm always open to new idea
 
 
 - **MATH/STAT 354: Probability**    
-    An introduction to probability theory and application.  Fundamental topics include set theory, combinatorics, conditional probability, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems.  Special topics vary and include computer simulation, stochastic processes, and advanced applications.    
-    [Most recent course manual.](https://ajohns24.github.io/354_Spring_20/)  Disclaimer: This is from Spring 2020, thus the latter half of material might normally look quite different.
+    An introduction to probability theory and application.  Fundamental topics include set theory, combinatorics, conditional probability, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems.  Special topics vary and include computer simulation, stochastic processes, and advanced applications.
 
 
 \
@@ -53,7 +52,7 @@ The courses I teach at Macalester are listed below.  I'm always open to new idea
 
 - **STAT 454: Bayesian Statistics**    
     I developed Macalester's first Bayesian course.  Course topics include Bayesian philosophy, posterior inference, hierarchical models, and MCMC computing techniques. Please see the **Bayes' Rules!** section for information about a book I'm co-writing for courses such as mine.    
-    [Most recent course manual.](https://ajohns24.github.io/454_Spring_20/)  Disclaimer: This is from Spring 2020, thus the latter half of material might normally look quite different.
+    [Most recent course manual.](https://ajohns24.github.io/454_Fall_21/)
 
 
 \
