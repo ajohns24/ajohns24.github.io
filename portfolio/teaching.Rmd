@@ -36,7 +36,7 @@ The courses I teach at Macalester are listed below.  I'm always open to new idea
 
 - **STAT 253: Statistical Machine Learning**    
     A sequel to STAT 155. Topics include supervised learning techniques (including regression and classification) and unsupervised learning techniques (including clustering and dimension reduction).    
-    [Most recent course manual.](https://ajohns24.github.io/253_Fall_2019/)
+    [Most recent course manual.](https://ajohns24.github.io/253_Fall_2020/)
  
 \
 
