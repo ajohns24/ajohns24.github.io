@@ -32,6 +32,11 @@ And yes, it's really called **Bayes Rules!**.  *With* an exclamation point. This
 \
 
 
+- **Where can you learn more about this project?**    
+    Other information about this project is posted at [https://bayes-rules.github.io/](https://bayes-rules.github.io/).
+    
+
+\
 
 
 - **Why did we write this book?**    
