@@ -10,12 +10,12 @@ weight: 2
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-I'm currently collaborating on an open source introduction to Bayesian Statistics.
+I co-authored an open source introduction to Bayesian Statistics.
 
 <!--more-->
 
 
-I'm currently collaborating on an open source introductory text for Bayesian Statistics.  And yes, it's really called **Bayes Rules!**.  *With* an exclamation point. This is a joint project with the fantastic [Miles Ott](https://milesott.com/) (@Miles_Ott) and [Mine Dogucu](https://mdogucu.ics.uci.edu/) (@MineDogucu).  This is us at our first writing retreat:
+And yes, it's really called **Bayes Rules!**.  *With* an exclamation point. This is a joint project with the fantastic [Miles Ott](https://milesott.com/) (@Miles_Ott) and [Mine Dogucu](https://mdogucu.ics.uci.edu/) (@MineDogucu).  This is us at our first writing retreat:
 
 ![](/portfolio/bayes_rules_files/bayes_band.jpeg)
 
@@ -25,8 +25,8 @@ I'm currently collaborating on an open source introductory text for Bayesian Sta
 
 
 
-- **What form will the book take?**    
-    A print version of *Bayes Rules!* will be made available by CRC press.  We'll also have an open access (free!) and open source version available via rbookdown with github.
+- **Where's the book?**    
+    An open-source version is available at [bayesrulesbook.com](bayesrulesbook.com). It is also available in print, published by CRC press.
 
 
 \
@@ -34,24 +34,16 @@ I'm currently collaborating on an open source introductory text for Bayesian Sta
 
 
 
-- **Why are we writing this book?**    
+- **Why did we write this book?**    
     The popularity of Bayesian methodology has outpaced the curriculum needed to support it. Though some resources for learning Bayes do exist, many are targeted at the graduate level. This needn't be the case!  We want to make Bayesian methodology accessible to undergraduate students and practitioners with comparable experience.
     
     
-\
-
-
-
-- **When will the book be available?**    
-    The open access version should hopefully be online by the end of 2020.  However, time is rather unpredictable these days.
-
-
 
 
 \
 
 
-- **What are our guiding principles in writing this book?**    
+- **What are the guiding principles behind this book?**    
     - We believe that **people learn by doing**, thus our book is data driven and introduces readers to the tools needed to *do* Bayesian statistics. To this end, we use `rstan` and associated R packages.
     - We understand that **Bayesian statistics doesn't exist in a vacuum**, thus covering Bayesian methodology devoid of context would be irresponsible. Throughout the book, we weave in discussions of ethical and practical considerations of Bayesian analysis.
     - Partly informed by our own experiences in this field, we are dedicated to making the Bayesian Statistics community more **inclusive**.  We want all of our readers to be excited about Bayesian Statistics.  We want all of our readers to feel engaged in the broader Bayesian community.  We are hopeful that, from our delivery of the material to the examples we choose, this book will extend that invitation.      
