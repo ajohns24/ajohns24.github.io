@@ -10,7 +10,7 @@ weight: 2
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-I co-authored an open source introduction to Bayesian Statistics.
+I'm the co-author of *Bayes Rules! An introduction to applied Bayesian modeling*.
 
 <!--more-->
 
@@ -26,7 +26,7 @@ And yes, it's really called **Bayes Rules!**.  *With* an exclamation point. This
 
 
 - **Where's the book?**    
-    An open-source version is available at [bayesrulesbook.com](bayesrulesbook.com). It is also available in print, published by CRC press.
+    An open-source version is available at [bayesrulesbook.com](bayesrulesbook.com). It is also available in print, published by CRC press, [here](https://www.routledge.com/Bayes-Rules-An-Introduction-to-Applied-Bayesian-Modeling/Johnson-Ott-Dogucu/p/book/9780367255398).
 
 
 \
